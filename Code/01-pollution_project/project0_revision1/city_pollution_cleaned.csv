@@ -1,0 +1,2973 @@
+country,city,city_country,mean_pm10_ug_per_m3,year,mean_pm2.5_ug_per_m3,year2
+Afghanistan,Mazar-e Sharif,"Mazar-e Sharif, Afghanistan",334,2009,68,2009
+Afghanistan,Kabul,"Kabul, Afghanistan",260,2009,86,2009
+Albania,TIRANA,"TIRANA, Albania",31,2013,16,2013
+Andorra,Escaldes-Engordany,"Escaldes-Engordany, Andorra",18,2014,11,2014
+Argentina,Buenos Aires,"Buenos Aires, Argentina",26,2015,14,2015
+Australia,Geraldton,"Geraldton, Australia",22,2014,9,2014
+Australia,Palmerston,"Palmerston, Australia",21,2014,9,2014
+Australia,Muswellbrook,"Muswellbrook, Australia",21,2014,9,2014
+Australia,Singleton,"Singleton, Australia",21,2014,9,2014
+Australia,Wagga Wagga,"Wagga Wagga, Australia",20,2014,7,2014
+Australia,Moranbah,"Moranbah, Australia",20,2014,8,2014
+Australia,La Trobe Valley,"La Trobe Valley, Australia",19,2013,9,2014
+Australia,Ayr,"Ayr, Australia",19,2014,8,2014
+Australia,Upper Hunter,"Upper Hunter, Australia",19,2014,8,2014
+Australia,Newcastle,"Newcastle, Australia",19,2014,8,2014
+Australia,Collie,"Collie, Australia",19,2014,8,2014
+Australia,Darwin,"Darwin, Australia",18,2014,8,2014
+Australia,"Launceston, Tasmania","Launceston, Tasmania, Australia",18,2013,8,2013
+Australia,Melbourne,"Melbourne, Australia",18,2013,7,2014
+Australia,Geelong,"Geelong, Australia",17,2014,7,2014
+Australia,Lower Hunter,"Lower Hunter, Australia",17,2014,7,2014
+Australia,Mackay,"Mackay, Australia",17,2014,7,2014
+Australia,Wollongong,"Wollongong, Australia",17,2014,7,2014
+Australia,Busselton,"Busselton, Australia",16,2014,7,2014
+Australia,Perth,"Perth, Australia",16,2014,7,2014
+Australia,Townsville,"Townsville, Australia",16,2014,7,2014
+Australia,Adelaide,"Adelaide, Australia",16,2014,7,2014
+Australia,Sydney,"Sydney, Australia",16,2014,7,2014
+Australia,Whyalla,"Whyalla, Australia",16,2014,6,2014
+Australia,Bunbury,"Bunbury, Australia",16,2014,7,2014
+Australia,Albany,"Albany, Australia",15,2014,6,2014
+Australia,Albury,"Albury, Australia",15,2014,6,2014
+Australia,Canberra,"Canberra, Australia",15,2014,6,2014
+Australia,Brisbane,"Brisbane, Australia",15,2014,5,2014
+Australia,Tamworth,"Tamworth, Australia",15,2014,6,2014
+Australia,Mount Isa,"Mount Isa, Australia",15,2014,6,2014
+Australia,Wyong,"Wyong, Australia",15,2014,6,2014
+Australia,"Devonport, Tasmania","Devonport, Tasmania, Australia",14,2013,6,2013
+Australia,Bathurst,"Bathurst, Australia",14,2014,6,2014
+Australia,"Hobart, Tasmania","Hobart, Tasmania, Australia",14,2013,6,2013
+Australia,Gladstone,"Gladstone, Australia",14,2014,4,2014
+Australia,Central Coast,"Central Coast, Australia",12,2014,5,2014
+Austria,KLOSTERNEUBURG,"KLOSTERNEUBURG, Austria",26,2013,19,2013
+Austria,STEYREGG,"STEYREGG, Austria",26,2013,19,2013
+Austria,LINZ,"LINZ, Austria",25,2013,17,2013
+Austria,FüRSTENFELD,"FüRSTENFELD, Austria",25,2013,18,2013
+Austria,WIEN,"WIEN, Austria",25,2013,18,2013
+Austria,WOLFSBERG,"WOLFSBERG, Austria",25,2013,18,2013
+Austria,WEIZ,"WEIZ, Austria",25,2013,18,2013
+Austria,SALZBURG,"SALZBURG, Austria",25,2013,15,2013
+Austria,GRAZ,"GRAZ, Austria",24,2013,18,2013
+Austria,SANKT POELTEN,"SANKT POELTEN, Austria",24,2013,17,2013
+Austria,HALL IN TIROL,"HALL IN TIROL, Austria",24,2013,17,2013
+Austria,HALLEIN,"HALLEIN, Austria",24,2013,17,2013
+Austria,SANKT ANDRä IM LAVANTTAL,"SANKT ANDRä IM LAVANTTAL, Austria",24,2013,17,2013
+Austria,GROSSENZERSDORF,"GROSSENZERSDORF, Austria",23,2013,17,2013
+Austria,BRUCK AN DER MUR,"BRUCK AN DER MUR, Austria",23,2013,17,2013
+Austria,KREMS,"KREMS, Austria",23,2013,17,2013
+Austria,HARTBERG,"HARTBERG, Austria",23,2013,17,2013
+Austria,EISENSTADT,"EISENSTADT, Austria",23,2013,18,2013
+Austria,HIMBERG,"HIMBERG, Austria",23,2013,17,2013
+Austria,SCHWECHAT,"SCHWECHAT, Austria",23,2013,17,2013
+Austria,FELDKIRCH,"FELDKIRCH, Austria",23,2013,16,2013
+Austria,WIENER NEUDORF,"WIENER NEUDORF, Austria",23,2013,16,2013
+Austria,STOCKERAU,"STOCKERAU, Austria",23,2013,16,2013
+Austria,KLAGENFURT,"KLAGENFURT, Austria",23,2013,13,2013
+Austria,WELS,"WELS, Austria",22,2013,17,2013
+Austria,TULLN,"TULLN, Austria",22,2013,16,2013
+Austria,DEUTSCHLANDSBERG,"DEUTSCHLANDSBERG, Austria",22,2013,16,2013
+Austria,SANKT VEIT AN DER GLAN,"SANKT VEIT AN DER GLAN, Austria",21,2013,15,2013
+Austria,TRAISMAIER,"TRAISMAIER, Austria",21,2013,15,2013
+Austria,ZELTWEG,"ZELTWEG, Austria",21,2013,15,2013
+Austria,KNITTELFELD,"KNITTELFELD, Austria",21,2013,15,2013
+Austria,HöCHST,"HöCHST, Austria",21,2013,15,2013
+Austria,VöCKLABRUCK,"VöCKLABRUCK, Austria",20,2013,15,2013
+Austria,Gänserndorf,"Gänserndorf, Austria",20,2013,15,2013
+Austria,MöDLING,"MöDLING, Austria",20,2013,15,2013
+Austria,INNSBRUCK,"INNSBRUCK, Austria",20,2013,14,2013
+Austria,EBENTHAL,"EBENTHAL, Austria",20,2013,14,2013
+Austria,LUSTENAU,"LUSTENAU, Austria",20,2013,14,2013
+Austria,SPITTAL AN DER DRAU,"SPITTAL AN DER DRAU, Austria",20,2013,14,2013
+Austria,SCHWAZ,"SCHWAZ, Austria",20,2013,14,2013
+Austria,KEMATEN,"KEMATEN, Austria",20,2013,14,2013
+Austria,BIEDERMANNSDORF,"BIEDERMANNSDORF, Austria",20,2013,14,2013
+Austria,LIEZEN,"LIEZEN, Austria",20,2013,14,2013
+Austria,WöRGL,"WöRGL, Austria",20,2013,14,2013
+Austria,LIENZ,"LIENZ, Austria",19,2013,14,2013
+Austria,STEYR,"STEYR, Austria",19,2013,14,2013
+Austria,LEOBEN,"LEOBEN, Austria",19,2013,14,2013
+Austria,VILLACH,"VILLACH, Austria",19,2013,14,2013
+Austria,DORNBIRN,"DORNBIRN, Austria",19,2013,13,2013
+Austria,IMST,"IMST, Austria",18,2013,13,2013
+Austria,BAD VöSLAU,"BAD VöSLAU, Austria",18,2013,13,2013
+Austria,WIENER NEUSTADT,"WIENER NEUSTADT, Austria",17,2013,13,2013
+Austria,KAPFENBERG,"KAPFENBERG, Austria",17,2013,12,2013
+Austria,BLUDENZ,"BLUDENZ, Austria",17,2013,12,2013
+Austria,KUFSTEIN,"KUFSTEIN, Austria",17,2013,12,2013
+Austria,MüRZZUSCHLAG,"MüRZZUSCHLAG, Austria",17,2013,12,2013
+Austria,JUDENBURG,"JUDENBURG, Austria",17,2013,12,2013
+Austria,BAD ISCHL,"BAD ISCHL, Austria",15,2013,11,2013
+Austria,ARNOLDSTEIN,"ARNOLDSTEIN, Austria",14,2013,10,2013
+Austria,HEITERWANG,"HEITERWANG, Austria",13,2013,9,2013
+Bahrain,Hamad Town,"Hamad Town, Bahrain",317,2012,65,2012
+Bahrain,Ma'ameer,"Ma'ameer, Bahrain",257,2012,63,2012
+Bahrain,Ras Hayan,"Ras Hayan, Bahrain",250,2012,43,2012
+Bahrain,Nabih Saleh,"Nabih Saleh, Bahrain",244,2012,58,2012
+Bahrain,Hidd,"Hidd, Bahrain",178,2012,41,2012
+Bangladesh,Narayangonj,"Narayangonj, Bangladesh",191,2014,105,2014
+Bangladesh,Sylhet,"Sylhet, Bangladesh",169,2014,61,2014
+Bangladesh,Dhaka,"Dhaka, Bangladesh",158,2014,89,2014
+Bangladesh,Gazipur,"Gazipur, Bangladesh",154,2014,88,2014
+Bangladesh,Barisal,"Barisal, Bangladesh",142,2014,85,2014
+Bangladesh,Chittagong,"Chittagong, Bangladesh",134,2014,95,2014
+Bangladesh,Khulna,"Khulna, Bangladesh",108,2014,61,2014
+Bangladesh,Rajshahi,"Rajshahi, Bangladesh",63,2014,36,2014
+Belgium,ENGIS,"ENGIS, Belgium",30,2013,17,2013
+Belgium,OOSTROZEBEKE,"OOSTROZEBEKE, Belgium",30,2013,20,2013
+Belgium,EVERGEM,"EVERGEM, Belgium",30,2013,19,2013
+Belgium,ZELZATE,"ZELZATE, Belgium",30,2013,20,2013
+Belgium,GENT,"GENT, Belgium",29,2013,18,2013
+Belgium,ZWIJNDRECHT,"ZWIJNDRECHT, Belgium",29,2013,19,2013
+Belgium,ROESELAERE,"ROESELAERE, Belgium",28,2013,18,2013
+Belgium,MONS,"MONS, Belgium",27,2013,15,2013
+Belgium,HOBOKEN,"HOBOKEN, Belgium",27,2013,18,2013
+Belgium,VILVOORDE,"VILVOORDE, Belgium",27,2013,18,2013
+Belgium,MENEN,"MENEN, Belgium",26,2013,18,2013
+Belgium,ANTWERPEN,"ANTWERPEN, Belgium",26,2013,17,2013
+Belgium,ZWEVEGEM,"ZWEVEGEM, Belgium",26,2013,17,2013
+Belgium,HOEVENEN,"HOEVENEN, Belgium",26,2013,17,2013
+Belgium,GENK,"GENK, Belgium",26,2013,17,2013
+Belgium,BERENDRECHT,"BERENDRECHT, Belgium",25,2013,17,2013
+Belgium,BRUSSELS,"BRUSSELS, Belgium",25,2013,18,2013
+Belgium,STEENOKKERZEEL,"STEENOKKERZEEL, Belgium",25,2013,17,2013
+Belgium,DESTELBERGEN,"DESTELBERGEN, Belgium",25,2013,16,2013
+Belgium,BOOM,"BOOM, Belgium",25,2013,16,2013
+Belgium,MECHELEN,"MECHELEN, Belgium",24,2013,16,2013
+Belgium,BRUGGE,"BRUGGE, Belgium",24,2013,16,2013
+Belgium,SERAING,"SERAING, Belgium",24,2013,15,2013
+Belgium,MOERKERKE,"MOERKERKE, Belgium",23,2013,15,2013
+Belgium,HASSELT,"HASSELT, Belgium",23,2013,17,2013
+Belgium,VEURNE,"VEURNE, Belgium",23,2013,15,2013
+Belgium,AARSCHOT,"AARSCHOT, Belgium",23,2013,15,2013
+Belgium,CHARLEROI,"CHARLEROI, Belgium",22,2013,14,2013
+Belgium,LANDEN,"LANDEN, Belgium",22,2013,15,2013
+Belgium,RETIE,"RETIE, Belgium",22,2013,15,2013
+Belgium,DESSEL,"DESSEL, Belgium",22,2013,14,2013
+Belgium,LIEGE,"LIEGE, Belgium",22,2013,14,2013
+Belgium,CHATELET,"CHATELET, Belgium",21,2013,13,2013
+Belgium,TOURNAI,"TOURNAI, Belgium",21,2013,14,2013
+Belgium,HERSTAL,"HERSTAL, Belgium",20,2013,13,2013
+Belgium,CORROY LE GRAND,"CORROY LE GRAND, Belgium",20,2013,14,2013
+Belgium,ANDENNE,"ANDENNE, Belgium",18,2013,12,2013
+Belgium,SOMME-LEUZE,"SOMME-LEUZE, Belgium",16,2013,11,2013
+Belgium,HABAY LA NEUVE,"HABAY LA NEUVE, Belgium",15,2013,10,2013
+Belgium,BERTRIX,"BERTRIX, Belgium",14,2013,10,2013
+Belgium,VIROINVAL,"VIROINVAL, Belgium",14,2013,10,2013
+Belgium,VIELSALM,"VIELSALM, Belgium",13,2013,9,2013
+Belgium,SAINTE-ODE,"SAINTE-ODE, Belgium",12,2013,9,2013
+Bhutan,Thimphu,"Thimphu, Bhutan",77,2012,43,2012
+"Bolivia, Plurinational States of",La Paz,"La Paz, Bolivia, Plurinational States of",82,2013,44,2013
+"Bolivia, Plurinational States of",Cochabamba,"Cochabamba, Bolivia, Plurinational States of",59,2014,32,2014
+Bosnia and Herzegovina,TUZLA,"TUZLA, Bosnia and Herzegovina",106,2010,64,2010
+Bosnia and Herzegovina,SARAJEVO,"SARAJEVO, Bosnia and Herzegovina",49,2010,30,2010
+Brazil,"Santa Gertrudes – Jd. Luciana, INTERIOR DO ESTADO","Santa Gertrudes – Jd. Luciana, INTERIOR DO ESTADO, Brazil",95,2014,43,2014
+Brazil,"Cubatão, REGIÃO METROPOLITANA DA BAIXADA SANTISTA","Cubatão, REGIÃO METROPOLITANA DA BAIXADA SANTISTA, Brazil",68,2014,31,2014
+Brazil,"Rio Claro, INTERIOR DO ESTADO","Rio Claro, INTERIOR DO ESTADO, Brazil",56,2014,25,2014
+Brazil,REGIÃO METROPOLITANA DO RIO DE JANEIRO,"REGIÃO METROPOLITANA DO RIO DE JANEIRO, Brazil",48,2014,15,2014
+Brazil,"Itaboraí , REGIÃO METROPOLITANA DO RIO DE JANEIRO","Itaboraí , REGIÃO METROPOLITANA DO RIO DE JANEIRO, Brazil",46,2014,18,2014
+Brazil,"Catanduva, INTERIOR DO ESTADO","Catanduva, INTERIOR DO ESTADO, Brazil",41,2014,18,2014
+Brazil,"Limeira – Boa Vista, INTERIOR DO ESTADO","Limeira – Boa Vista, INTERIOR DO ESTADO, Brazil",41,2014,18,2014
+Brazil,"Paulínia, REGIÃO METROPOLITANA DE CAMPINAS","Paulínia, REGIÃO METROPOLITANA DE CAMPINAS, Brazil",39,2014,18,2014
+Brazil,Colombo,"Colombo, Brazil",39,2012,17,2012
+Brazil,"Santos, REGIÃO METROPOLITANA DA BAIXADA SANTISTA","Santos, REGIÃO METROPOLITANA DA BAIXADA SANTISTA, Brazil",39,2014,18,2014
+Brazil,"São José do Rio Preto, INTERIOR DO ESTADO","São José do Rio Preto, INTERIOR DO ESTADO, Brazil",39,2014,16,2014
+Brazil,"Sorocaba, REGIÃO METROPOLITANA DE SOROCABA","Sorocaba, REGIÃO METROPOLITANA DE SOROCABA, Brazil",39,2014,17,2014
+Brazil,"Cordeirópolis – Módolo, INTERIOR DO ESTADO","Cordeirópolis – Módolo, INTERIOR DO ESTADO, Brazil",38,2014,17,2014
+Brazil,"Jaboticabal, INTERIOR DO ESTADO","Jaboticabal, INTERIOR DO ESTADO, Brazil",38,2014,17,2014
+Brazil,"Piracicaba, INTERIOR DO ESTADO","Piracicaba, INTERIOR DO ESTADO, Brazil",38,2014,15,2014
+Brazil,"Americana, REGIÃO METROPOLITANA DE CAMPINAS","Americana, REGIÃO METROPOLITANA DE CAMPINAS, Brazil",36,2014,16,2014
+Brazil,REGIÃO METROPOLITANA DE SÃO PAULO,"REGIÃO METROPOLITANA DE SÃO PAULO, Brazil",35,2014,18,2014
+Brazil,"Campinas, REGIÃO METROPOLITANA DE CAMPINAS","Campinas, REGIÃO METROPOLITANA DE CAMPINAS, Brazil",35,2014,16,2014
+Brazil,"Araçatuba, INTERIOR DO ESTADO","Araçatuba, INTERIOR DO ESTADO, Brazil",34,2014,15,2014
+Brazil,"Araraquara, INTERIOR DO ESTADO","Araraquara, INTERIOR DO ESTADO, Brazil",34,2014,15,2014
+Brazil,"Japeri, REGIÃO METROPOLITANA DO RIO DE JANEIRO","Japeri, REGIÃO METROPOLITANA DO RIO DE JANEIRO, Brazil",33,2014,15,2014
+Brazil,"Volta Redonda, REGIÃO DO MÉDIO PARAÍBA","Volta Redonda, REGIÃO DO MÉDIO PARAÍBA, Brazil",33,2014,14,2014
+Brazil,Araucária,"Araucária, Brazil",31,2012,14,2012
+Brazil,"Seropédica, REGIÃO METROPOLITANA DO RIO DE JANEIRO","Seropédica, REGIÃO METROPOLITANA DO RIO DE JANEIRO, Brazil",31,2014,15,2014
+Brazil,"Itaguaí, REGIÃO METROPOLITANA DO RIO DE JANEIRO","Itaguaí, REGIÃO METROPOLITANA DO RIO DE JANEIRO, Brazil",30,2014,13,2014
+Brazil,"Jundiaí, INTERIOR DO ESTADO","Jundiaí, INTERIOR DO ESTADO, Brazil",30,2014,13,2014
+Brazil,"São José dos Campos, REGIÃO METROPOLITANA DO VALE DO PARAÍBA E LITORAL NORTE","São José dos Campos, REGIÃO METROPOLITANA DO VALE DO PARAÍBA E LITORAL NORTE, Brazil",30,2014,13,2014
+Brazil,"Bauru, INTERIOR DO ESTADO","Bauru, INTERIOR DO ESTADO, Brazil",29,2014,13,2014
+Brazil,"Canoas, REGIÃO METROPOLITANA DE PORTO ALEGRE","Canoas, REGIÃO METROPOLITANA DE PORTO ALEGRE, Brazil",29,2014,13,2014
+Brazil,"Charqueadas, REGIÃO METROPOLITANA DE PORTO ALEGRE","Charqueadas, REGIÃO METROPOLITANA DE PORTO ALEGRE, Brazil",29,2014,13,2014
+Brazil,"Resende, REGIÃO DO MÉDIO PARAÍBA","Resende, REGIÃO DO MÉDIO PARAÍBA, Brazil",29,2014,13,2014
+Brazil,"Barra Mansa, REGIÃO DO MÉDIO PARAÍBA","Barra Mansa, REGIÃO DO MÉDIO PARAÍBA, Brazil",27,2014,12,2014
+Brazil,"Quatis, REGIÃO DO MÉDIO PARAÍBA","Quatis, REGIÃO DO MÉDIO PARAÍBA, Brazil",27,2014,12,2014
+Brazil,"Campos, REGIÃO DO NORTE FLUMINENSE","Campos, REGIÃO DO NORTE FLUMINENSE, Brazil",26,2014,12,2014
+Brazil,"Jacarei, REGIÃO METROPOLITANA DO VALE DO PARAÍBA E LITORAL NORTE","Jacarei, REGIÃO METROPOLITANA DO VALE DO PARAÍBA E LITORAL NORTE, Brazil",25,2014,11,2014
+Brazil,"Jaú, INTERIOR DO ESTADO","Jaú, INTERIOR DO ESTADO, Brazil",25,2014,11,2014
+Brazil,Curitiba,"Curitiba, Brazil",24,2012,11,2012
+Brazil,"Tatuí, REGIÃO METROPOLITANA DE SOROCABA","Tatuí, REGIÃO METROPOLITANA DE SOROCABA, Brazil",24,2014,10,2014
+Brazil,"Marília, INTERIOR DO ESTADO","Marília, INTERIOR DO ESTADO, Brazil",22,2014,10,2014
+Brazil,"Presidente Prudente, INTERIOR DO ESTADO","Presidente Prudente, INTERIOR DO ESTADO, Brazil",21,2014,9,2014
+Brazil,"Cantagalo - Euclidelândia, REGIÃO SUL","Cantagalo - Euclidelândia, REGIÃO SUL, Brazil",20,2014,9,2014
+Brazil,"Malembá, REGIÃO METROPOLITANA DE SALVADOR","Malembá, REGIÃO METROPOLITANA DE SALVADOR, Brazil",18,2014,8,2014
+Brazil,"Porto Real, REGIÃO DO MÉDIO PARAÍBA","Porto Real, REGIÃO DO MÉDIO PARAÍBA, Brazil",17,2014,7,2014
+Brazil,"Gravataí, REGIÃO METROPOLITANA DE PORTO ALEGRE","Gravataí, REGIÃO METROPOLITANA DE PORTO ALEGRE, Brazil",16,2014,7,2014
+Brazil,"Madre de Deus, REGIÃO METROPOLITANA DE SALVADOR","Madre de Deus, REGIÃO METROPOLITANA DE SALVADOR, Brazil",12,2014,5,2014
+Bulgaria,Dimitrovgad,"Dimitrovgad, Bulgaria",59,2013,42,2013
+Bulgaria,Plovdiv,"Plovdiv, Bulgaria",59,2013,34,2013
+Bulgaria,Dolny Voden,"Dolny Voden, Bulgaria",53,2013,38,2013
+Bulgaria,MONTANA,"MONTANA, Bulgaria",52,2013,37,2013
+Bulgaria,Varna,"Varna, Bulgaria",51,2013,36,2013
+Bulgaria,Ruse,"Ruse, Bulgaria",46,2013,33,2013
+Bulgaria,Pernik,"Pernik, Bulgaria",46,2013,31,2013
+Bulgaria,HASKOVO,"HASKOVO, Bulgaria",46,2013,32,2013
+Bulgaria,Pazarjik,"Pazarjik, Bulgaria",45,2013,32,2013
+Bulgaria,Sofia,"Sofia, Bulgaria",43,2013,21,2013
+Bulgaria,Smolian,"Smolian, Bulgaria",43,2013,30,2013
+Bulgaria,GORNA ORIAHOVICA,"GORNA ORIAHOVICA, Bulgaria",43,2013,30,2013
+Bulgaria,Stara Zagora,"Stara Zagora, Bulgaria",41,2013,13,2013
+Bulgaria,Pleven,"Pleven, Bulgaria",41,2013,29,2013
+Bulgaria,Veliko Tarnovo,"Veliko Tarnovo, Bulgaria",40,2013,25,2013
+Bulgaria,Kardjaly,"Kardjaly, Bulgaria",39,2013,28,2013
+Bulgaria,SLIVEN,"SLIVEN, Bulgaria",39,2013,28,2013
+Bulgaria,LOVECH,"LOVECH, Bulgaria",38,2013,27,2013
+Bulgaria,Vratza,"Vratza, Bulgaria",38,2013,27,2013
+Bulgaria,BLAGOEVGRAD,"BLAGOEVGRAD, Bulgaria",38,2013,27,2013
+Bulgaria,Shumen,"Shumen, Bulgaria",38,2013,27,2013
+Bulgaria,Pirdop,"Pirdop, Bulgaria",35,2013,25,2013
+Bulgaria,Burgas,"Burgas, Bulgaria",35,2013,25,2013
+Bulgaria,Galabovo,"Galabovo, Bulgaria",35,2013,25,2013
+Bulgaria,Devnia,"Devnia, Bulgaria",27,2013,19,2013
+Cameroon,Bamenda,"Bamenda, Cameroon",141,2012,132,2012
+Cameroon,Bafoussam,"Bafoussam, Cameroon",105,2012,67,2012
+Cameroon,Yaoudé,"Yaoudé, Cameroon",65,2012,49,2012
+Canada,COURTENAY,"COURTENAY, Canada",29,2013,17,2013
+Canada,REGINA,"REGINA, Canada",25,2013,14,2013
+Canada,VANDERHOOF,"VANDERHOOF, Canada",21,2013,12,2013
+Canada,TROIS-RIVIERES,"TROIS-RIVIERES, Canada",19,2013,11,2013
+Canada,FORT ST. JOHN,"FORT ST. JOHN, Canada",18,2013,10,2013
+Canada,QUEBEC,"QUEBEC, Canada",18,2013,9,2013
+Canada,LEMIEUX,"LEMIEUX, Canada",17,2013,10,2013
+Canada,BRUDERHEIM,"BRUDERHEIM, Canada",17,2013,9,2013
+Canada,WINDSOR,"WINDSOR, Canada",17,2013,9,2013
+Canada,WINNIPEG,"WINNIPEG, Canada",17,2013,6,2013
+Canada,HAMILTON,"HAMILTON, Canada",16,2013,9,2013
+Canada,HOUSTON,"HOUSTON, Canada",16,2013,9,2013
+Canada,SASKATOON,"SASKATOON, Canada",16,2013,9,2013
+Canada,BURLINGTON,"BURLINGTON, Canada",15,2013,9,2013
+Canada,DUNCAN,"DUNCAN, Canada",15,2013,9,2013
+Canada,GATINEAU,"GATINEAU, Canada",15,2013,9,2013
+Canada,KAMLOOPS,"KAMLOOPS, Canada",15,2013,9,2013
+Canada,LAVAL,"LAVAL, Canada",15,2013,9,2013
+Canada,LONDON,"LONDON, Canada",15,2013,9,2013
+Canada,SAINT-SIMON,"SAINT-SIMON, Canada",15,2013,9,2013
+Canada,VARENNES,"VARENNES, Canada",15,2013,9,2013
+Canada,MONTREAL,"MONTREAL, Canada",15,2013,10,2013
+Canada,PRINCE GEORGE,"PRINCE GEORGE, Canada",15,2013,8,2013
+Canada,QUESNEL,"QUESNEL, Canada",15,2013,8,2013
+Canada,TERRACE,"TERRACE, Canada",15,2013,8,2013
+Canada,WILLIAMS LAKE,"WILLIAMS LAKE, Canada",15,2013,8,2013
+Canada,KITCHENER,"KITCHENER, Canada",14,2013,8,2013
+Canada,LONGUEUIL,"LONGUEUIL, Canada",14,2013,8,2013
+Canada,EDMONTON,"EDMONTON, Canada",14,2013,7,2013
+Canada,TORONTO,"TORONTO, Canada",14,2013,8,2013
+Canada,BEAVERLODGE,"BEAVERLODGE, Canada",14,2013,8,2013
+Canada,BRAMPTON,"BRAMPTON, Canada",14,2013,8,2013
+Canada,BRANTFORD,"BRANTFORD, Canada",14,2013,8,2013
+Canada,CHARETTE,"CHARETTE, Canada",14,2013,8,2013
+Canada,CHATHAM,"CHATHAM, Canada",14,2013,8,2013
+Canada,COLD LAKE,"COLD LAKE, Canada",14,2013,8,2013
+Canada,CORNWALL,"CORNWALL, Canada",14,2013,8,2013
+Canada,GUELPH,"GUELPH, Canada",14,2013,8,2013
+Canada,MISSISSAUGA,"MISSISSAUGA, Canada",14,2013,8,2013
+Canada,OAKVILLE,"OAKVILLE, Canada",14,2013,8,2013
+Canada,PORT ALBERNI,"PORT ALBERNI, Canada",14,2013,8,2013
+Canada,SAINT-ZEPHIRIN-DE-COURVAL,"SAINT-ZEPHIRIN-DE-COURVAL, Canada",14,2013,8,2013
+Canada,SARNIA,"SARNIA, Canada",14,2013,8,2013
+Canada,SHERBROOKE,"SHERBROOKE, Canada",14,2013,8,2013
+Canada,SIMCOE,"SIMCOE, Canada",14,2013,8,2013
+Canada,ST. CATHARINES,"ST. CATHARINES, Canada",14,2013,8,2013
+Canada,BRANDON,"BRANDON, Canada",14,2013,6,2013
+Canada,VICTORIA,"VICTORIA, Canada",13,2013,7,2013
+Canada,CASTLEGAR,"CASTLEGAR, Canada",13,2013,7,2013
+Canada,FLIN FLON,"FLIN FLON, Canada",13,2013,5,2013
+Canada,NELSON,"NELSON, Canada",13,2013,7,2013
+Canada,BARRIE,"BARRIE, Canada",12,2013,7,2013
+Canada,BATHURST,"BATHURST, Canada",12,2013,7,2013
+Canada,BELLEVILLE,"BELLEVILLE, Canada",12,2013,7,2013
+Canada,DARTMOUTH,"DARTMOUTH, Canada",12,2013,7,2013
+Canada,DESCHAMBAULT,"DESCHAMBAULT, Canada",12,2013,7,2013
+Canada,FORT SASKATCHEWAN,"FORT SASKATCHEWAN, Canada",12,2013,7,2013
+Canada,GRAND BEND,"GRAND BEND, Canada",12,2013,7,2013
+Canada,LAMONT,"LAMONT, Canada",12,2013,7,2013
+Canada,MORRISBURG,"MORRISBURG, Canada",12,2013,7,2013
+Canada,NEWMARKET,"NEWMARKET, Canada",12,2013,7,2013
+Canada,OSHAWA,"OSHAWA, Canada",12,2013,7,2013
+Canada,PETERBOROUGH,"PETERBOROUGH, Canada",12,2013,7,2013
+Canada,PICTOU,"PICTOU, Canada",12,2013,7,2013
+Canada,PORT STANLEY,"PORT STANLEY, Canada",12,2013,7,2013
+Canada,RICHMOND,"RICHMOND, Canada",12,2013,7,2013
+Canada,ROUYN-NORANDA,"ROUYN-NORANDA, Canada",12,2013,7,2013
+Canada,SAINT-JEAN-SUR-RICHELIEU,"SAINT-JEAN-SUR-RICHELIEU, Canada",12,2013,7,2013
+Canada,ST. ANDREWS,"ST. ANDREWS, Canada",12,2013,7,2013
+Canada,SURREY,"SURREY, Canada",12,2013,7,2013
+Canada,TINGWICK,"TINGWICK, Canada",12,2013,7,2013
+Canada,VANCOUVER,"VANCOUVER, Canada",12,2013,7,2013
+Canada,ABBOTSFORD,"ABBOTSFORD, Canada",12,2013,7,2013
+Canada,CHILLIWACK,"CHILLIWACK, Canada",12,2013,6,2013
+Canada,THOMSON,"THOMSON, Canada",12,2013,4,2013
+Canada,HALIFAX,"HALIFAX, Canada",11,2013,5,2013
+Canada,FORT MCMURRAY,"FORT MCMURRAY, Canada",11,2013,6,2013
+Canada,LANGLEY,"LANGLEY, Canada",11,2013,6,2013
+Canada,OTTAWA,"OTTAWA, Canada",11,2013,7,2013
+Canada,PORT MOODY,"PORT MOODY, Canada",11,2013,6,2013
+Canada,YELLOWKNIFE,"YELLOWKNIFE, Canada",11,2013,6,2013
+Canada,CALGARY,"CALGARY, Canada",10,2013,8,2013
+Canada,CORNER BROOK,"CORNER BROOK, Canada",10,2013,6,2013
+Canada,DELTA,"DELTA, Canada",10,2013,6,2013
+Canada,FORT MACKAY,"FORT MACKAY, Canada",10,2013,6,2013
+Canada,GRANDE PRAIRIE,"GRANDE PRAIRIE, Canada",10,2013,6,2013
+Canada,KINGSTON,"KINGSTON, Canada",10,2013,6,2013
+Canada,MONCTON,"MONCTON, Canada",10,2013,6,2013
+Canada,MOUNT PEARL,"MOUNT PEARL, Canada",10,2013,6,2013
+Canada,PARRY SOUND,"PARRY SOUND, Canada",10,2013,6,2013
+Canada,PORT HAWKESBURY,"PORT HAWKESBURY, Canada",10,2013,6,2013
+Canada,SAGUENAY,"SAGUENAY, Canada",10,2013,6,2013
+Canada,SAULT STE. MARIE,"SAULT STE. MARIE, Canada",10,2013,6,2013
+Canada,SUDBURY,"SUDBURY, Canada",10,2013,6,2013
+Canada,SYDNEY,"SYDNEY, Canada",10,2013,6,2013
+Canada,THUNDER BAY,"THUNDER BAY, Canada",10,2013,6,2013
+Canada,WHITEHORSE,"WHITEHORSE, Canada",10,2013,6,2013
+Canada,BURNABY,"BURNABY, Canada",10,2013,6,2013
+Canada,LANGDALE,"LANGDALE, Canada",10,2013,5,2013
+Canada,NANAIMO,"NANAIMO, Canada",10,2013,5,2013
+Canada,NORTH VANCOUVER,"NORTH VANCOUVER, Canada",9,2013,5,2013
+Canada,HOPE,"HOPE, Canada",9,2013,5,2013
+Canada,AYLESFORD,"AYLESFORD, Canada",8,2013,5,2013
+Canada,DORSET,"DORSET, Canada",8,2013,5,2013
+Canada,ELK ISLAND,"ELK ISLAND, Canada",8,2013,5,2013
+Canada,FERME NEUVE,"FERME NEUVE, Canada",8,2013,5,2013
+Canada,GRAND FALLS - WINDSOR,"GRAND FALLS - WINDSOR, Canada",8,2013,5,2013
+Canada,LA DORE,"LA DORE, Canada",8,2013,5,2013
+Canada,LA PATRIE,"LA PATRIE, Canada",8,2013,5,2013
+Canada,LA PECHE,"LA PECHE, Canada",8,2013,5,2013
+Canada,NORTH BAY,"NORTH BAY, Canada",8,2013,5,2013
+Canada,NOTRE-DAME-DU-ROSAIRE,"NOTRE-DAME-DU-ROSAIRE, Canada",8,2013,5,2013
+Canada,PETAWAWA,"PETAWAWA, Canada",8,2013,5,2013
+Canada,SAINT-FAUSTIN-LAC-CARRE,"SAINT-FAUSTIN-LAC-CARRE, Canada",8,2013,5,2013
+Canada,SENNETERRE,"SENNETERRE, Canada",8,2013,5,2013
+Canada,ST. JOHN'S,"ST. JOHN'S, Canada",8,2013,5,2013
+Canada,STUKELY-SUD,"STUKELY-SUD, Canada",8,2013,5,2013
+Canada,WEST VANCOUVER,"WEST VANCOUVER, Canada",8,2013,5,2013
+Canada,SAINT JOHN,"SAINT JOHN, Canada",8,2013,6,2013
+Canada,CAROLINE,"CAROLINE, Canada",7,2013,4,2013
+Canada,FREDERICTON,"FREDERICTON, Canada",7,2013,4,2013
+Canada,LAC-EDOUARD,"LAC-EDOUARD, Canada",7,2013,4,2013
+Canada,ST-HILAIRE-DE-DORSET,"ST-HILAIRE-DE-DORSET, Canada",7,2013,4,2013
+Canada,POWELL RIVER,"POWELL RIVER, Canada",7,2013,3,2013
+Canada,AUCLAIR,"AUCLAIR, Canada",5,2013,3,2013
+Canada,NORMAN WELLS,"NORMAN WELLS, Canada",5,2013,3,2013
+Chile,Coyhaique,"Coyhaique, Chile",75,2014,63,2014
+Chile,Rancagua,"Rancagua, Chile",75,2014,29,2014
+Chile,Andacollo,"Andacollo, Chile",66,2014,30,2014
+Chile,Santiago,"Santiago, Chile",64,2014,28,2014
+Chile,Padre las Casas,"Padre las Casas, Chile",63,2014,34,2014
+Chile,Osorno,"Osorno, Chile",53,2014,34,2014
+Chile,Curico,"Curico, Chile",50,2014,27,2014
+Chile,Temuco,"Temuco, Chile",50,2014,31,2014
+Chile,Talca,"Talca, Chile",49,2014,25,2014
+Chile,Rengo,"Rengo, Chile",49,2014,22,2014
+Chile,Copiapó,"Copiapó, Chile",47,2014,19,2014
+Chile,Valdivia,"Valdivia, Chile",46,2014,28,2014
+Chile,San Fernando,"San Fernando, Chile",42,2014,19,2014
+Chile,Maule,"Maule, Chile",41,2014,21,2014
+Chile,Talagante,"Talagante, Chile",40,2014,19,2014
+Chile,Quilpué,"Quilpué, Chile",39,2014,17,2014
+Chile,Antofagasta,"Antofagasta, Chile",39,2014,12,2014
+Chile,Valparaíso,"Valparaíso, Chile",34,2014,15,2014
+Chile,Vina del Mar,"Vina del Mar, Chile",33,2014,12,2014
+Chile,Arica,"Arica, Chile",32,2014,15,2014
+Chile,Coquimbo,"Coquimbo, Chile",31,2014,14,2014
+Chile,Huasco,"Huasco, Chile",24,2014,11,2014
+Chile,Punta Arenas,"Punta Arenas, Chile",11,2014,5,2014
+China,Shijiazhuang,"Shijiazhuang, China",305,2013,120,2014
+China,Jinan,"Jinan, China",199,2013,51,2014
+China,Xingtai,"Xingtai, China",193,2014,128,2014
+China,Baoding,"Baoding, China",190,2014,126,2014
+China,Xi'an,"Xi'an, China",189,2013,69,2014
+China,Zhengzhou,"Zhengzhou, China",171,2013,85,2014
+China,Handan,"Handan, China",168,2014,111,2014
+China,Xining,"Xining, China",163,2013,61,2014
+China,Hengshui,"Hengshui, China",160,2014,106,2014
+China,Taiyuan,"Taiyuan, China",157,2013,67,2014
+China,Tangshan,"Tangshan, China",153,2014,101,2014
+China,Lanzhou,"Lanzhou, China",153,2013,58,2014
+China,Chengdu,"Chengdu, China",150,2013,71,2014
+China,Tianjin,"Tianjin, China",150,2013,87,2014
+China,Hohhot,"Hohhot, China",146,2013,42,2014
+China,Urumqi,"Urumqi, China",146,2013,64,2014
+China,Langfang,"Langfang, China",144,2014,95,2014
+China,Nanjing,"Nanjing, China",137,2013,72,2014
+China,Cangzhou,"Cangzhou, China",133,2014,88,2014
+China,Changchun,"Changchun, China",130,2013,63,2014
+China,Shenyang,"Shenyang, China",129,2013,71,2014
+China,Wuhan,"Wuhan, China",124,2013,79,2014
+China,Anyang,"Anyang, China",119,2014,79,2014
+China,Harbin,"Harbin, China",119,2013,71,2014
+China,Yinchuan,"Yinchuan, China",118,2013,47,2014
+China,Shouguang,"Shouguang, China",116,2014,77,2014
+China,Nanchang,"Nanchang, China",116,2013,48,2014
+China,Hefei,"Hefei, China",115,2013,78,2014
+China,Jingzhou,"Jingzhou, China",112,2014,74,2014
+China,Huzhou,"Huzhou, China",111,2013,62,2014
+China,Beijing,"Beijing, China",108,2013,85,2014
+China,Chongqing,"Chongqing, China",106,2013,61,2014
+China,Hangzhou,"Hangzhou, China",106,2013,60,2014
+China,Qingdao,"Qingdao, China",106,2013,45,2014
+China,Kaifeng,"Kaifeng, China",105,2014,70,2014
+China,Yichang,"Yichang, China",105,2014,70,2014
+China,Yangquan,"Yangquan, China",105,2014,69,2014
+China,Pingdingshan,"Pingdingshan, China",105,2014,69,2014
+China,Xiangtan,"Xiangtan, China",105,2014,69,2014
+China,Shaoxing,"Shaoxing, China",105,2013,64,2014
+China,Zhuzhou,"Zhuzhou, China",104,2014,69,2014
+China,Laiwu,"Laiwu, China",103,2014,68,2014
+China,Jiaozuo,"Jiaozuo, China",102,2014,68,2014
+China,Jiangyin,"Jiangyin, China",102,2014,67,2014
+China,Suqian,"Suqian, China",101,2014,67,2014
+China,Weinan,"Weinan, China",101,2014,67,2014
+China,Changzhi,"Changzhi, China",101,2014,67,2014
+China,Wuxi,"Wuxi, China",100,2014,66,2014
+China,Xuzhou,"Xuzhou, China",100,2014,66,2014
+China,Zhenjiang,"Zhenjiang, China",99,2014,65,2014
+China,Jinhua,"Jinhua, China",99,2013,63,2014
+China,Changzhou,"Changzhou, China",98,2014,65,2014
+China,Xianyang,"Xianyang, China",98,2014,65,2014
+China,Liuzhou,"Liuzhou, China",98,2014,65,2014
+China,Anshan,"Anshan, China",98,2014,65,2014
+China,Huai'an,"Huai'an, China",98,2014,65,2014
+China,Baoji,"Baoji, China",97,2014,64,2014
+China,Jurong,"Jurong, China",97,2014,64,2014
+China,Yangzhou,"Yangzhou, China",97,2014,64,2014
+China,Zigong,"Zigong, China",96,2014,64,2014
+China,Suzhou,"Suzhou, China",96,2014,64,2014
+China,Tongchuan,"Tongchuan, China",96,2014,64,2014
+China,Sanmenxia,"Sanmenxia, China",96,2014,63,2014
+China,Liaocheng,"Liaocheng, China",95,2014,63,2014
+China,Changsha,"Changsha, China",94,2013,73,2014
+China,Jiaxing,"Jiaxing, China",94,2013,56,2014
+China,Quzhou,"Quzhou, China",94,2013,57,2014
+China,Wenzhou,"Wenzhou, China",94,2013,45,2014
+China,Linfen,"Linfen, China",93,2014,62,2014
+China,Wuhu,"Wuhu, China",92,2014,61,2014
+China,Lianyungang,"Lianyungang, China",91,2014,60,2014
+China,Heze,"Heze, China",90,2014,60,2014
+China,Qinhuangdao,"Qinhuangdao, China",90,2014,60,2014
+China,Zhangjiagang,"Zhangjiagang, China",90,2014,60,2014
+China,Nantong,"Nantong, China",90,2014,59,2014
+China,Nanning,"Nanning, China",90,2013,47,2014
+China,Fuyang,"Fuyang, China",89,2014,59,2014
+China,Dezhou,"Dezhou, China",89,2014,59,2014
+China,Wafangdian,"Wafangdian, China",88,2014,58,2014
+China,Yiwu,"Yiwu, China",88,2014,58,2014
+China,Zhuji,"Zhuji, China",88,2014,58,2014
+China,Pingdu,"Pingdu, China",87,2014,58,2014
+China,Korla,"Korla, China",87,2014,57,2014
+China,Lin'an,"Lin'an, China",86,2014,57,2014
+China,Maanshan,"Maanshan, China",86,2014,57,2014
+China,Yancheng,"Yancheng, China",86,2014,57,2014
+China,Nanchong,"Nanchong, China",86,2014,57,2014
+China,Ningbo,"Ningbo, China",86,2013,45,2014
+China,Guiyang,"Guiyang, China",85,2013,48,2014
+China,Zhaoqing,"Zhaoqing, China",85,2013,55,2014
+China,Panjin,"Panjin, China",84,2014,56,2014
+China,Wujiang,"Wujiang, China",84,2014,56,2014
+China,Luoyang,"Luoyang, China",84,2014,56,2014
+China,Dalian,"Dalian, China",84,2014,56,2014
+China,Laizhou,"Laizhou, China",84,2014,56,2014
+China,Shanghai,"Shanghai, China",84,2013,51,2014
+China,Huludao,"Huludao, China",83,2014,55,2014
+China,Laixi,"Laixi, China",83,2014,55,2014
+China,Linyi,"Linyi, China",83,2014,55,2014
+China,Jinzhou,"Jinzhou, China",83,2014,55,2014
+China,Taian,"Taian, China",83,2014,55,2014
+China,Guilin,"Guilin, China",83,2014,55,2014
+China,Foshan,"Foshan, China",83,2013,44,2014
+China,Taicang,"Taicang, China",82,2014,54,2014
+China,Zhaoyuan,"Zhaoyuan, China",82,2014,54,2014
+China,Zibo,"Zibo, China",82,2014,54,2014
+China,Kunming,"Kunming, China",82,2013,33,2014
+China,Taizhou,"Taizhou, China",82,2013,61,2014
+China,Jining,"Jining, China",81,2014,54,2014
+China,Yixing,"Yixing, China",81,2014,54,2014
+China,Dongying,"Dongying, China",81,2014,53,2014
+China,Benxi,"Benxi, China",80,2014,53,2014
+China,Chengde,"Chengde, China",80,2014,53,2014
+China,Binzhou,"Binzhou, China",79,2014,53,2014
+China,Fushun,"Fushun, China",79,2014,53,2014
+China,Changde,"Changde, China",79,2014,52,2014
+China,Jiaonan,"Jiaonan, China",79,2014,52,2014
+China,Jiaozhou,"Jiaozhou, China",79,2014,52,2014
+China,Liyang,"Liyang, China",78,2014,52,2014
+China,Yibin,"Yibin, China",77,2014,51,2014
+China,Jiangmen,"Jiangmen, China",77,2013,42,2014
+China,Baotou,"Baotou, China",76,2014,51,2014
+China,Haimen,"Haimen, China",76,2014,51,2014
+China,Jimo,"Jimo, China",76,2014,51,2014
+China,Jilin,"Jilin, China",76,2014,50,2014
+China,Mudanjiang,"Mudanjiang, China",75,2014,49,2014
+China,Luzhou,"Luzhou, China",75,2014,49,2014
+China,Zunyi,"Zunyi, China",74,2014,49,2014
+China,Changshu,"Changshu, China",73,2014,49,2014
+China,Dandong,"Dandong, China",73,2014,48,2014
+China,Weifang,"Weifang, China",73,2014,48,2014
+China,Yueyang,"Yueyang, China",73,2014,48,2014
+China,Shaoguan,"Shaoguan, China",73,2014,48,2014
+China,Yan'an,"Yan'an, China",72,2014,48,2014
+China,Zaozhuang,"Zaozhuang, China",72,2014,48,2014
+China,Jintan,"Jintan, China",72,2014,48,2014
+China,Rushan,"Rushan, China",72,2014,48,2014
+China,Guangzhou,"Guangzhou, China",72,2013,47,2014
+China,Zhangqiu,"Zhangqiu, China",70,2014,47,2014
+China,Zhangjiajie,"Zhangjiajie, China",70,2014,46,2014
+China,Wendeng,"Wendeng, China",69,2014,46,2014
+China,Lishui,"Lishui, China",69,2013,43,2014
+China,Kunshan,"Kunshan, China",68,2014,45,2014
+China,Penglai,"Penglai, China",68,2014,45,2014
+China,Deyang,"Deyang, China",67,2014,45,2014
+China,Mianyang,"Mianyang, China",66,2014,43,2014
+China,Zhongshan,"Zhongshan, China",66,2013,37,2014
+China,Chaozhou,"Chaozhou, China",65,2014,43,2014
+China,Dongguan,"Dongguan, China",65,2013,43,2014
+China,Fuzhou,"Fuzhou, China",64,2013,31,2014
+China,Lhasa,"Lhasa, China",64,2013,24,2014
+China,Datong,"Datong, China",63,2014,42,2014
+China,Qingyuan,"Qingyuan, China",62,2014,41,2014
+China,Shizuishan,"Shizuishan, China",62,2014,41,2014
+China,Xiamen,"Xiamen, China",62,2013,36,2014
+China,Shenzhen,"Shenzhen, China",61,2013,33,2014
+China,Yingkou,"Yingkou, China",60,2014,40,2014
+China,Chifeng,"Chifeng, China",60,2014,40,2014
+China,Heyuan,"Heyuan, China",60,2014,40,2014
+China,Jiujiang,"Jiujiang, China",60,2014,40,2014
+China,Beihai,"Beihai, China",59,2014,39,2014
+China,Jieyang,"Jieyang, China",59,2014,39,2014
+China,Huizhou,"Huizhou, China",59,2013,34,2014
+China,Zhuhai,"Zhuhai, China",59,2013,34,2014
+China,Zhoushan,"Zhoushan, China",58,2013,29,2014
+China,Rongcheng,"Rongcheng, China",57,2014,38,2014
+China,Shantou,"Shantou, China",57,2014,38,2014
+China,Rizhao,"Rizhao, China",56,2014,37,2014
+China,Daqing,"Daqing, China",54,2014,35,2014
+China,Qiqihar,"Qiqihar, China",52,2014,34,2014
+China,Meizhou,"Meizhou, China",51,2014,34,2014
+China,Zhangjiakou,"Zhangjiakou, China",51,2014,34,2014
+China,Nantou,"Nantou, China",50,2014,33,2014
+China,Karamay,"Karamay, China",50,2014,33,2014
+China,Hong Kong,"Hong Kong, China",49,2013,29,2014
+China,Maoming,"Maoming, China",48,2014,32,2014
+China,Jinchang,"Jinchang, China",48,2014,32,2014
+China,Kinmen,"Kinmen, China",48,2014,32,2014
+China,Panzhihua,"Panzhihua, China",47,2014,31,2014
+China,Changhua,"Changhua, China",47,2014,31,2014
+China,Yangjiang,"Yangjiang, China",47,2014,31,2014
+China,Quanzhou,"Quanzhou, China",47,2014,31,2014
+China,Qujing,"Qujing, China",47,2014,31,2014
+China,Yunfu,"Yunfu, China",47,2014,31,2014
+China,Haikou,"Haikou, China",47,2013,22,2014
+China,Jiayuguan,"Jiayuguan, China",46,2014,31,2014
+China,Yunlin,"Yunlin, China",46,2014,30,2014
+China,Chiayi,"Chiayi, China",46,2014,30,2014
+China,Yantai,"Yantai, China",46,2014,30,2014
+China,Yuxi,"Yuxi, China",45,2014,30,2014
+China,Kaohsiung,"Kaohsiung, China",45,2014,30,2014
+China,Weihai,"Weihai, China",45,2014,30,2014
+China,Tainan,"Tainan, China",44,2014,29,2014
+China,Taichung,"Taichung, China",43,2014,29,2014
+China,Eerduosi,"Eerduosi, China",41,2014,27,2014
+China,Shanwei,"Shanwei, China",40,2014,27,2014
+China,Lienchiang,"Lienchiang, China",39,2014,26,2014
+China,Zhanjiang,"Zhanjiang, China",38,2014,25,2014
+China,Miaoli,"Miaoli, China",37,2014,24,2014
+China,Taoyuan,"Taoyuan, China",35,2014,23,2014
+China,Pingtung,"Pingtung, China",33,2014,22,2014
+China,New Taipei,"New Taipei, China",33,2014,22,2014
+China,Hsinchu,"Hsinchu, China",32,2014,21,2014
+China,Keelung,"Keelung, China",30,2014,20,2014
+China,Taipei,"Taipei, China",28,2014,18,2014
+China,Penghu,"Penghu, China",24,2014,16,2014
+China,Yilan,"Yilan, China",24,2014,16,2014
+China,Sanya,"Sanya, China",22,2014,15,2014
+China,Hualien,"Hualien, China",18,2014,12,2014
+China,Taitung,"Taitung, China",15,2014,10,2014
+Colombia,Bogotá,"Bogotá, Colombia",51,2014,24,2014
+Colombia,Itagüí,"Itagüí, Colombia",50,2014,28,2014
+Colombia,Caldas,"Caldas, Colombia",49,2014,24,2014
+Colombia,Ciénaga,"Ciénaga, Colombia",48,2014,21,2014
+Colombia,Bucaramanga,"Bucaramanga, Colombia",46,2014,20,2014
+Colombia,La Estrella,"La Estrella, Colombia",46,2014,41,2014
+Colombia,Girardota,"Girardota, Colombia",45,2014,21,2014
+Colombia,Medellin,"Medellin, Colombia",45,2014,26,2014
+Colombia,Bello,"Bello, Colombia",42,2014,18,2014
+Colombia,Sabaneta,"Sabaneta, Colombia",42,2014,18,2014
+Colombia,Cali,"Cali, Colombia",41,2014,17,2014
+Colombia,Santa Marta,"Santa Marta, Colombia",35,2014,15,2014
+Colombia,Valledupar,"Valledupar, Colombia",35,2014,15,2014
+Colombia,Copacabana,"Copacabana, Colombia",35,2014,15,2014
+Colombia,Barbosa,"Barbosa, Colombia",31,2014,13,2014
+Colombia,Manizales,"Manizales, Colombia",26,2014,18,2014
+Colombia,Armenia,"Armenia, Colombia",25,2014,11,2014
+Colombia,Pasto,"Pasto, Colombia",18,2014,9,2014
+Costa Rica,Heredia,"Heredia, Costa Rica",47,2013,29,2013
+Costa Rica,Belén,"Belén, Costa Rica",31,2013,30,2013
+Costa Rica,Alajuela,"Alajuela, Costa Rica",28,2013,19,2013
+Costa Rica,Cartago,"Cartago, Costa Rica",27,2013,19,2013
+Costa Rica,San José,"San José, Costa Rica",27,2013,24,2013
+Costa Rica,Santa Ana,"Santa Ana, Costa Rica",23,2013,16,2013
+Costa Rica,Moravia,"Moravia, Costa Rica",19,2013,14,2013
+Croatia,SISAK,"SISAK, Croatia",36,2013,22,2013
+Croatia,ZAGREB,"ZAGREB, Croatia",35,2013,21,2013
+Croatia,OSIJEK,"OSIJEK, Croatia",33,2013,20,2013
+Croatia,KUTINA,"KUTINA, Croatia",31,2013,19,2013
+Croatia,RIJEKA,"RIJEKA, Croatia",18,2013,11,2013
+Cyprus,NICOSIA,"NICOSIA, Cyprus",47,2013,17,2013
+Cyprus,LIMASSOL,"LIMASSOL, Cyprus",37,2013,17,2013
+Cyprus,LARNAKA,"LARNAKA, Cyprus",36,2013,16,2013
+Cyprus,PAFOS,"PAFOS, Cyprus",36,2013,16,2013
+Cyprus,AYIA MARINA,"AYIA MARINA, Cyprus",26,2013,12,2013
+Czech Republic,HAVIROV,"HAVIROV, Czech Republic",44,2013,33,2013
+Czech Republic,CESKY TESIN,"CESKY TESIN, Czech Republic",44,2013,33,2013
+Czech Republic,ORLOVA,"ORLOVA, Czech Republic",44,2013,32,2013
+Czech Republic,KARVINA,"KARVINA, Czech Republic",43,2013,32,2013
+Czech Republic,OSTRAVA,"OSTRAVA, Czech Republic",41,2013,32,2013
+Czech Republic,FRYDEK-MISTEK,"FRYDEK-MISTEK, Czech Republic",38,2013,28,2013
+Czech Republic,TRINEC,"TRINEC, Czech Republic",34,2013,30,2013
+Czech Republic,OLOMOUC-HEJCIN,"OLOMOUC-HEJCIN, Czech Republic",33,2013,24,2013
+Czech Republic,OPAVA,"OPAVA, Czech Republic",32,2013,24,2013
+Czech Republic,UHERSKE HRADISTE,"UHERSKE HRADISTE, Czech Republic",32,2013,24,2013
+Czech Republic,MOST,"MOST, Czech Republic",31,2013,21,2013
+Czech Republic,PROSTEJOV,"PROSTEJOV, Czech Republic",31,2013,23,2013
+Czech Republic,PREROV,"PREROV, Czech Republic",30,2013,23,2013
+Czech Republic,TABOR,"TABOR, Czech Republic",30,2013,22,2013
+Czech Republic,DECIN,"DECIN, Czech Republic",29,2013,22,2013
+Czech Republic,KLADNO,"KLADNO, Czech Republic",29,2013,12,2013
+Czech Republic,ZLIN,"ZLIN, Czech Republic",28,2013,21,2013
+Czech Republic,VSETIN,"VSETIN, Czech Republic",27,2013,20,2013
+Czech Republic,PARDUBICE,"PARDUBICE, Czech Republic",27,2013,22,2013
+Czech Republic,USTI NAD LABEM,"USTI NAD LABEM, Czech Republic",27,2013,18,2013
+Czech Republic,VODNANY,"VODNANY, Czech Republic",27,2013,20,2013
+Czech Republic,BEROUN,"BEROUN, Czech Republic",27,2013,12,2013
+Czech Republic,STANKOV,"STANKOV, Czech Republic",27,2013,20,2013
+Czech Republic,LITOMERICE,"LITOMERICE, Czech Republic",26,2013,20,2013
+Czech Republic,PRAGUE,"PRAGUE, Czech Republic",26,2013,18,2013
+Czech Republic,TEPLICE,"TEPLICE, Czech Republic",26,2013,19,2013
+Czech Republic,HRADEC KRALOVE,"HRADEC KRALOVE, Czech Republic",26,2013,21,2013
+Czech Republic,MLADA BOLESLAV,"MLADA BOLESLAV, Czech Republic",25,2013,19,2013
+Czech Republic,KARLOVY VARY,"KARLOVY VARY, Czech Republic",25,2013,18,2013
+Czech Republic,BRNO,"BRNO, Czech Republic",25,2013,19,2013
+Czech Republic,BRANDYS,"BRANDYS, Czech Republic",25,2013,18,2013
+Czech Republic,LIBEREC,"LIBEREC, Czech Republic",25,2013,21,2013
+Czech Republic,CHOMUTOV,"CHOMUTOV, Czech Republic",24,2013,18,2013
+Czech Republic,PLZEN,"PLZEN, Czech Republic",24,2013,21,2013
+Czech Republic,RYCHNOV N. KNEZNOU,"RYCHNOV N. KNEZNOU, Czech Republic",24,2013,17,2013
+Czech Republic,KUTNA HORA,"KUTNA HORA, Czech Republic",23,2013,17,2013
+Czech Republic,VYSKOV,"VYSKOV, Czech Republic",23,2013,17,2013
+Czech Republic,PRIBRAM,"PRIBRAM, Czech Republic",23,2013,17,2013
+Czech Republic,TANVALD,"TANVALD, Czech Republic",23,2013,17,2013
+Czech Republic,CESKA LIPA,"CESKA LIPA, Czech Republic",23,2013,17,2013
+Czech Republic,ZNOJMO,"ZNOJMO, Czech Republic",23,2013,19,2013
+Czech Republic,CESKE BUDEJOVICE,"CESKE BUDEJOVICE, Czech Republic",22,2013,18,2013
+Czech Republic,Jicín,"Jicín, Czech Republic",22,2013,17,2013
+Czech Republic,TRUTNOV,"TRUTNOV, Czech Republic",22,2013,16,2013
+Czech Republic,TREBIC,"TREBIC, Czech Republic",22,2013,16,2013
+Czech Republic,JABLONEC,"JABLONEC, Czech Republic",21,2013,16,2013
+Czech Republic,JIHLAVA,"JIHLAVA, Czech Republic",20,2013,16,2013
+Czech Republic,CHEB,"CHEB, Czech Republic",18,2013,13,2013
+Czech Republic,SOKOLOV,"SOKOLOV, Czech Republic",17,2013,13,2013
+Denmark,COPENHAGEN,"COPENHAGEN, Denmark",26,2013,11,2013
+Denmark,AALBORG,"AALBORG, Denmark",23,2013,11,2013
+Denmark,ODENSE,"ODENSE, Denmark",22,2013,10,2013
+Denmark,ARHUS,"ARHUS, Denmark",20,2013,10,2013
+Denmark,KELDSNOR,"KELDSNOR, Denmark",15,2013,7,2013
+Ecuador,Santo Domingo,"Santo Domingo, Ecuador",68,2012,33,2012
+Ecuador,Milagro,"Milagro, Ecuador",66,2012,31,2012
+Ecuador,Quito,"Quito, Ecuador",36,2013,18,2013
+Ecuador,Cuenca,"Cuenca, Ecuador",32,2013,9,2013
+Ecuador,Latacunga,"Latacunga, Ecuador",28,2012,13,2012
+Ecuador,Manta,"Manta, Ecuador",27,2012,13,2012
+Ecuador,Portoviejo,"Portoviejo, Ecuador",24,2012,11,2012
+Ecuador,Ambato,"Ambato, Ecuador",19,2012,9,2012
+Ecuador,Ibarra,"Ibarra, Ecuador",18,2012,8,2012
+Egypt,Greater Cairo,"Greater Cairo, Egypt",179,2013,75,2013
+Egypt,Delta region,"Delta region, Egypt",167,2013,70,2013
+El Salvador,San Salvador,"San Salvador, El Salvador",77,2014,41,2014
+Estonia,TARTU,"TARTU, Estonia",17,2013,8,2013
+Estonia,KOHTLA-JARVE,"KOHTLA-JARVE, Estonia",16,2013,6,2013
+Estonia,NARVA,"NARVA, Estonia",14,2013,7,2013
+Estonia,TALLINN,"TALLINN, Estonia",13,2013,8,2013
+Finland,Helsinki,"Helsinki, Finland",19,2014,8,2014
+Finland,Tampere,"Tampere, Finland",18,2014,9,2014
+Finland,Vantaa,"Vantaa, Finland",16,2014,8,2014
+Finland,Lappeenranta,"Lappeenranta, Finland",16,2014,8,2014
+Finland,Hyvinkää,"Hyvinkää, Finland",15,2014,8,2014
+Finland,Pietarsaari,"Pietarsaari, Finland",15,2014,7,2014
+Finland,Kuopio,"Kuopio, Finland",15,2014,5,2014
+Finland,Lahti,"Lahti, Finland",15,2014,7,2014
+Finland,Kotka,"Kotka, Finland",15,2014,7,2014
+Finland,Turku,"Turku, Finland",14,2014,7,2014
+Finland,Kouvola,"Kouvola, Finland",14,2014,7,2014
+Finland,Vaasa,"Vaasa, Finland",14,2014,6,2014
+Finland,Mikkeli,"Mikkeli, Finland",13,2014,7,2014
+Finland,Oulu,"Oulu, Finland",13,2014,7,2014
+Finland,Pori,"Pori, Finland",13,2014,6,2014
+Finland,Imatra,"Imatra, Finland",13,2014,6,2014
+Finland,Kajaani,"Kajaani, Finland",12,2014,6,2014
+Finland,Virolahti,"Virolahti, Finland",12,2014,7,2014
+Finland,Valkeakoski,"Valkeakoski, Finland",12,2014,6,2014
+Finland,Jyväskylä,"Jyväskylä, Finland",12,2014,6,2014
+Finland,Harjavalta,"Harjavalta, Finland",12,2014,7,2014
+Finland,Lohja,"Lohja, Finland",11,2014,6,2014
+Finland,Raahe,"Raahe, Finland",9,2014,4,2014
+Finland,Muonio,"Muonio, Finland",4,2014,2,2014
+France,PANTIN,"PANTIN, France",36,2014,22,2014
+France,CAYENNE,"CAYENNE, France",33,2014,15,2014
+France,FORT-DE-FRANCE,"FORT-DE-FRANCE, France",33,2014,10,2014
+France,COULOMMIERS,"COULOMMIERS, France",31,2014,19,2014
+France,LE ROBERT,"LE ROBERT, France",31,2014,19,2014
+France,LA MULATIERE,"LA MULATIERE, France",30,2014,17,2014
+France,VILLEURBANNE,"VILLEURBANNE, France",29,2014,18,2014
+France,GARDANNE,"GARDANNE, France",29,2014,14,2014
+France,PASSY,"PASSY, France",29,2014,18,2014
+France,SCHOELCHER,"SCHOELCHER, France",29,2014,18,2014
+France,MARSEILLE,"MARSEILLE, France",28,2014,16,2014
+France,NICE,"NICE, France",28,2014,13,2014
+France,ECHIROLLES,"ECHIROLLES, France",28,2014,15,2014
+France,PARIS,"PARIS, France",27,2014,17,2014
+France,ANGLET,"ANGLET, France",27,2014,16,2014
+France,CONTES,"CONTES, France",27,2014,16,2014
+France,GRANDE-SYNTHE,"GRANDE-SYNTHE, France",27,2014,16,2014
+France,LE LAMENTIN,"LE LAMENTIN, France",27,2014,16,2014
+France,MELUN,"MELUN, France",27,2014,17,2014
+France,PEILLON,"PEILLON, France",27,2014,16,2014
+France,ROUBAIX,"ROUBAIX, France",27,2014,20,2014
+France,ANTIBES,"ANTIBES, France",26,2014,16,2014
+France,ARLES,"ARLES, France",26,2014,16,2014
+France,DIEPPE,"DIEPPE, France",26,2014,16,2014
+France,CHATEAUNEUF-LES-MARTIGUES,"CHATEAUNEUF-LES-MARTIGUES, France",25,2014,15,2014
+France,FLORANGE,"FLORANGE, France",25,2014,15,2014
+France,FORBACH,"FORBACH, France",25,2014,16,2014
+France,FOS-SUR-MER,"FOS-SUR-MER, France",25,2014,15,2014
+France,LA LECHERE,"LA LECHERE, France",25,2014,15,2014
+France,NEUVES-MAISONS,"NEUVES-MAISONS, France",25,2014,15,2014
+France,SCHOENECK,"SCHOENECK, France",25,2014,15,2014
+France,STRASBOURG,"STRASBOURG, France",25,2014,16,2014
+France,CAPPELLE-LA-GRANDE,"CAPPELLE-LA-GRANDE, France",24,2014,15,2014
+France,GRENOBLE,"GRENOBLE, France",24,2014,12,2014
+France,LA ROCHELLE,"LA ROCHELLE, France",24,2014,10,2014
+France,LE PONTET,"LE PONTET, France",24,2014,14,2014
+France,MARIGNANE,"MARIGNANE, France",24,2014,14,2014
+France,MIRAMAS,"MIRAMAS, France",24,2014,14,2014
+France,NOGENT-SUR-OISE,"NOGENT-SUR-OISE, France",24,2014,14,2014
+France,QUIMPER,"QUIMPER, France",24,2014,14,2014
+France,SAINT-REMY-SUR-AVRE,"SAINT-REMY-SUR-AVRE, France",24,2014,14,2014
+France,TOULON,"TOULON, France",24,2014,10,2014
+France,TOURCOING,"TOURCOING, France",24,2014,14,2014
+France,VIENNE,"VIENNE, France",24,2014,14,2014
+France,SAINT-DENIS,"SAINT-DENIS, France",23,2014,15,2014
+France,AIX-EN-PROVENCE,"AIX-EN-PROVENCE, France",23,2014,13,2014
+France,AJACCIO,"AJACCIO, France",23,2014,10,2014
+France,BASTIA,"BASTIA, France",23,2014,11,2014
+France,BOULOGNE-SUR-MER,"BOULOGNE-SUR-MER, France",23,2014,14,2014
+France,CAGNES-SUR-MER,"CAGNES-SUR-MER, France",23,2014,14,2014
+France,DUNKERQUE,"DUNKERQUE, France",23,2014,16,2014
+France,FEYZIN,"FEYZIN, France",23,2014,14,2014
+France,NANCY,"NANCY, France",23,2014,13,2014
+France,POINTE-A-PITRE,"POINTE-A-PITRE, France",23,2014,14,2014
+France,RIEUX,"RIEUX, France",23,2014,14,2014
+France,ROUSSILLON,"ROUSSILLON, France",23,2014,14,2014
+France,SARROLA-CARCOPINO,"SARROLA-CARCOPINO, France",23,2014,14,2014
+France,VALENCIENNES,"VALENCIENNES, France",23,2014,15,2014
+France,ROUEN,"ROUEN, France",22,2014,13,2014
+France,BELLEVILLE-SUR-MEUSE,"BELLEVILLE-SUR-MEUSE, France",22,2014,14,2014
+France,GONESSE,"GONESSE, France",22,2014,14,2014
+France,SAINT-JEAN-DE-BRAYE,"SAINT-JEAN-DE-BRAYE, France",22,2014,14,2014
+France,BORDEAUX,"BORDEAUX, France",22,2014,13,2014
+France,AYTRE,"AYTRE, France",22,2014,13,2014
+France,BEAUVAIS,"BEAUVAIS, France",22,2014,15,2014
+France,BOBIGNY,"BOBIGNY, France",22,2014,14,2014
+France,CANNES,"CANNES, France",22,2014,14,2014
+France,EPERNAY,"EPERNAY, France",22,2014,14,2014
+France,GENNEVILLIERS,"GENNEVILLIERS, France",22,2014,14,2014
+France,HEMING,"HEMING, France",22,2014,13,2014
+France,LE PETIT-QUEVILLY,"LE PETIT-QUEVILLY, France",22,2014,14,2014
+France,LES ABYMES,"LES ABYMES, France",22,2014,13,2014
+France,LILLE,"LILLE, France",22,2014,17,2014
+France,LONS-LE-SAUNIER,"LONS-LE-SAUNIER, France",22,2014,12,2014
+France,LYON,"LYON, France",22,2014,14,2014
+France,MARCQ-EN-BAROEUL,"MARCQ-EN-BAROEUL, France",22,2014,13,2014
+France,MARMANDE,"MARMANDE, France",22,2014,13,2014
+France,PAU,"PAU, France",22,2014,13,2014
+France,PORT-DE-BOUC,"PORT-DE-BOUC, France",22,2014,13,2014
+France,PORTES-LES-VALENCE,"PORTES-LES-VALENCE, France",22,2014,13,2014
+France,SAINT-FONS,"SAINT-FONS, France",22,2014,13,2014
+France,SAINT-PIERRE,"SAINT-PIERRE, France",22,2014,9,2014
+France,SALOME,"SALOME, France",22,2014,13,2014
+France,TREMBLAY-EN-FRANCE,"TREMBLAY-EN-FRANCE, France",22,2014,13,2014
+France,METZ,"METZ, France",21,2014,17,2014
+France,AVIGNON,"AVIGNON, France",21,2014,13,2014
+France,BESANCON,"BESANCON, France",21,2014,14,2014
+France,CALAIS,"CALAIS, France",21,2014,15,2014
+France,AMIENS,"AMIENS, France",21,2014,13,2014
+France,BETHUNE,"BETHUNE, France",21,2014,13,2014
+France,BRIVE-LA-GAILLARDE,"BRIVE-LA-GAILLARDE, France",21,2014,13,2014
+France,CAMBRAI,"CAMBRAI, France",21,2014,11,2014
+France,DOUAI,"DOUAI, France",21,2014,16,2014
+France,FROLOIS,"FROLOIS, France",21,2014,13,2014
+France,GANDRANGE,"GANDRANGE, France",21,2014,13,2014
+France,GENAS,"GENAS, France",21,2014,13,2014
+France,GRAVELINES,"GRAVELINES, France",21,2014,13,2014
+France,HORNAING,"HORNAING, France",21,2014,13,2014
+France,JONVILLE-EN-WOEVRE,"JONVILLE-EN-WOEVRE, France",21,2014,15,2014
+France,MATOURY,"MATOURY, France",21,2014,13,2014
+France,NIMES,"NIMES, France",21,2014,14,2014
+France,OUTREAU,"OUTREAU, France",21,2014,13,2014
+France,RIVE-DE-GIER,"RIVE-DE-GIER, France",21,2014,13,2014
+France,ROMANS-SUR-ISERE,"ROMANS-SUR-ISERE, France",21,2014,13,2014
+France,SAINT-MARTIN-D'HERES,"SAINT-MARTIN-D'HERES, France",21,2014,13,2014
+France,SALAISE-SUR-SANNE,"SALAISE-SUR-SANNE, France",21,2014,16,2014
+France,TERNAY,"TERNAY, France",21,2014,13,2014
+France,VAULX-EN-VELIN,"VAULX-EN-VELIN, France",21,2014,13,2014
+France,VILLEFRANCHE-SUR-SAONE,"VILLEFRANCHE-SUR-SAONE, France",21,2014,13,2014
+France,VOIRON,"VOIRON, France",21,2014,13,2014
+France,ANNECY,"ANNECY, France",20,2014,16,2014
+France,GAP,"GAP, France",20,2014,12,2014
+France,ANGOULEME,"ANGOULEME, France",20,2014,10,2014
+France,BOURG-LES-VALENCE,"BOURG-LES-VALENCE, France",20,2014,14,2014
+France,CAEN,"CAEN, France",20,2014,11,2014
+France,CERGY,"CERGY, France",20,2014,12,2014
+France,CHARLEVILLE-MEZIERES,"CHARLEVILLE-MEZIERES, France",20,2014,12,2014
+France,CHERBOURG-OCTEVILLE,"CHERBOURG-OCTEVILLE, France",20,2014,12,2014
+France,CREIL,"CREIL, France",20,2014,13,2014
+France,CROLLES,"CROLLES, France",20,2014,12,2014
+France,DENAIN,"DENAIN, France",20,2014,12,2014
+France,FONTAINE,"FONTAINE, France",20,2014,12,2014
+France,IFS,"IFS, France",20,2014,12,2014
+France,LA ROCHE-SUR-YON,"LA ROCHE-SUR-YON, France",20,2014,12,2014
+France,LOGNES,"LOGNES, France",20,2014,12,2014
+France,MERIGNAC,"MERIGNAC, France",20,2014,12,2014
+France,MIRIBEL,"MIRIBEL, France",20,2014,12,2014
+France,MONT-DE-MARSAN,"MONT-DE-MARSAN, France",20,2014,10,2014
+France,MONTPELLIER,"MONTPELLIER, France",20,2014,16,2014
+France,MUNCHHAUSEN,"MUNCHHAUSEN, France",20,2014,12,2014
+France,NIORT,"NIORT, France",20,2014,10,2014
+France,NOGENT-SUR-MARNE,"NOGENT-SUR-MARNE, France",20,2014,12,2014
+France,PORT-SAINT-LOUIS-DU-RHONE,"PORT-SAINT-LOUIS-DU-RHONE, France",20,2014,12,2014
+France,PUSIGNAN,"PUSIGNAN, France",20,2014,12,2014
+France,PUTEAUX,"PUTEAUX, France",20,2014,12,2014
+France,RAMBOUILLET,"RAMBOUILLET, France",20,2014,13,2014
+France,SAINT-JULIEN-MONT-DENIS,"SAINT-JULIEN-MONT-DENIS, France",20,2014,12,2014
+France,SALON-DE-PROVENCE,"SALON-DE-PROVENCE, France",20,2014,12,2014
+France,TARTAS,"TARTAS, France",20,2014,12,2014
+France,TROYES,"TROYES, France",20,2014,12,2014
+France,VITRY-SUR-SEINE,"VITRY-SUR-SEINE, France",20,2014,13,2014
+France,LE HAVRE,"LE HAVRE, France",19,2014,12,2014
+France,SAINT-ETIENNE,"SAINT-ETIENNE, France",19,2014,11,2014
+France,BREST,"BREST, France",19,2014,13,2014
+France,CHAMBERY,"CHAMBERY, France",19,2014,15,2014
+France,MULHOUSE,"MULHOUSE, France",19,2014,12,2014
+France,RENNES,"RENNES, France",19,2014,12,2014
+France,THIONVILLE,"THIONVILLE, France",19,2014,17,2014
+France,NANTES,"NANTES, France",19,2014,13,2014
+France,JOUE-LES-TOURS,"JOUE-LES-TOURS, France",19,2014,12,2014
+France,LUNEVILLE,"LUNEVILLE, France",19,2014,12,2014
+France,SAINT-MARTIN-DU-TERTRE,"SAINT-MARTIN-DU-TERTRE, France",19,2014,12,2014
+France,TOULOUSE,"TOULOUSE, France",19,2014,12,2014
+France,ANGERS,"ANGERS, France",19,2014,12,2014
+France,BAYONNE,"BAYONNE, France",19,2014,8,2014
+France,BETHENY,"BETHENY, France",19,2014,11,2014
+France,CAMPAGNE-LES-BOULONNAIS,"CAMPAGNE-LES-BOULONNAIS, France",19,2014,14,2014
+France,CHALONS-EN-CHAMPAGNE,"CHALONS-EN-CHAMPAGNE, France",19,2014,11,2014
+France,CHAMALIERES,"CHAMALIERES, France",19,2014,11,2014
+France,CHAUNY,"CHAUNY, France",19,2014,11,2014
+France,COLMAR,"COLMAR, France",19,2014,11,2014
+France,ESCAUTPONT,"ESCAUTPONT, France",19,2014,11,2014
+France,GRAND-COURONNE,"GRAND-COURONNE, France",19,2014,11,2014
+France,HYERES,"HYERES, France",19,2014,11,2014
+France,LORIENT,"LORIENT, France",19,2014,11,2014
+France,MAUBEUGE,"MAUBEUGE, France",19,2014,11,2014
+France,MEZE,"MEZE, France",19,2014,16,2014
+France,MONTBELIARD,"MONTBELIARD, France",19,2014,13,2014
+France,NUITS-SAINT-GEORGES,"NUITS-SAINT-GEORGES, France",19,2014,11,2014
+France,ORLEANS,"ORLEANS, France",19,2014,11,2014
+France,SAINT-BRIEUC,"SAINT-BRIEUC, France",19,2014,11,2014
+France,SAINT-LAURENT-BLANGY,"SAINT-LAURENT-BLANGY, France",19,2014,11,2014
+France,SAINT-QUENTIN,"SAINT-QUENTIN, France",19,2014,13,2014
+France,SAINTE-SAVINE,"SAINTE-SAVINE, France",19,2014,14,2014
+France,SALOUEL,"SALOUEL, France",19,2014,11,2014
+France,TALENCE,"TALENCE, France",19,2014,13,2014
+France,TARBES,"TARBES, France",19,2014,11,2014
+France,TOURS,"TOURS, France",19,2014,11,2014
+France,VALENCE,"VALENCE, France",19,2014,14,2014
+France,WINGLES,"WINGLES, France",19,2014,11,2014
+France,REIMS,"REIMS, France",18,2014,13,2014
+France,BOURGES,"BOURGES, France",18,2014,11,2014
+France,HAYANGE,"HAYANGE, France",18,2014,11,2014
+France,POITIERS,"POITIERS, France",18,2014,12,2014
+France,ARMENTIERES,"ARMENTIERES, France",18,2014,11,2014
+France,ARREST,"ARREST, France",18,2014,11,2014
+France,BASSENS,"BASSENS, France",18,2014,11,2014
+France,BESSIERES,"BESSIERES, France",18,2014,11,2014
+France,BLENOD-LES-PONT-A-MOUSSON,"BLENOD-LES-PONT-A-MOUSSON, France",18,2014,11,2014
+France,CHALON-SUR-SAONE,"CHALON-SUR-SAONE, France",18,2014,13,2014
+France,CHOLET,"CHOLET, France",18,2014,11,2014
+France,DAIX,"DAIX, France",18,2014,11,2014
+France,EVREUX,"EVREUX, France",18,2014,11,2014
+France,GAILLARD,"GAILLARD, France",18,2014,11,2014
+France,LA TALAUDIERE,"LA TALAUDIERE, France",18,2014,11,2014
+France,LABASTIDE-CEZERACQ,"LABASTIDE-CEZERACQ, France",18,2014,11,2014
+France,LE PUY-EN-VELAY,"LE PUY-EN-VELAY, France",18,2014,11,2014
+France,LISIEUX,"LISIEUX, France",18,2014,11,2014
+France,LUNEL-VIEL,"LUNEL-VIEL, France",18,2014,10,2014
+France,MALROY,"MALROY, France",18,2014,11,2014
+France,MANOSQUE,"MANOSQUE, France",18,2014,11,2014
+France,MARTIGUES,"MARTIGUES, France",18,2014,11,2014
+France,PONT-A-MOUSSON,"PONT-A-MOUSSON, France",18,2014,11,2014
+France,ROUMAZIERES-LOUBERT,"ROUMAZIERES-LOUBERT, France",18,2014,11,2014
+France,SAINT-CHAMOND,"SAINT-CHAMOND, France",18,2014,8,2014
+France,VILLAGE-NEUF,"VILLAGE-NEUF, France",18,2014,11,2014
+France,VILLEMANDEUR,"VILLEMANDEUR, France",18,2014,11,2014
+France,VITTEL,"VITTEL, France",18,2014,11,2014
+France,LE CREUSOT,"LE CREUSOT, France",17,2014,11,2014
+France,CHAMONIX-MONT-BLANC,"CHAMONIX-MONT-BLANC, France",17,2014,10,2014
+France,ALBERTVILLE,"ALBERTVILLE, France",17,2014,10,2014
+France,ANNEMASSE,"ANNEMASSE, France",17,2014,12,2014
+France,BAR-LE-DUC,"BAR-LE-DUC, France",17,2014,10,2014
+France,BOIS-HERPIN,"BOIS-HERPIN, France",17,2014,8,2014
+France,BOURG-EN-BRESSE,"BOURG-EN-BRESSE, France",17,2014,10,2014
+France,CERISE,"CERISE, France",17,2014,10,2014
+France,CLERMONT-FERRAND,"CLERMONT-FERRAND, France",17,2014,11,2014
+France,COGNAC,"COGNAC, France",17,2014,10,2014
+France,DAX,"DAX, France",17,2014,12,2014
+France,DONGES,"DONGES, France",17,2014,10,2014
+France,FLEVILLE-DEVANT-NANCY,"FLEVILLE-DEVANT-NANCY, France",17,2014,10,2014
+France,FREMAINVILLE,"FREMAINVILLE, France",17,2014,10,2014
+France,LE MANS,"LE MANS, France",17,2014,13,2014
+France,LENS,"LENS, France",17,2014,10,2014
+France,LUCCIANA,"LUCCIANA, France",17,2014,10,2014
+France,PRUNAY-LE-TEMPLE,"PRUNAY-LE-TEMPLE, France",17,2014,10,2014
+France,SAILLAT-SUR-VIENNE,"SAILLAT-SUR-VIENNE, France",17,2014,10,2014
+France,SAINT-DIZIER,"SAINT-DIZIER, France",17,2014,11,2014
+France,SAINT-JUNIEN,"SAINT-JUNIEN, France",17,2014,10,2014
+France,SAINT-LO,"SAINT-LO, France",17,2014,10,2014
+France,SAINT-LOUIS,"SAINT-LOUIS, France",17,2014,10,2014
+France,SAINT-NAZAIRE,"SAINT-NAZAIRE, France",17,2014,10,2014
+France,VAL-DE-REUIL,"VAL-DE-REUIL, France",17,2014,10,2014
+France,VIF,"VIF, France",17,2014,10,2014
+France,NOEUX-LES-MINES,"NOEUX-LES-MINES, France",16,2014,10,2014
+France,PERPIGNAN,"PERPIGNAN, France",16,2014,10,2014
+France,SAINT-PAUL,"SAINT-PAUL, France",16,2014,6,2014
+France,NOTRE-DAME-DE-BLIQUETUIT,"NOTRE-DAME-DE-BLIQUETUIT, France",16,2014,10,2014
+France,AIRVAULT,"AIRVAULT, France",16,2014,9,2014
+France,ALBI,"ALBI, France",16,2014,15,2014
+France,BELFORT,"BELFORT, France",16,2014,9,2014
+France,BILLERE,"BILLERE, France",16,2014,10,2014
+France,BLOIS,"BLOIS, France",16,2014,9,2014
+France,BOURGOIN-JALLIEU,"BOURGOIN-JALLIEU, France",16,2014,9,2014
+France,CARLING,"CARLING, France",16,2014,9,2014
+France,CARTIGNIES,"CARTIGNIES, France",16,2014,9,2014
+France,CHATEAUROUX,"CHATEAUROUX, France",16,2014,9,2014
+France,FROSSAY,"FROSSAY, France",16,2014,9,2014
+France,LA COURONNE,"LA COURONNE, France",16,2014,9,2014
+France,LONGLAVILLE,"LONGLAVILLE, France",16,2014,9,2014
+France,LUCE,"LUCE, France",16,2014,11,2014
+France,MONTLUCON,"MONTLUCON, France",16,2014,9,2014
+France,PERIGUEUX,"PERIGUEUX, France",16,2014,9,2014
+France,ROGNAC,"ROGNAC, France",16,2014,11,2014
+France,SAINT-DENIS-D'ANJOU,"SAINT-DENIS-D'ANJOU, France",16,2014,12,2014
+France,SAINT-ETIENNE-DE-MONTLUC,"SAINT-ETIENNE-DE-MONTLUC, France",16,2014,9,2014
+France,SAINT-GELY-DU-FESC,"SAINT-GELY-DU-FESC, France",16,2014,9,2014
+France,SAINT-JULIEN-LES-METZ,"SAINT-JULIEN-LES-METZ, France",16,2014,9,2014
+France,SAINT-LAURENT-DES-ARBRES,"SAINT-LAURENT-DES-ARBRES, France",16,2014,12,2014
+France,TULLE,"TULLE, France",16,2014,9,2014
+France,VIERZON,"VIERZON, France",16,2014,10,2014
+France,AGEN,"AGEN, France",15,2014,9,2014
+France,ATTON,"ATTON, France",15,2014,9,2014
+France,AUXERRE,"AUXERRE, France",15,2014,10,2014
+France,BAIE-MAHAULT,"BAIE-MAHAULT, France",15,2014,9,2014
+France,BIZANOS,"BIZANOS, France",15,2014,9,2014
+France,CASTRES,"CASTRES, France",15,2014,9,2014
+France,DOLE,"DOLE, France",15,2014,9,2014
+France,DREUX,"DREUX, France",15,2014,9,2014
+France,EPINAL,"EPINAL, France",15,2014,9,2014
+France,GUERET,"GUERET, France",15,2014,9,2014
+France,L'HOPITAL,"L'HOPITAL, France",15,2014,9,2014
+France,MACON,"MACON, France",15,2014,9,2014
+France,MONTANDON,"MONTANDON, France",15,2014,9,2014
+France,PEYRUSSE-VIEILLE,"PEYRUSSE-VIEILLE, France",15,2014,10,2014
+France,ROANNE,"ROANNE, France",15,2014,9,2014
+France,SAINTE-MARGUERITE-SUR-MER,"SAINTE-MARGUERITE-SUR-MER, France",15,2014,9,2014
+France,SAINTE-SUZANNE,"SAINTE-SUZANNE, France",15,2014,9,2014
+France,SENS,"SENS, France",15,2014,9,2014
+France,LIMOGES,"LIMOGES, France",14,2014,9,2014
+France,FONTAINEBLEAU,"FONTAINEBLEAU, France",14,2014,9,2014
+France,VERNEUIL,"VERNEUIL, France",14,2014,9,2014
+France,DIJON,"DIJON, France",14,2014,12,2014
+France,AURILLAC,"AURILLAC, France",14,2014,8,2014
+France,ISSOIRE,"ISSOIRE, France",14,2014,8,2014
+France,LA COULONCHE,"LA COULONCHE, France",14,2014,9,2014
+France,LA TARDIERE,"LA TARDIERE, France",14,2014,10,2014
+France,LAVAL,"LAVAL, France",14,2014,8,2014
+France,LOURDES,"LOURDES, France",14,2014,10,2014
+France,SAINT-GERMAIN-SUR-RHONE,"SAINT-GERMAIN-SUR-RHONE, France",14,2014,7,2014
+France,SARREGUEMINES,"SARREGUEMINES, France",14,2014,8,2014
+France,VANNES,"VANNES, France",14,2014,9,2014
+France,VESOUL,"VESOUL, France",14,2014,8,2014
+France,CHAMPFORGEUIL,"CHAMPFORGEUIL, France",13,2014,8,2014
+France,GUIPRY,"GUIPRY, France",13,2014,10,2014
+France,LES MAZURES,"LES MAZURES, France",13,2014,9,2014
+France,MONTCEAU-LES-MINES,"MONTCEAU-LES-MINES, France",13,2014,8,2014
+France,NEVERS,"NEVERS, France",13,2014,8,2014
+France,OYONNAX,"OYONNAX, France",13,2014,8,2014
+France,SAINT-JEAN-DE-MAURIENNE,"SAINT-JEAN-DE-MAURIENNE, France",13,2014,8,2014
+France,VOLMUNSTER,"VOLMUNSTER, France",13,2014,8,2014
+France,LE PALAIS-SUR-VIENNE,"LE PALAIS-SUR-VIENNE, France",12,2014,7,2014
+France,PARAY-LE-FRESIL,"PARAY-LE-FRESIL, France",12,2014,9,2014
+France,SAINT-MICHEL-L'OBSERVATOIRE,"SAINT-MICHEL-L'OBSERVATOIRE, France",12,2014,7,2014
+France,VENACO,"VENACO, France",12,2014,7,2014
+France,VILLIERS-EN-BOIS,"VILLIERS-EN-BOIS, France",12,2014,7,2014
+France,LES ANCIZES-COMPS,"LES ANCIZES-COMPS, France",11,2014,6,2014
+France,CHATENOIS,"CHATENOIS, France",10,2014,6,2014
+France,ISSOUDUN,"ISSOUDUN, France",10,2014,11,2014
+France,RAGEADE,"RAGEADE, France",10,2014,6,2014
+France,SAINT-NAZAIRE-LE-DESERT,"SAINT-NAZAIRE-LE-DESERT, France",10,2014,7,2014
+France,SAINT-BRISSON,"SAINT-BRISSON, France",9,2014,5,2014
+France,SAINT-JOSEPH,"SAINT-JOSEPH, France",9,2014,4,2014
+France,LE TAMPON,"LE TAMPON, France",7,2014,4,2014
+France,ROISEY,"ROISEY, France",7,2014,4,2014
+Georgia,Tbilisi,"Tbilisi, Georgia",55,2014,29,2014
+Georgia,Abastumani,"Abastumani, Georgia",27,2014,14,2014
+Germany,REGENSBURG,"REGENSBURG, Germany",27,2013,19,2013
+Germany,FRANKFURT,"FRANKFURT, Germany",26,2013,18,2013
+Germany,DRESDEN,"DRESDEN, Germany",26,2013,17,2013
+Germany,GöRLITZ,"GöRLITZ, Germany",26,2013,18,2013
+Germany,DüSSELDORF,"DüSSELDORF, Germany",25,2013,14,2013
+Germany,GELSENKIRCHEN,"GELSENKIRCHEN, Germany",25,2013,17,2013
+Germany,KREFELD,"KREFELD, Germany",24,2013,17,2013
+Germany,KöLN,"KöLN, Germany",24,2013,16,2013
+Germany,STUTTGART,"STUTTGART, Germany",24,2013,15,2013
+Germany,DORTMUND,"DORTMUND, Germany",24,2013,16,2013
+Germany,LüNEN,"LüNEN, Germany",24,2013,16,2013
+Germany,NIEDERZIER,"NIEDERZIER, Germany",24,2013,16,2013
+Germany,BERLIN,"BERLIN, Germany",24,2013,16,2013
+Germany,ESSEN,"ESSEN, Germany",24,2013,17,2013
+Germany,COTTBUS,"COTTBUS, Germany",23,2013,17,2013
+Germany,KASSEL,"KASSEL, Germany",23,2013,13,2013
+Germany,HüRTH,"HüRTH, Germany",23,2013,16,2013
+Germany,NüRNBERG,"NüRNBERG, Germany",23,2013,14,2013
+Germany,UNNA,"UNNA, Germany",23,2013,16,2013
+Germany,ANSBACH,"ANSBACH, Germany",23,2013,16,2013
+Germany,BORNA,"BORNA, Germany",23,2013,15,2013
+Germany,BOTTROP,"BOTTROP, Germany",23,2013,15,2013
+Germany,POTSDAM,"POTSDAM, Germany",22,2013,13,2013
+Germany,DUISBURG,"DUISBURG, Germany",22,2013,15,2013
+Germany,AUGSBURG,"AUGSBURG, Germany",22,2013,15,2013
+Germany,NEU-ULM,"NEU-ULM, Germany",22,2013,15,2013
+Germany,WORMS,"WORMS, Germany",22,2013,15,2013
+Germany,LANDSHUT,"LANDSHUT, Germany",22,2013,15,2013
+Germany,DARMSTADT,"DARMSTADT, Germany",22,2013,15,2013
+Germany,MüNSTER,"MüNSTER, Germany",22,2013,15,2013
+Germany,WESEL,"WESEL, Germany",22,2013,17,2013
+Germany,NETTETAL,"NETTETAL, Germany",22,2013,15,2013
+Germany,BAUTZEN,"BAUTZEN, Germany",22,2013,15,2013
+Germany,INGOLSTADT,"INGOLSTADT, Germany",22,2013,15,2013
+Germany,LUDWIGSHAFEN,"LUDWIGSHAFEN, Germany",21,2013,15,2013
+Germany,MANNHEIM,"MANNHEIM, Germany",21,2013,15,2013
+Germany,WETZLAR,"WETZLAR, Germany",21,2013,15,2013
+Germany,FRANKFURT A. MAIN,"FRANKFURT A. MAIN, Germany",21,2013,15,2013
+Germany,ERFURT,"ERFURT, Germany",21,2013,14,2013
+Germany,HANAU,"HANAU, Germany",21,2013,15,2013
+Germany,BORKEN,"BORKEN, Germany",21,2013,15,2013
+Germany,ARZBERG,"ARZBERG, Germany",21,2013,15,2013
+Germany,LINDAU (BODENSEE),"LINDAU (BODENSEE), Germany",21,2013,14,2013
+Germany,MöNCHENGLADBACH,"MöNCHENGLADBACH, Germany",21,2013,14,2013
+Germany,MüNCHEN,"MüNCHEN, Germany",21,2013,14,2013
+Germany,PLAUEN,"PLAUEN, Germany",21,2013,14,2013
+Germany,MüLHEIM,"MüLHEIM, Germany",21,2013,14,2013
+Germany,WEIDEN I.D.OPF.,"WEIDEN I.D.OPF., Germany",21,2013,14,2013
+Germany,HAMBURG,"HAMBURG, Germany",21,2013,14,2013
+Germany,FREIBERG,"FREIBERG, Germany",21,2013,14,2013
+Germany,BRUNBüTTEL,"BRUNBüTTEL, Germany",21,2013,13,2013
+Germany,DESSAU,"DESSAU, Germany",21,2013,14,2013
+Germany,RAUNHEIM,"RAUNHEIM, Germany",21,2013,14,2013
+Germany,GLAUCHAU,"GLAUCHAU, Germany",20,2013,14,2013
+Germany,WIESBADEN,"WIESBADEN, Germany",20,2013,15,2013
+Germany,SULZBACH-ROSENBERG,"SULZBACH-ROSENBERG, Germany",20,2013,14,2013
+Germany,ULM,"ULM, Germany",20,2013,14,2013
+Germany,BONN,"BONN, Germany",20,2013,14,2013
+Germany,FLENSBURG,"FLENSBURG, Germany",20,2013,12,2013
+Germany,BERNBURG,"BERNBURG, Germany",20,2013,14,2013
+Germany,MAINZ,"MAINZ, Germany",20,2013,14,2013
+Germany,ALTENBURG,"ALTENBURG, Germany",20,2013,14,2013
+Germany,KOBLENZ,"KOBLENZ, Germany",20,2013,14,2013
+Germany,TRIER,"TRIER, Germany",20,2013,14,2013
+Germany,BERNHAUSEN,"BERNHAUSEN, Germany",20,2013,14,2013
+Germany,GERA,"GERA, Germany",20,2013,14,2013
+Germany,BREMEN,"BREMEN, Germany",20,2013,12,2013
+Germany,SCHWANDORF,"SCHWANDORF, Germany",20,2013,14,2013
+Germany,DATTELN,"DATTELN, Germany",20,2013,17,2013
+Germany,BIELEFELD,"BIELEFELD, Germany",20,2013,14,2013
+Germany,SOLINGEN,"SOLINGEN, Germany",20,2013,14,2013
+Germany,HATTINGEN,"HATTINGEN, Germany",20,2013,14,2013
+Germany,BURGHAUSEN,"BURGHAUSEN, Germany",20,2013,16,2013
+Germany,EISENHüTTENSTADT,"EISENHüTTENSTADT, Germany",20,2013,15,2013
+Germany,CHEMNITZ,"CHEMNITZ, Germany",20,2013,13,2013
+Germany,SCHWERTE,"SCHWERTE, Germany",20,2013,15,2013
+Germany,BEBRA,"BEBRA, Germany",20,2013,13,2013
+Germany,NEUBRANDENBURG,"NEUBRANDENBURG, Germany",19,2013,13,2013
+Germany,NEUWIED,"NEUWIED, Germany",19,2013,13,2013
+Germany,KULMBACH,"KULMBACH, Germany",19,2013,13,2013
+Germany,KEHL,"KEHL, Germany",19,2013,14,2013
+Germany,RATINGEN,"RATINGEN, Germany",19,2013,13,2013
+Germany,LIMBURG,"LIMBURG, Germany",19,2013,13,2013
+Germany,HEIDELBERG,"HEIDELBERG, Germany",19,2013,13,2013
+Germany,RADEBEUL,"RADEBEUL, Germany",19,2013,13,2013
+Germany,KLEINWALLSTADT,"KLEINWALLSTADT, Germany",19,2013,13,2013
+Germany,ANNABERG-BUCHHOLZ,"ANNABERG-BUCHHOLZ, Germany",19,2013,14,2013
+Germany,LEVERKUSEN,"LEVERKUSEN, Germany",19,2013,13,2013
+Germany,ZEITZ,"ZEITZ, Germany",19,2013,13,2013
+Germany,SCHWEDT/ODER,"SCHWEDT/ODER, Germany",19,2013,14,2013
+Germany,SAARLOUIS,"SAARLOUIS, Germany",19,2013,13,2013
+Germany,COBURG,"COBURG, Germany",19,2013,13,2013
+Germany,ASCHAFFENBURG,"ASCHAFFENBURG, Germany",19,2013,13,2013
+Germany,RIEDSTADT,"RIEDSTADT, Germany",19,2013,13,2013
+Germany,TROSTBERG,"TROSTBERG, Germany",19,2013,14,2013
+Germany,LEUNA,"LEUNA, Germany",19,2013,13,2013
+Germany,KEHLHEIM,"KEHLHEIM, Germany",19,2013,13,2013
+Germany,MARBURG,"MARBURG, Germany",19,2013,13,2013
+Germany,NORDHAUSEN,"NORDHAUSEN, Germany",19,2013,13,2013
+Germany,SAARBRüCKEN,"SAARBRüCKEN, Germany",18,2013,13,2013
+Germany,LUDWIGSBURG,"LUDWIGSBURG, Germany",18,2013,13,2013
+Germany,FRIEDRICHSHAFEN,"FRIEDRICHSHAFEN, Germany",18,2013,13,2013
+Germany,KONSTANZ,"KONSTANZ, Germany",18,2013,12,2013
+Germany,NEUENBURG,"NEUENBURG, Germany",18,2013,12,2013
+Germany,SCHWÃ„BISCH HALL,"SCHWÃ„BISCH HALL, Germany",18,2013,12,2013
+Germany,KARLSRUHE,"KARLSRUHE, Germany",18,2013,14,2013
+Germany,WIESLOCH,"WIESLOCH, Germany",18,2013,12,2013
+Germany,WöRTH,"WöRTH, Germany",18,2013,12,2013
+Germany,NEUSTADT A.D.DONAU,"NEUSTADT A.D.DONAU, Germany",18,2013,12,2013
+Germany,DILLINGEN,"DILLINGEN, Germany",18,2013,12,2013
+Germany,BAMBERG,"BAMBERG, Germany",18,2013,12,2013
+Germany,PFORZHEIM,"PFORZHEIM, Germany",18,2013,13,2013
+Germany,SOEST,"SOEST, Germany",18,2013,14,2013
+Germany,REUTLINGEN,"REUTLINGEN, Germany",18,2013,12,2013
+Germany,AACHEN,"AACHEN, Germany",18,2013,12,2013
+Germany,WüRZBURG,"WüRZBURG, Germany",18,2013,12,2013
+Germany,SCHWEINFURT,"SCHWEINFURT, Germany",18,2013,12,2013
+Germany,KAISERSLAUTERN,"KAISERSLAUTERN, Germany",17,2013,13,2013
+Germany,WESTERLAND,"WESTERLAND, Germany",17,2013,12,2013
+Germany,MEWEGEN,"MEWEGEN, Germany",17,2013,12,2013
+Germany,NEURUPPIN,"NEURUPPIN, Germany",17,2013,12,2013
+Germany,BUCKOW,"BUCKOW, Germany",17,2013,13,2013
+Germany,MICHAELSTADT,"MICHAELSTADT, Germany",17,2013,12,2013
+Germany,AALEN,"AALEN, Germany",17,2013,12,2013
+Germany,WEIL AM RHEIN,"WEIL AM RHEIN, Germany",17,2013,13,2013
+Germany,LüBECK,"LüBECK, Germany",17,2013,11,2013
+Germany,KEMPTEN (Allgäu),"KEMPTEN (Allgäu), Germany",16,2013,11,2013
+Germany,DREIssIGACKER,"DREIssIGACKER, Germany",16,2013,11,2013
+Germany,BIBERACH,"BIBERACH, Germany",16,2013,11,2013
+Germany,FREIBURG,"FREIBURG, Germany",16,2013,12,2013
+Germany,BAD AROLSEN/KOHLGRUND,"BAD AROLSEN/KOHLGRUND, Germany",16,2013,12,2013
+Germany,NEUSTADT,"NEUSTADT, Germany",16,2013,11,2013
+Germany,TAUBERBISCHOFSHEIM,"TAUBERBISCHOFSHEIM, Germany",16,2013,11,2013
+Germany,ZELLA-MEHLIS,"ZELLA-MEHLIS, Germany",16,2013,12,2013
+Germany,COLLM,"COLLM, Germany",16,2013,11,2013
+Germany,KLINGENTAL,"KLINGENTAL, Germany",16,2013,11,2013
+Germany,OSNABRUECK,"OSNABRUECK, Germany",16,2013,12,2013
+Germany,GöHLEN,"GöHLEN, Germany",15,2013,10,2013
+Germany,BADEN-BADEN,"BADEN-BADEN, Germany",15,2013,10,2013
+Germany,BITTERFELD,"BITTERFELD, Germany",15,2013,10,2013
+Germany,VILLINGEN-SCHWENNINGEN,"VILLINGEN-SCHWENNINGEN, Germany",14,2013,10,2013
+Germany,DUNZWEILER,"DUNZWEILER, Germany",14,2013,10,2013
+Germany,WOLFSBURG,"WOLFSBURG, Germany",14,2013,9,2013
+Germany,ZINGST,"ZINGST, Germany",13,2013,9,2013
+Germany,NEUGLOBSOW,"NEUGLOBSOW, Germany",13,2013,10,2013
+Germany,FüRTH/ODENWALD,"FüRTH/ODENWALD, Germany",13,2013,9,2013
+Germany,NEUHAUSEN,"NEUHAUSEN, Germany",13,2013,9,2013
+Germany,POSSEN,"POSSEN, Germany",13,2013,9,2013
+Germany,SIMMERATH,"SIMMERATH, Germany",13,2013,9,2013
+Germany,ERPFINGEN,"ERPFINGEN, Germany",12,2013,8,2013
+Germany,HERDORF,"HERDORF, Germany",12,2013,8,2013
+Germany,GOETTINGEN,"GOETTINGEN, Germany",12,2013,10,2013
+Germany,TIEFENBACH,"TIEFENBACH, Germany",12,2013,8,2013
+Germany,CARLSFELD,"CARLSFELD, Germany",12,2013,8,2013
+Germany,WITZENHAUSEN/WALD,"WITZENHAUSEN/WALD, Germany",11,2013,8,2013
+Germany,HORTENKOPF,"HORTENKOPF, Germany",11,2013,8,2013
+Germany,WASCHEID,"WASCHEID, Germany",11,2013,7,2013
+Germany,LEISEL,"LEISEL, Germany",10,2013,7,2013
+Germany,GEHLBERG,"GEHLBERG, Germany",10,2013,7,2013
+Germany,WASSERKUPPE,"WASSERKUPPE, Germany",10,2013,7,2013
+Germany,OBERRIED-HOFSGRUND,"OBERRIED-HOFSGRUND, Germany",8,2013,6,2013
+Greece,LYKOVRISI,"LYKOVRISI, Greece",42,2013,15,2013
+Greece,PATRA,"PATRA, Greece",40,2013,15,2013
+Greece,ATHENS,"ATHENS, Greece",39,2013,14,2013
+Greece,LARISSA,"LARISSA, Greece",37,2013,14,2013
+Greece,PIREAS,"PIREAS, Greece",36,2013,13,2013
+Greece,AMAROUSSIO,"AMAROUSSIO, Greece",35,2013,13,2013
+Greece,VOLOS,"VOLOS, Greece",32,2013,12,2013
+Greece,AGIA PARASKEVI,"AGIA PARASKEVI, Greece",26,2013,10,2013
+Greece,ECHEDORO,"ECHEDORO, Greece",26,2013,9,2013
+Greece,THESSALONIKI,"THESSALONIKI, Greece",21,2013,8,2013
+Guatemala,Guatemala,"Guatemala, Guatemala",56,2013,40,2013
+Honduras,Tegucigalpa,"Tegucigalpa, Honduras",58,2013,36,2013
+Hungary,Miskolc,"Miskolc, Hungary",35,2013,28,2013
+Hungary,Nyíregyháza,"Nyíregyháza, Hungary",32,2013,26,2013
+Hungary,Kazincbarcika,"Kazincbarcika, Hungary",31,2013,25,2013
+Hungary,Pécs,"Pécs, Hungary",30,2013,24,2013
+Hungary,Budapest,"Budapest, Hungary",29,2013,25,2013
+Hungary,Debrecen,"Debrecen, Hungary",27,2013,22,2013
+Hungary,Esztergom,"Esztergom, Hungary",27,2013,17,2013
+Hungary,Dunaújváros,"Dunaújváros, Hungary",26,2013,21,2013
+Hungary,Tatabánya,"Tatabánya, Hungary",26,2013,21,2013
+Hungary,Szeged,"Szeged, Hungary",25,2013,20,2013
+Hungary,Sopron,"Sopron, Hungary",24,2013,19,2013
+Hungary,Gyor,"Gyor, Hungary",23,2013,15,2013
+Hungary,Százhalombatta,"Százhalombatta, Hungary",23,2013,18,2013
+Hungary,Hernádszurdok,"Hernádszurdok, Hungary",22,2013,18,2013
+Hungary,Ajka,"Ajka, Hungary",21,2013,17,2013
+Hungary,Sarród,"Sarród, Hungary",18,2013,14,2013
+Hungary,Veszprém,"Veszprém, Hungary",17,2013,13,2013
+Iceland,REYKJAVIK,"REYKJAVIK, Iceland",15,2013,10,2013
+Iceland,AKUREYRI,"AKUREYRI, Iceland",11,2013,7,2013
+Iceland,HAFNARFJORDUR,"HAFNARFJORDUR, Iceland",8,2012,3,2012
+India,Gwalior,"Gwalior, India",329,2012,176,2012
+India,Allahabad,"Allahabad, India",317,2012,169,2012
+India,Raipur,"Raipur, India",268,2012,143,2012
+India,Delhi,"Delhi, India",229,2012,122,2013
+India,Ludhiana,"Ludhiana, India",227,2012,121,2012
+India,Kanpur,"Kanpur, India",214,2012,114,2012
+India,Khanna,"Khanna, India",212,2012,113,2012
+India,Firozabad,"Firozabad, India",211,2012,113,2012
+India,Lucknow,"Lucknow, India",210,2012,112,2012
+India,Amritsar,"Amritsar, India",202,2012,108,2012
+India,Gobindgarh,"Gobindgarh, India",201,2012,107,2012
+India,Agra,"Agra, India",195,2012,104,2012
+India,Jodhpur,"Jodhpur, India",189,2012,101,2012
+India,Dehradun,"Dehradun, India",187,2012,100,2012
+India,Jaipur,"Jaipur, India",186,2012,99,2012
+India,Howrah,"Howrah, India",186,2012,99,2012
+India,Faridabad,"Faridabad, India",183,2012,98,2012
+India,Dhanbad,"Dhanbad, India",178,2012,95,2012
+India,Bhopal,"Bhopal, India",173,2012,92,2012
+India,Khurja,"Khurja, India",168,2012,89,2012
+India,Patna,"Patna, India",166,2012,148,2013
+India,Raebareli,"Raebareli, India",163,2012,87,2012
+India,Kota,"Kota, India",156,2012,83,2012
+India,Udaipur,"Udaipur, India",155,2012,82,2012
+India,Alwar,"Alwar, India",151,2012,81,2012
+India,Chandrapur,"Chandrapur, India",148,2012,79,2012
+India,Indore,"Indore, India",142,2012,76,2012
+India,Jalandhar,"Jalandhar, India",140,2012,75,2012
+India,Akola,"Akola, India",139,2012,74,2012
+India,Varanasi,"Varanasi, India",138,2012,73,2012
+India,Noida,"Noida, India",136,2012,72,2012
+India,Kolkata,"Kolkata, India",135,2012,61,2014
+India,Jalgaon,"Jalgaon, India",130,2012,69,2012
+India,Meerut,"Meerut, India",129,2012,69,2012
+India,Raniganj,"Raniganj, India",126,2012,67,2012
+India,Navi Mumbai,"Navi Mumbai, India",120,2012,64,2012
+India,Jammu,"Jammu, India",119,2012,63,2012
+India,Bangalore,"Bangalore, India",118,2012,63,2012
+India,Mumbai,"Mumbai, India",117,2012,62,2013
+India,Chandigarh,"Chandigarh, India",110,2012,59,2012
+India,Kolhapur,"Kolhapur, India",110,2012,58,2012
+India,Jhansi,"Jhansi, India",109,2012,58,2012
+India,Rishikesh,"Rishikesh, India",109,2012,58,2012
+India,Sibsagar,"Sibsagar, India",109,2012,58,2012
+India,Durgapur,"Durgapur, India",108,2012,57,2012
+India,Angul,"Angul, India",106,2012,56,2012
+India,Bhilai,"Bhilai, India",103,2012,55,2012
+India,Nagda,"Nagda, India",103,2012,55,2012
+India,Nagpur,"Nagpur, India",102,2012,54,2012
+India,Vadodara,"Vadodara, India",102,2012,54,2012
+India,Jamnagar,"Jamnagar, India",101,2012,54,2012
+India,Amravati,"Amravati, India",100,2012,53,2012
+India,Vapi,"Vapi, India",100,2012,53,2012
+India,Anklesvar,"Anklesvar, India",99,2012,53,2012
+India,Baddi,"Baddi, India",99,2012,53,2012
+India,Rajkot,"Rajkot, India",98,2012,52,2012
+India,Rourkela,"Rourkela, India",98,2012,52,2012
+India,Surat,"Surat, India",97,2012,51,2012
+India,Nashik,"Nashik, India",95,2012,50,2012
+India,Pune,"Pune, India",92,2012,49,2012
+India,Guwahati,"Guwahati, India",91,2012,49,2012
+India,Dewas,"Dewas, India",91,2012,49,2012
+India,Silchar,"Silchar, India",90,2012,48,2012
+India,Dimapur,"Dimapur, India",89,2012,47,2012
+India,Naya Nangal,"Naya Nangal, India",88,2012,47,2012
+India,Solapur,"Solapur, India",83,2012,44,2012
+India,Ahmedabad,"Ahmedabad, India",82,2012,100,2013
+India,Nalbari,"Nalbari, India",82,2012,43,2012
+India,Ramagundam,"Ramagundam, India",82,2012,43,2012
+India,Balasore,"Balasore, India",81,2012,43,2012
+India,Kohima,"Kohima, India",81,2012,43,2012
+India,Bhubneshwar,"Bhubneshwar, India",80,2012,43,2012
+India,Korba,"Korba, India",80,2012,43,2012
+India,Ujjain,"Ujjain, India",80,2012,43,2012
+India,Berhampur,"Berhampur, India",80,2012,42,2012
+India,Sangli,"Sangli, India",80,2012,42,2012
+India,Aurangabad,"Aurangabad, India",79,2012,42,2012
+India,Parwanoo,"Parwanoo, India",79,2012,42,2012
+India,Hyderabad,"Hyderabad, India",79,2012,58,2014
+India,Nagaon,"Nagaon, India",79,2012,42,2012
+India,Nalgonda,"Nalgonda, India",79,2012,42,2012
+India,Trichy,"Trichy, India",75,2012,40,2012
+India,Guntur,"Guntur, India",75,2012,40,2012
+India,Devanagere,"Devanagere, India",74,2012,39,2012
+India,Kurnool,"Kurnool, India",74,2012,39,2012
+India,Thane,"Thane, India",72,2012,38,2012
+India,Kochi,"Kochi, India",70,2012,37,2012
+India,Coimbatore,"Coimbatore, India",68,2012,36,2012
+India,Cuttack,"Cuttack, India",67,2012,36,2012
+India,Panaji,"Panaji, India",67,2012,35,2012
+India,Shillong,"Shillong, India",65,2012,34,2012
+India,Vishakhapatnam,"Vishakhapatnam, India",64,2012,34,2012
+India,Singrauli,"Singrauli, India",64,2012,34,2012
+India,Kothagudem,"Kothagudem, India",63,2012,33,2012
+India,Patiala,"Patiala, India",62,2012,33,2012
+India,Nellore,"Nellore, India",62,2012,33,2012
+India,Salem,"Salem, India",60,2012,32,2012
+India,Kakinada,"Kakinada, India",58,2012,31,2012
+India,Shimla,"Shimla, India",57,2012,30,2012
+India,Chennai,"Chennai, India",57,2012,44,2014
+India,Tinsukia,"Tinsukia, India",56,2012,30,2012
+India,Dibrugarh,"Dibrugarh, India",56,2012,29,2012
+India,Kottayam,"Kottayam, India",56,2012,29,2012
+India,Kozhikode,"Kozhikode, India",55,2012,29,2012
+India,Golaghat,"Golaghat, India",55,2012,29,2012
+India,Thiruvananthapuram,"Thiruvananthapuram, India",54,2012,29,2012
+India,Margherita,"Margherita, India",54,2012,28,2012
+India,Rayagada,"Rayagada, India",54,2012,28,2012
+India,Aizawl,"Aizawl, India",53,2012,28,2012
+India,Sambalpur,"Sambalpur, India",53,2012,28,2012
+India,Nanded,"Nanded, India",52,2012,28,2012
+India,Tura,"Tura, India",52,2012,27,2012
+India,Alappuzha,"Alappuzha, India",50,2012,26,2012
+India,Warangal,"Warangal, India",49,2012,26,2012
+India,Madurai,"Madurai, India",48,2012,25,2012
+India,Bongaigaon,"Bongaigaon, India",45,2012,24,2012
+India,Puducherry,"Puducherry, India",41,2012,22,2012
+India,Kollam,"Kollam, India",41,2012,21,2012
+India,Chitoor,"Chitoor, India",40,2012,21,2012
+India,Hassan,"Hassan, India",36,2012,19,2012
+India,Pathanamthitta,"Pathanamthitta, India",23,2012,12,2012
+India,Tezpur,"Tezpur, India",11,2012,5,2012
+Indonesia,Bandung,"Bandung, Indonesia",59,2014,33,2014
+Iran (Islamic Republic of),Zabol,"Zabol, Iran (Islamic Republic of)",526,2012,216,2012
+Iran (Islamic Republic of),Boshehr,"Boshehr, Iran (Islamic Republic of)",255,2010,105,2010
+Iran (Islamic Republic of),Ahvaz,"Ahvaz, Iran (Islamic Republic of)",230,2010,94,2010
+Iran (Islamic Republic of),Kermanshah,"Kermanshah, Iran (Islamic Republic of)",129,2011,53,2011
+Iran (Islamic Republic of),Hamadan,"Hamadan, Iran (Islamic Republic of)",113,2013,46,2013
+Iran (Islamic Republic of),Pakdasht,"Pakdasht, Iran (Islamic Republic of)",113,2013,46,2013
+Iran (Islamic Republic of),Isfahan,"Isfahan, Iran (Islamic Republic of)",111,2012,45,2012
+Iran (Islamic Republic of),Yasuj,"Yasuj, Iran (Islamic Republic of)",108,2013,44,2013
+Iran (Islamic Republic of),Shiraz,"Shiraz, Iran (Islamic Republic of)",108,2012,44,2012
+Iran (Islamic Republic of),Robatkarim,"Robatkarim, Iran (Islamic Republic of)",104,2013,43,2013
+Iran (Islamic Republic of),Varamin,"Varamin, Iran (Islamic Republic of)",101,2013,41,2013
+Iran (Islamic Republic of),Sanandaj,"Sanandaj, Iran (Islamic Republic of)",99,2010,40,2010
+Iran (Islamic Republic of),Urmia,"Urmia, Iran (Islamic Republic of)",90,2011,37,2011
+Iran (Islamic Republic of),Shahryar,"Shahryar, Iran (Islamic Republic of)",90,2013,37,2013
+Iran (Islamic Republic of),Sari,"Sari, Iran (Islamic Republic of)",89,2012,36,2012
+Iran (Islamic Republic of),Bojnord,"Bojnord, Iran (Islamic Republic of)",78,2010,32,2010
+Iran (Islamic Republic of),Mashhad,"Mashhad, Iran (Islamic Republic of)",77,2011,31,2011
+Iran (Islamic Republic of),Tehran,"Tehran, Iran (Islamic Republic of)",76,2014,31,2014
+Iran (Islamic Republic of),Zanjan,"Zanjan, Iran (Islamic Republic of)",74,2011,30,2011
+Iran (Islamic Republic of),Tabriz,"Tabriz, Iran (Islamic Republic of)",67,2012,39,2013
+Iran (Islamic Republic of),Semnan,"Semnan, Iran (Islamic Republic of)",56,2013,23,2013
+Iran (Islamic Republic of),"Rasht, Guilan","Rasht, Guilan, Iran (Islamic Republic of)",50,2011,20,2011
+Iran (Islamic Republic of),Kerman,"Kerman, Iran (Islamic Republic of)",47,2013,19,2013
+Iran (Islamic Republic of),Qazvin,"Qazvin, Iran (Islamic Republic of)",44,2013,18,2013
+Iran (Islamic Republic of),Arak,"Arak, Iran (Islamic Republic of)",18,2011,7,2011
+Iraq,Baghdad,"Baghdad, Iraq",208,2015,87,2015
+Ireland,LONGFORD,"LONGFORD, Ireland",22,2013,14,2013
+Ireland,BRAY,"BRAY, Ireland",19,2013,13,2013
+Ireland,Galway,"Galway, Ireland",16,2013,11,2013
+Ireland,DUBLIN,"DUBLIN, Ireland",15,2013,10,2013
+Ireland,ENNIS,"ENNIS, Ireland",15,2013,10,2013
+Ireland,CASTLEBAR,"CASTLEBAR, Ireland",14,2013,10,2013
+Ireland,Mace Head,"Mace Head, Ireland",12,2014,4,2014
+Ireland,BALBRIGGAN,"BALBRIGGAN, Ireland",11,2013,7,2013
+Israel,Petah Tikva,"Petah Tikva, Israel",56,2014,24,2014
+Israel,Eilat,"Eilat, Israel",53,2014,23,2014
+Israel,Bnei Brak,"Bnei Brak, Israel",52,2014,22,2014
+Israel,Arad,"Arad, Israel",52,2014,23,2014
+Israel,Sderot,"Sderot, Israel",51,2014,22,2014
+Israel,Kfar Masarik,"Kfar Masarik, Israel",50,2014,21,2014
+Israel,Gedera,"Gedera, Israel",48,2014,21,2014
+Israel,Givataim (Tel Aviv),"Givataim (Tel Aviv), Israel",48,2014,20,2014
+Israel,Pardes Hana,"Pardes Hana, Israel",48,2014,20,2014
+Israel,Sde Yo'av,"Sde Yo'av, Israel",48,2014,20,2014
+Israel,Tel Aviv-Yafo,"Tel Aviv-Yafo, Israel",48,2014,20,2014
+Israel,Ashdod,"Ashdod, Israel",47,2014,20,2014
+Israel,Karmey Yossef,"Karmey Yossef, Israel",46,2014,20,2014
+Israel,Ra'anana,"Ra'anana, Israel",46,2014,20,2014
+Israel,Hadera,"Hadera, Israel",46,2014,16,2014
+Israel,Beer Sheva,"Beer Sheva, Israel",45,2014,23,2014
+Israel,Nir Israel,"Nir Israel, Israel",45,2014,19,2014
+Israel,Ramat Gan,"Ramat Gan, Israel",45,2014,22,2014
+Israel,Jerusalem,"Jerusalem, Israel",45,2014,19,2014
+Israel,Afula,"Afula, Israel",44,2014,20,2014
+Israel,Umm al-Fahm,"Umm al-Fahm, Israel",44,2014,19,2014
+Israel,Kiryat Malahi,"Kiryat Malahi, Israel",44,2014,19,2014
+Israel,Nir Galim,"Nir Galim, Israel",44,2014,19,2014
+Israel,Ashkelon,"Ashkelon, Israel",43,2014,17,2014
+Israel,Holon (Tel Aviv),"Holon (Tel Aviv), Israel",42,2014,18,2014
+Israel,Yavne,"Yavne, Israel",41,2014,18,2014
+Israel,Rehovot,"Rehovot, Israel",41,2014,17,2014
+Israel,Modi'in,"Modi'in, Israel",40,2014,23,2014
+Israel,Bat Hadar,"Bat Hadar, Israel",39,2014,17,2014
+Israel,Karmiel,"Karmiel, Israel",39,2014,17,2014
+Israel,Gvar'am,"Gvar'am, Israel",39,2014,17,2014
+Israel,Ceasaria,"Ceasaria, Israel",39,2014,16,2014
+Israel,Zemer,"Zemer, Israel",38,2014,16,2014
+Israel,Beit Shemesh,"Beit Shemesh, Israel",38,2014,16,2014
+Israel,Kiryat Tivon,"Kiryat Tivon, Israel",36,2014,15,2014
+Israel,Haifa,"Haifa, Israel",34,2014,17,2014
+Israel,Nesher,"Nesher, Israel",34,2014,12,2014
+Israel,Kiryat Ata,"Kiryat Ata, Israel",31,2014,16,2014
+Israel,Kiryat Bialik,"Kiryat Bialik, Israel",31,2014,13,2014
+Israel,Erez,"Erez, Israel",30,2014,13,2014
+Italy,CECCANO,"CECCANO, Italy",47,2013,31,2013
+Italy,BENEVENTO,"BENEVENTO, Italy",45,2013,19,2013
+Italy,SALERNO,"SALERNO, Italy",44,2013,22,2013
+Italy,MEDA,"MEDA, Italy",42,2013,27,2013
+Italy,CHIERI,"CHIERI, Italy",42,2013,27,2013
+Italy,REZZATO,"REZZATO, Italy",41,2013,27,2013
+Italy,SORESINA,"SORESINA, Italy",41,2013,34,2013
+Italy,CODOGNO,"CODOGNO, Italy",40,2013,26,2013
+Italy,PIOLTELLO,"PIOLTELLO, Italy",40,2013,26,2013
+Italy,FROSINONE,"FROSINONE, Italy",40,2013,24,2013
+Italy,SAN DONA' DI PIAVE,"SAN DONA' DI PIAVE, Italy",39,2013,25,2013
+Italy,MAGENTA,"MAGENTA, Italy",39,2013,25,2013
+Italy,SETTIMO TORINESE,"SETTIMO TORINESE, Italy",39,2013,32,2013
+Italy,TORINO,"TORINO, Italy",38,2013,25,2013
+Italy,CREMA,"CREMA, Italy",38,2013,25,2013
+Italy,ALESSANDRIA,"ALESSANDRIA, Italy",38,2013,26,2013
+Italy,CASSINO,"CASSINO, Italy",38,2013,28,2013
+Italy,MONZA,"MONZA, Italy",37,2013,30,2013
+Italy,PARONA,"PARONA, Italy",37,2013,24,2013
+Italy,MILANO,"MILANO, Italy",37,2013,30,2013
+Italy,CASIRATE D'ADDA,"CASIRATE D'ADDA, Italy",36,2013,28,2013
+Italy,ALFONSINE,"ALFONSINE, Italy",36,2013,24,2013
+Italy,BRESCIA,"BRESCIA, Italy",36,2013,31,2013
+Italy,VICENZA,"VICENZA, Italy",36,2013,27,2013
+Italy,MERATE,"MERATE, Italy",35,2013,27,2013
+Italy,SAN BONIFACIO,"SAN BONIFACIO, Italy",35,2013,23,2013
+Italy,DARFO BOARIO TERME,"DARFO BOARIO TERME, Italy",35,2013,27,2013
+Italy,TREVIGLIO,"TREVIGLIO, Italy",35,2013,23,2013
+Italy,BERTONICO,"BERTONICO, Italy",35,2013,23,2013
+Italy,BORGARO TORINESE,"BORGARO TORINESE, Italy",35,2013,26,2013
+Italy,CREMONA,"CREMONA, Italy",35,2013,27,2013
+Italy,SANTA GIUSTINA IN COLLE,"SANTA GIUSTINA IN COLLE, Italy",35,2013,23,2013
+Italy,NAPOLI,"NAPOLI, Italy",34,2013,19,2013
+Italy,LODI,"LODI, Italy",34,2013,23,2013
+Italy,LEGNAGO,"LEGNAGO, Italy",34,2013,22,2013
+Italy,PAVIA,"PAVIA, Italy",34,2013,22,2013
+Italy,TAVAZZANO CON VILLAVESCO,"TAVAZZANO CON VILLAVESCO, Italy",34,2013,22,2013
+Italy,TORCHIAROLO,"TORCHIAROLO, Italy",34,2013,22,2013
+Italy,FERENTINO,"FERENTINO, Italy",34,2013,22,2013
+Italy,VERONA,"VERONA, Italy",34,2013,21,2013
+Italy,PADOVA,"PADOVA, Italy",34,2013,27,2013
+Italy,TREVISO,"TREVISO, Italy",33,2013,23,2013
+Italy,PARMA,"PARMA, Italy",33,2013,17,2013
+Italy,FRANCAVILLA FONTANA,"FRANCAVILLA FONTANA, Italy",33,2013,22,2013
+Italy,VENAFRO,"VENAFRO, Italy",33,2013,22,2013
+Italy,FERNO,"FERNO, Italy",33,2013,22,2013
+Italy,ROVIGO,"ROVIGO, Italy",33,2013,25,2013
+Italy,AVELLINO,"AVELLINO, Italy",33,2013,19,2013
+Italy,BADIA POLESINE,"BADIA POLESINE, Italy",32,2013,21,2013
+Italy,FIORANO MODENESE,"FIORANO MODENESE, Italy",32,2013,21,2013
+Italy,VERCELLI,"VERCELLI, Italy",32,2013,22,2013
+Italy,MANTOVA,"MANTOVA, Italy",32,2013,27,2013
+Italy,BESENZONE,"BESENZONE, Italy",32,2013,21,2013
+Italy,VENEZIA,"VENEZIA, Italy",32,2013,25,2013
+Italy,SCHIVENOGLIA,"SCHIVENOGLIA, Italy",32,2013,26,2013
+Italy,BERGAMO,"BERGAMO, Italy",32,2013,23,2013
+Italy,TERNI,"TERNI, Italy",32,2013,22,2013
+Italy,QUARTU SANT'ELENA,"QUARTU SANT'ELENA, Italy",31,2013,21,2013
+Italy,ALATRI,"ALATRI, Italy",31,2013,20,2013
+Italy,CAGLIARI,"CAGLIARI, Italy",31,2013,11,2013
+Italy,ALBA,"ALBA, Italy",31,2013,20,2013
+Italy,SAREZZO,"SAREZZO, Italy",31,2013,20,2013
+Italy,RIMINI,"RIMINI, Italy",31,2013,19,2013
+Italy,REGGIO NELL'EMILIA,"REGGIO NELL'EMILIA, Italy",30,2013,18,2013
+Italy,PONTI SUL MINCIO,"PONTI SUL MINCIO, Italy",30,2013,23,2013
+Italy,PIACENZA,"PIACENZA, Italy",30,2013,22,2013
+Italy,BORGOFRANCO SUL PO,"BORGOFRANCO SUL PO, Italy",30,2013,20,2013
+Italy,SARONNO,"SARONNO, Italy",30,2013,22,2013
+Italy,MIRANDOLA,"MIRANDOLA, Italy",30,2013,20,2013
+Italy,SAN ROCCO AL PORTO,"SAN ROCCO AL PORTO, Italy",30,2013,20,2013
+Italy,CARPI,"CARPI, Italy",30,2013,19,2013
+Italy,ASTI,"ASTI, Italy",29,2013,19,2013
+Italy,CAMPI SALENTINA,"CAMPI SALENTINA, Italy",29,2013,15,2013
+Italy,CALUSCO D'ADDA,"CALUSCO D'ADDA, Italy",29,2013,21,2013
+Italy,CIAMPINO,"CIAMPINO, Italy",29,2013,19,2013
+Italy,BUSTO ARSIZIO,"BUSTO ARSIZIO, Italy",29,2013,19,2013
+Italy,SAVIGNANO SUL RUBICONE,"SAVIGNANO SUL RUBICONE, Italy",29,2013,16,2013
+Italy,LUCCA,"LUCCA, Italy",29,2013,19,2013
+Italy,BASSANO DEL GRAPPA,"BASSANO DEL GRAPPA, Italy",29,2013,19,2013
+Italy,COLLEFERRO,"COLLEFERRO, Italy",29,2013,19,2013
+Italy,MONTALE,"MONTALE, Italy",29,2013,18,2013
+Italy,VINCHIO,"VINCHIO, Italy",29,2013,20,2013
+Italy,MODENA,"MODENA, Italy",28,2013,18,2013
+Italy,FERRARA,"FERRARA, Italy",28,2013,18,2013
+Italy,CASERTA,"CASERTA, Italy",28,2013,18,2013
+Italy,PRATO,"PRATO, Italy",28,2013,20,2013
+Italy,GUASTALLA,"GUASTALLA, Italy",28,2013,20,2013
+Italy,MADDALONI,"MADDALONI, Italy",28,2013,18,2013
+Italy,COMO,"COMO, Italy",28,2013,20,2013
+Italy,ODOLO,"ODOLO, Italy",28,2013,18,2013
+Italy,TURBIGO,"TURBIGO, Italy",28,2013,18,2013
+Italy,VARESE,"VARESE, Italy",27,2013,21,2013
+Italy,ROMA,"ROMA, Italy",27,2013,17,2013
+Italy,OSIO SOTTO,"OSIO SOTTO, Italy",27,2013,18,2013
+Italy,ASSEMINI,"ASSEMINI, Italy",27,2013,18,2013
+Italy,RAPALLO,"RAPALLO, Italy",27,2013,18,2013
+Italy,MONSERRATO,"MONSERRATO, Italy",27,2013,13,2013
+Italy,NOVARA,"NOVARA, Italy",27,2013,18,2013
+Italy,ANAGNI,"ANAGNI, Italy",27,2013,18,2013
+Italy,COLORNO,"COLORNO, Italy",27,2013,18,2013
+Italy,ARNESANO,"ARNESANO, Italy",27,2013,18,2013
+Italy,GUAGNANO,"GUAGNANO, Italy",27,2013,18,2013
+Italy,RAVENNA,"RAVENNA, Italy",27,2013,18,2013
+Italy,LATINA,"LATINA, Italy",27,2013,16,2013
+Italy,FOLIGNO,"FOLIGNO, Italy",27,2013,18,2013
+Italy,CANTU',"CANTU', Italy",27,2013,17,2013
+Italy,VIAREGGIO,"VIAREGGIO, Italy",26,2013,17,2013
+Italy,VOGHERA,"VOGHERA, Italy",26,2013,17,2013
+Italy,AREZZO,"AREZZO, Italy",26,2013,17,2013
+Italy,SANTA CROCE SULL'ARNO,"SANTA CROCE SULL'ARNO, Italy",26,2013,17,2013
+Italy,ESTE,"ESTE, Italy",26,2013,17,2013
+Italy,CINTO EUGANEO,"CINTO EUGANEO, Italy",26,2013,17,2013
+Italy,BORGO VALSUGANA,"BORGO VALSUGANA, Italy",25,2013,17,2013
+Italy,FIRENZE,"FIRENZE, Italy",25,2013,16,2013
+Italy,CASALE MONFERRATO,"CASALE MONFERRATO, Italy",25,2013,17,2013
+Italy,CARCARE,"CARCARE, Italy",25,2013,17,2013
+Italy,SASSUOLO,"SASSUOLO, Italy",25,2013,16,2013
+Italy,BARI,"BARI, Italy",25,2013,16,2013
+Italy,CENTO,"CENTO, Italy",25,2013,16,2013
+Italy,CIVITA CASTELLANA,"CIVITA CASTELLANA, Italy",25,2013,16,2013
+Italy,FELTRE,"FELTRE, Italy",25,2013,22,2013
+Italy,GUIDONIA MONTECELIO,"GUIDONIA MONTECELIO, Italy",25,2013,15,2013
+Italy,SONDRIO,"SONDRIO, Italy",24,2013,19,2013
+Italy,OSTELLATO,"OSTELLATO, Italy",24,2013,16,2013
+Italy,SCHIO,"SCHIO, Italy",24,2013,16,2013
+Italy,MORBEGNO,"MORBEGNO, Italy",24,2013,16,2013
+Italy,CERVIA,"CERVIA, Italy",24,2013,16,2013
+Italy,BOLOGNA,"BOLOGNA, Italy",24,2013,17,2013
+Italy,SAN LAZZARO DI SAVENA,"SAN LAZZARO DI SAVENA, Italy",24,2013,16,2013
+Italy,CASTELLARANO,"CASTELLARANO, Italy",24,2013,17,2013
+Italy,CONEGLIANO,"CONEGLIANO, Italy",24,2013,22,2013
+Italy,PISA,"PISA, Italy",24,2013,15,2013
+Italy,COSSATO,"COSSATO, Italy",24,2013,16,2013
+Italy,FORLI',"FORLI', Italy",24,2013,14,2013
+Italy,LECCO,"LECCO, Italy",24,2013,15,2013
+Italy,MOLFETTA,"MOLFETTA, Italy",24,2013,16,2013
+Italy,SCANDICCI,"SCANDICCI, Italy",24,2013,16,2013
+Italy,CAPANNORI,"CAPANNORI, Italy",24,2013,15,2013
+Italy,SAN PANCRAZIO SALENTINO,"SAN PANCRAZIO SALENTINO, Italy",24,2013,15,2013
+Italy,DRUENTO,"DRUENTO, Italy",23,2013,15,2013
+Italy,GALATINA,"GALATINA, Italy",23,2013,15,2013
+Italy,CARRARA,"CARRARA, Italy",23,2013,15,2013
+Italy,CAIRO MONTENOTTE,"CAIRO MONTENOTTE, Italy",23,2013,18,2013
+Italy,VALMADRERA,"VALMADRERA, Italy",23,2013,15,2013
+Italy,MESAGNE,"MESAGNE, Italy",23,2013,15,2013
+Italy,TRENTO,"TRENTO, Italy",23,2013,15,2013
+Italy,BRINDISI,"BRINDISI, Italy",23,2013,15,2013
+Italy,IMOLA,"IMOLA, Italy",23,2013,15,2013
+Italy,GORIZIA,"GORIZIA, Italy",23,2013,15,2013
+Italy,LA SPEZIA,"LA SPEZIA, Italy",23,2013,14,2013
+Italy,SAN PIETRO VERNOTICO,"SAN PIETRO VERNOTICO, Italy",23,2013,15,2013
+Italy,PORTO TORRES,"PORTO TORRES, Italy",23,2013,8,2013
+Italy,UDINE,"UDINE, Italy",23,2013,15,2013
+Italy,BORGOSESIA,"BORGOSESIA, Italy",23,2013,17,2013
+Italy,MOLINELLA,"MOLINELLA, Italy",23,2013,17,2013
+Italy,PIOMBINO,"PIOMBINO, Italy",22,2013,15,2013
+Italy,NURAMINIS,"NURAMINIS, Italy",22,2013,15,2013
+Italy,PORTOSCUSO,"PORTOSCUSO, Italy",22,2013,13,2013
+Italy,LIVORNO,"LIVORNO, Italy",22,2013,12,2013
+Italy,PISTOIA,"PISTOIA, Italy",22,2013,15,2013
+Italy,CESENA,"CESENA, Italy",22,2013,15,2013
+Italy,LAIVES,"LAIVES, Italy",22,2013,15,2013
+Italy,SALICETO,"SALICETO, Italy",22,2013,14,2013
+Italy,FOGGIA,"FOGGIA, Italy",22,2013,14,2013
+Italy,TRIESTE,"TRIESTE, Italy",22,2013,15,2013
+Italy,LECCE,"LECCE, Italy",22,2013,11,2013
+Italy,VADO LIGURE,"VADO LIGURE, Italy",22,2013,14,2013
+Italy,MORGEX,"MORGEX, Italy",22,2013,14,2013
+Italy,TARANTO,"TARANTO, Italy",22,2013,13,2013
+Italy,CAMPOBASSO,"CAMPOBASSO, Italy",21,2013,14,2013
+Italy,CUNEO,"CUNEO, Italy",21,2013,15,2013
+Italy,MUGGIA,"MUGGIA, Italy",21,2013,14,2013
+Italy,PERUGIA,"PERUGIA, Italy",21,2013,14,2013
+Italy,LUGAGNANO VAL D'ARDA,"LUGAGNANO VAL D'ARDA, Italy",21,2013,14,2013
+Italy,CIVITAVECCHIA,"CIVITAVECCHIA, Italy",21,2013,14,2013
+Italy,RIETI,"RIETI, Italy",21,2013,15,2013
+Italy,SAN CLEMENTE,"SAN CLEMENTE, Italy",21,2013,14,2013
+Italy,APRILIA,"APRILIA, Italy",21,2013,13,2013
+Italy,AOSTA,"AOSTA, Italy",20,2013,14,2013
+Italy,RIVA DEL GARDA,"RIVA DEL GARDA, Italy",20,2013,13,2013
+Italy,SPOLETO,"SPOLETO, Italy",20,2013,15,2013
+Italy,SANTO STEFANO DI MAGRA,"SANTO STEFANO DI MAGRA, Italy",20,2013,13,2013
+Italy,GENOVA,"GENOVA, Italy",20,2013,8,2013
+Italy,OLBIA,"OLBIA, Italy",20,2013,13,2013
+Italy,FAENZA,"FAENZA, Italy",20,2013,15,2013
+Italy,SARROCH,"SARROCH, Italy",20,2013,10,2013
+Italy,BIELLA,"BIELLA, Italy",19,2013,14,2013
+Italy,DONNAS,"DONNAS, Italy",19,2013,13,2013
+Italy,MONOPOLI,"MONOPOLI, Italy",19,2013,13,2013
+Italy,QUILIANO,"QUILIANO, Italy",19,2013,13,2013
+Italy,ROVERETO,"ROVERETO, Italy",19,2013,15,2013
+Italy,BOSCO CHIESANUOVA,"BOSCO CHIESANUOVA, Italy",19,2013,12,2013
+Italy,VERUCCHIO,"VERUCCHIO, Italy",18,2013,12,2013
+Italy,VITERBO,"VITERBO, Italy",18,2013,11,2013
+Italy,POGGIBONSI,"POGGIBONSI, Italy",18,2013,12,2013
+Italy,GROTTAGLIE,"GROTTAGLIE, Italy",18,2013,12,2013
+Italy,BELLUNO,"BELLUNO, Italy",18,2013,16,2013
+Italy,SAVONA,"SAVONA, Italy",17,2013,12,2013
+Italy,SUSA,"SUSA, Italy",17,2013,11,2013
+Italy,GUBBIO,"GUBBIO, Italy",17,2013,12,2013
+Italy,FONTECHIARI,"FONTECHIARI, Italy",17,2013,14,2013
+Italy,SASSARI,"SASSARI, Italy",17,2013,7,2013
+Italy,ALBENGA,"ALBENGA, Italy",17,2013,11,2013
+Italy,OULX,"OULX, Italy",17,2013,11,2013
+Italy,MANFREDONIA,"MANFREDONIA, Italy",17,2013,11,2013
+Italy,GROSSETO,"GROSSETO, Italy",17,2013,10,2013
+Italy,SANTA GIUSTA,"SANTA GIUSTA, Italy",17,2013,11,2013
+Italy,JOLANDA DI SAVOIA,"JOLANDA DI SAVOIA, Italy",17,2013,12,2013
+Italy,TORGIANO,"TORGIANO, Italy",17,2013,11,2013
+Italy,BOLZANO,"BOLZANO, Italy",16,2013,11,2013
+Italy,BORMIO,"BORMIO, Italy",16,2013,11,2013
+Italy,VERBANIA,"VERBANIA, Italy",16,2013,12,2013
+Italy,LANGHIRANO,"LANGHIRANO, Italy",16,2013,12,2013
+Italy,TRIVERO,"TRIVERO, Italy",15,2013,11,2013
+Italy,SINISCOLA,"SINISCOLA, Italy",15,2013,10,2013
+Italy,BRUNICO,"BRUNICO, Italy",15,2013,10,2013
+Italy,MONDAINO,"MONDAINO, Italy",14,2013,9,2013
+Italy,MERANO,"MERANO, Italy",14,2013,9,2013
+Italy,LACES,"LACES, Italy",14,2013,13,2013
+Italy,ACQUAPENDENTE,"ACQUAPENDENTE, Italy",14,2013,10,2013
+Italy,BRESSANONE,"BRESSANONE, Italy",13,2013,9,2013
+Italy,DERNICE,"DERNICE, Italy",13,2013,10,2013
+Italy,PIEVE D'ALPAGO,"PIEVE D'ALPAGO, Italy",13,2013,8,2013
+Italy,LEONESSA,"LEONESSA, Italy",11,2013,8,2013
+Italy,SEULO,"SEULO, Italy",11,2013,5,2013
+Italy,CENGIO,"CENGIO, Italy",10,2013,6,2013
+Italy,ALLUMIERE,"ALLUMIERE, Italy",9,2013,6,2013
+Italy,POMARANCE,"POMARANCE, Italy",9,2013,6,2013
+Italy,CHITIGNANO,"CHITIGNANO, Italy",9,2013,6,2013
+Italy,PORRETTA TERME,"PORRETTA TERME, Italy",9,2013,5,2013
+Italy,ALBISOLA SUPERIORE,"ALBISOLA SUPERIORE, Italy",9,2013,6,2013
+Italy,CORTE BRUGNATELLA,"CORTE BRUGNATELLA, Italy",9,2013,6,2013
+Italy,GIANO DELL'UMBRIA,"GIANO DELL'UMBRIA, Italy",8,2013,6,2013
+Italy,VEZZANO,"VEZZANO, Italy",8,2013,5,2013
+Italy,VILLA MINOZZO,"VILLA MINOZZO, Italy",7,2013,5,2013
+Italy,CERESOLE REALE,"CERESOLE REALE, Italy",5,2013,3,2013
+Jamaica,Portmore,"Portmore, Jamaica",53,2012,29,2012
+Jamaica,Kingston,"Kingston, Jamaica",47,2012,25,2012
+Jamaica,Vere Plains Clarendon,"Vere Plains Clarendon, Jamaica",42,2012,22,2012
+Jamaica,"Old Harbour Plains, St. Catherine","Old Harbour Plains, St. Catherine, Jamaica",34,2012,18,2012
+Jamaica,South Eastern Manchester,"South Eastern Manchester, Jamaica",25,2012,13,2012
+Jamaica,Northern St. Catherine,"Northern St. Catherine, Jamaica",23,2012,12,2012
+Japan,Fukuoka city,"Fukuoka city, Japan",35,2012,18,2012
+Japan,Kagoshima city,"Kagoshima city, Japan",34,2012,18,2012
+Japan,Osaka city,"Osaka city, Japan",31,2012,16,2012
+Japan,Okayama city,"Okayama city, Japan",31,2012,16,2012
+Japan,Nagoya city,"Nagoya city, Japan",30,2012,15,2012
+Japan,Yokohama city,"Yokohama city, Japan",28,2012,15,2012
+Japan,Kyoto city,"Kyoto city, Japan",28,2012,14,2012
+Japan,Okinawa city,"Okinawa city, Japan",28,2012,14,2012
+Japan,Tokyo,"Tokyo, Japan",28,2012,14,2012
+Japan,Gifu city,"Gifu city, Japan",25,2012,13,2012
+Japan,Niigata city,"Niigata city, Japan",24,2012,12,2012
+Japan,Hachioji city,"Hachioji city, Japan",23,2012,12,2012
+Japan,Shizuoka city,"Shizuoka city, Japan",22,2012,11,2012
+Japan,Sendai city,"Sendai city, Japan",22,2012,11,2012
+Japan,Sapporo city,"Sapporo city, Japan",18,2012,9,2012
+Jordan,Al-Zarqa',"Al-Zarqa', Jordan",127,2015,53,2015
+Jordan,Irbid,"Irbid, Jordan",68,2015,23,2015
+Jordan,Amman,"Amman, Jordan",68,2015,36,2015
+Jordan,Al-Karak,"Al-Karak, Jordan",44,2015,19,2015
+Kenya,Nairobi,"Nairobi, Kenya",33,2009,17,2009
+Kuwait,Al-Shuwaikh,"Al-Shuwaikh, Kuwait",211,2014,87,2014
+Kuwait,Ali Subah Al-Salem,"Ali Subah Al-Salem, Kuwait",178,2014,74,2014
+Kuwait,Al-Ahmadi,"Al-Ahmadi, Kuwait",167,2014,64,2014
+Kuwait,Al-Mansouriya,"Al-Mansouriya, Kuwait",164,2014,68,2014
+Kuwait,Al-Salam,"Al-Salam, Kuwait",153,2014,63,2014
+Kuwait,Al-Rumaithyia,"Al-Rumaithyia, Kuwait",140,2014,58,2014
+Kuwait,Al-Jahra,"Al-Jahra, Kuwait",116,2014,48,2014
+Kuwait,Al-Mutla,"Al-Mutla, Kuwait",114,2014,47,2014
+Kuwait,Saad Al-Abdullah,"Saad Al-Abdullah, Kuwait",111,2014,46,2014
+Kuwait,Al-Fahaheel,"Al-Fahaheel, Kuwait",106,2014,44,2014
+Kuwait,Shuaiba,"Shuaiba, Kuwait",62,2014,26,2014
+Latvia,Riga,"Riga, Latvia",33,2013,16,2013
+Latvia,LIEPAJA,"LIEPAJA, Latvia",24,2013,18,2013
+Latvia,REZEKNE,"REZEKNE, Latvia",22,2013,17,2013
+Latvia,VENTSPILS,"VENTSPILS, Latvia",17,2013,11,2013
+Lebanon,Beirut,"Beirut, Lebanon",41,2014,31,2014
+Lebanon,Zahle,"Zahle, Lebanon",40,2014,33,2014
+Lebanon,Saida,"Saida, Lebanon",37,2014,30,2014
+Lebanon,Baalbak,"Baalbak, Lebanon",34,2014,26,2014
+Liberia,Buchanan (rural),"Buchanan (rural), Liberia",66,2009,9,2009
+Liberia,Sanniquellie (rural),"Sanniquellie (rural), Liberia",52,2009,10,2009
+Lithuania,SIAULIAI,"SIAULIAI, Lithuania",36,2013,23,2013
+Lithuania,KLAIPEDA,"KLAIPEDA, Lithuania",32,2013,20,2013
+Lithuania,PANEVEZYS,"PANEVEZYS, Lithuania",31,2013,20,2013
+Lithuania,KEDAINIAI,"KEDAINIAI, Lithuania",30,2013,19,2013
+Lithuania,JONAVA,"JONAVA, Lithuania",28,2013,18,2013
+Lithuania,MAZEIKIAI,"MAZEIKIAI, Lithuania",27,2013,18,2013
+Lithuania,KAUNAS,"KAUNAS, Lithuania",27,2013,19,2013
+Lithuania,VILNIUS,"VILNIUS, Lithuania",26,2013,22,2013
+Lithuania,NAUJOJI AKMENE,"NAUJOJI AKMENE, Lithuania",25,2013,16,2013
+Luxembourg,LUXEMBOURG,"LUXEMBOURG, Luxembourg",22,2013,16,2013
+Luxembourg,ESCH-SUR-ALZETTE,"ESCH-SUR-ALZETTE, Luxembourg",21,2013,15,2013
+Luxembourg,BEKERICH,"BEKERICH, Luxembourg",16,2013,11,2013
+Madagascar,Antanarivo,"Antanarivo, Madagascar",59,2008,36,2008
+Malaysia,Petaling Jaya,"Petaling Jaya, Malaysia",47,2014,24,2014
+Malaysia,Bayan Lepas,"Bayan Lepas, Malaysia",33,2014,17,2014
+Malaysia,Senai,"Senai, Malaysia",30,2014,15,2014
+Malaysia,Kuantan,"Kuantan, Malaysia",27,2014,14,2014
+Malaysia,Kuching,"Kuching, Malaysia",26,2014,13,2014
+Malaysia,Tanah Rata,"Tanah Rata, Malaysia",19,2014,10,2014
+Maldives,Male,"Male, Maldives",20,2011,11,2011
+Malta,MSIDA,"MSIDA, Malta",38,2013,17,2013
+Malta,PAOLA,"PAOLA, Malta",27,2013,12,2013
+Malta,GHARB,"GHARB, Malta",24,2013,11,2013
+Malta,ZEJTUN,"ZEJTUN, Malta",22,2013,10,2013
+Mauritius,"Beau Bassin/Rose Hill, Coromandel","Beau Bassin/Rose Hill, Coromandel, Mauritius",130,2011,66,2011
+Mauritius,"Bramsthan, Flacq","Bramsthan, Flacq, Mauritius",36,2010,18,2010
+Mauritius,Port Louis,"Port Louis, Mauritius",27,2015,14,2015
+Mauritius,Vacoas,"Vacoas, Mauritius",27,2015,14,2015
+Mauritius,Midlands,"Midlands, Mauritius",20,2011,10,2011
+Mexico,Monterrey,"Monterrey, Mexico",85,2011,36,2011
+Mexico,Toluca,"Toluca, Mexico",80,2011,33,2011
+Mexico,Salamanca,"Salamanca, Mexico",60,2011,28,2011
+Mexico,Leòn,"Leòn, Mexico",57,2011,27,2011
+Mexico,Irapuato,"Irapuato, Mexico",54,2011,25,2011
+Mexico,Silao,"Silao, Mexico",50,2011,23,2011
+Mexico,Mexico city,"Mexico city, Mexico",42,2014,19,2014
+Mexico,Guadalajara,"Guadalajara, Mexico",41,2011,19,2011
+Mexico,Puebla,"Puebla, Mexico",32,2011,19,2011
+Monaco,Monaco,"Monaco, Monaco",14,2013,9,2013
+Mongolia,Ulaanbaatar,"Ulaanbaatar, Mongolia",165,2010,75,2010
+Montenegro,Pljevlja,"Pljevlja, Montenegro",77,2014,41,2014
+Montenegro,Nikšic,"Nikšic, Montenegro",43,2014,22,2014
+Montenegro,Podgorica,"Podgorica, Montenegro",34,2014,21,2014
+Montenegro,Bar,"Bar, Montenegro",27,2014,25,2014
+Montenegro,Tivat,"Tivat, Montenegro",25,2014,16,2014
+Morocco,Casablanca,"Casablanca, Morocco",60,2013,25,2013
+Morocco,Marrakech,"Marrakech, Morocco",57,2012,24,2012
+Morocco,Tanger,"Tanger, Morocco",57,2013,24,2013
+Morocco,Meknes,"Meknes, Morocco",46,2008,28,2009
+Morocco,Fès,"Fès, Morocco",40,2013,16,2013
+Morocco,Salé,"Salé, Morocco",31,2011,13,2011
+Morocco,Safi,"Safi, Morocco",21,2011,8,2011
+Myanmar,Pyin Oo Lwin,"Pyin Oo Lwin, Myanmar",140,2012,77,2012
+Myanmar,Taungoo,"Taungoo, Myanmar",137,2013,76,2013
+Myanmar,Kyaukphyu,"Kyaukphyu, Myanmar",136,2009,75,2009
+Myanmar,Namkham,"Namkham, Myanmar",127,2012,70,2012
+Myanmar,Mawlamyaing,"Mawlamyaing, Myanmar",124,2012,68,2012
+Myanmar,Yenanchaung,"Yenanchaung, Myanmar",120,2009,66,2009
+Myanmar,Nyaung Oo,"Nyaung Oo, Myanmar",91,2013,50,2013
+Myanmar,Kyauk Pa Taung,"Kyauk Pa Taung, Myanmar",89,2013,49,2013
+Myanmar,Sintgaing,"Sintgaing, Myanmar",80,2009,44,2009
+Myanmar,Thaungtha,"Thaungtha, Myanmar",80,2009,44,2009
+Myanmar,Kathar,"Kathar, Myanmar",76,2013,42,2013
+Myanmar,Meikhtilar,"Meikhtilar, Myanmar",59,2013,32,2013
+Myanmar,Pyay-Aunglan,"Pyay-Aunglan, Myanmar",44,2013,24,2013
+Myanmar,Namthu,"Namthu, Myanmar",31,2012,17,2012
+Nepal,Kathmandu,"Kathmandu, Nepal",88,2013,49,2013
+Netherlands,VELSEN,"VELSEN, Netherlands",27,2013,16,2013
+Netherlands,HOEK VAN HOLLAND,"HOEK VAN HOLLAND, Netherlands",26,2013,13,2013
+Netherlands,IJMUIDEN,"IJMUIDEN, Netherlands",25,2013,15,2013
+Netherlands,WIJK AAN ZEE,"WIJK AAN ZEE, Netherlands",25,2013,15,2013
+Netherlands,GRONINGEN,"GRONINGEN, Netherlands",24,2013,13,2013
+Netherlands,NIJMEGEN,"NIJMEGEN, Netherlands",24,2013,14,2013
+Netherlands,ZAANDAM,"ZAANDAM, Netherlands",24,2013,14,2013
+Netherlands,DORDRECHT,"DORDRECHT, Netherlands",24,2013,15,2013
+Netherlands,ROTTERDAM,"ROTTERDAM, Netherlands",23,2013,14,2013
+Netherlands,AMSTERDAM,"AMSTERDAM, Netherlands",23,2013,15,2013
+Netherlands,DEN HAAG,"DEN HAAG, Netherlands",22,2013,14,2013
+Netherlands,HEERLEN,"HEERLEN, Netherlands",22,2013,16,2013
+Netherlands,EINDHOVEN,"EINDHOVEN, Netherlands",22,2013,14,2013
+Netherlands,HILVERSUM,"HILVERSUM, Netherlands",22,2013,14,2013
+Netherlands,BREDA,"BREDA, Netherlands",22,2013,14,2013
+Netherlands,HOOFDDORP,"HOOFDDORP, Netherlands",21,2013,14,2013
+Netherlands,BEVERWIJK,"BEVERWIJK, Netherlands",21,2013,13,2013
+Netherlands,LEIDEN,"LEIDEN, Netherlands",21,2013,13,2013
+Netherlands,ENSCHEDE,"ENSCHEDE, Netherlands",21,2013,13,2013
+Netherlands,DE RIJP,"DE RIJP, Netherlands",20,2013,13,2013
+Netherlands,MAASSLUIS,"MAASSLUIS, Netherlands",20,2013,13,2013
+Netherlands,SCHIEDAM,"SCHIEDAM, Netherlands",19,2013,14,2013
+Netherlands,UTRECHT,"UTRECHT, Netherlands",19,2013,12,2013
+Netherlands,MOERDIJK,"MOERDIJK, Netherlands",18,2013,12,2013
+New Zealand,Timaru,"Timaru, New Zealand",27,2012,15,2012
+New Zealand,Invercargill,"Invercargill, New Zealand",23,2012,11,2012
+New Zealand,Gore,"Gore, New Zealand",22,2012,10,2012
+New Zealand,Alexandra,"Alexandra, New Zealand",21,2012,10,2012
+New Zealand,Ashburton,"Ashburton, New Zealand",21,2012,10,2012
+New Zealand,Christchurch,"Christchurch, New Zealand",20,2012,10,2012
+New Zealand,Nelson Airshed B,"Nelson Airshed B, New Zealand",20,2012,9,2012
+New Zealand,Geraldine,"Geraldine, New Zealand",20,2012,9,2012
+New Zealand,Richmond,"Richmond, New Zealand",19,2012,9,2012
+New Zealand,Nelson Airshed A,"Nelson Airshed A, New Zealand",18,2012,9,2012
+New Zealand,Blenheim,"Blenheim, New Zealand",18,2012,9,2012
+New Zealand,Kaiapoi,"Kaiapoi, New Zealand",18,2012,8,2012
+New Zealand,Rotorua,"Rotorua, New Zealand",18,2012,8,2012
+New Zealand,Dunedin,"Dunedin, New Zealand",18,2012,8,2012
+New Zealand,Hawkes Bay,"Hawkes Bay, New Zealand",18,2012,8,2012
+New Zealand,Waimate,"Waimate, New Zealand",17,2012,8,2012
+New Zealand,Rangiora,"Rangiora, New Zealand",17,2012,8,2012
+New Zealand,Tokoroa,"Tokoroa, New Zealand",17,2012,8,2012
+New Zealand,Taumarunui,"Taumarunui, New Zealand",16,2012,8,2012
+New Zealand,Washdyke,"Washdyke, New Zealand",16,2012,8,2012
+New Zealand,Te Kuiti,"Te Kuiti, New Zealand",16,2012,7,2012
+New Zealand,Hastings,"Hastings, New Zealand",15,2012,7,2012
+New Zealand,Whangarei,"Whangarei, New Zealand",15,2012,7,2012
+New Zealand,Auckland,"Auckland, New Zealand",14,2012,5,2012
+New Zealand,Masterton,"Masterton, New Zealand",14,2012,11,2012
+New Zealand,Taihape,"Taihape, New Zealand",13,2012,6,2012
+New Zealand,Napier,"Napier, New Zealand",13,2012,6,2012
+New Zealand,Hamilton,"Hamilton, New Zealand",13,2012,6,2012
+New Zealand,Ngaruawahia,"Ngaruawahia, New Zealand",13,2012,6,2012
+New Zealand,Taupo,"Taupo, New Zealand",12,2012,6,2012
+New Zealand,Wellington,"Wellington, New Zealand",12,2012,6,2012
+New Zealand,Matamata,"Matamata, New Zealand",12,2012,6,2012
+New Zealand,Tauranga,"Tauranga, New Zealand",12,2012,5,2012
+New Zealand,Porirua,"Porirua, New Zealand",12,2012,5,2012
+New Zealand,Putaruru,"Putaruru, New Zealand",11,2012,5,2012
+New Zealand,Lower Hutt,"Lower Hutt, New Zealand",10,2012,4,2012
+New Zealand,Upper Hutt,"Upper Hutt, New Zealand",10,2012,4,2012
+New Zealand,Wainuiomata,"Wainuiomata, New Zealand",10,2012,4,2012
+New Zealand,Turangi,"Turangi, New Zealand",10,2012,4,2012
+New Zealand,Te Anau,"Te Anau, New Zealand",5,2012,2,2012
+Nigeria,Onitsha,"Onitsha, Nigeria",593,2009,66,2009
+Nigeria,Kaduna,"Kaduna, Nigeria",422,2013,89,2013
+Nigeria,Aba,"Aba, Nigeria",373,2009,49,2009
+Nigeria,Umuahia,"Umuahia, Nigeria",273,2009,40,2009
+Nigeria,Owerri,"Owerri, Nigeria",157,2009,44,2009
+Nigeria,Nsukka,"Nsukka, Nigeria",116,2009,14,2009
+Nigeria,Enugu,"Enugu, Nigeria",115,2009,14,2009
+Nigeria,Ile-Ife,"Ile-Ife, Nigeria",103,2010,26,2010
+Nigeria,Abakaliki,"Abakaliki, Nigeria",87,2009,28,2009
+Nigeria,Afikpo,"Afikpo, Nigeria",71,2009,25,2009
+Nigeria,Nnewi,"Nnewi, Nigeria",56,2009,23,2009
+Nigeria,Orlu,"Orlu, Nigeria",51,2009,16,2009
+Norway,DRAMMEN,"DRAMMEN, Norway",27,2013,13,2013
+Norway,FREDRIKSTAD,"FREDRIKSTAD, Norway",27,2013,13,2013
+Norway,OSLO,"OSLO, Norway",22,2013,10,2013
+Norway,STAVANGER,"STAVANGER, Norway",22,2013,8,2013
+Norway,MO I RANA,"MO I RANA, Norway",20,2013,9,2013
+Norway,KRISTIANSAND,"KRISTIANSAND, Norway",19,2013,9,2013
+Norway,BERGEN,"BERGEN, Norway",18,2013,8,2013
+Norway,TRONDHEIM,"TRONDHEIM, Norway",18,2013,7,2013
+Norway,LILLEHAMMER,"LILLEHAMMER, Norway",18,2013,7,2013
+Norway,BAERUM,"BAERUM, Norway",16,2013,10,2013
+Norway,AALESUND,"AALESUND, Norway",16,2013,7,2013
+Norway,TROMSØ,"TROMSØ, Norway",15,2013,7,2013
+Oman,Muscat,"Muscat, Oman",82,2009,34,2009
+Pakistan,Peshawar,"Peshawar, Pakistan",540,2010,111,2010
+Pakistan,Rawalpindi,"Rawalpindi, Pakistan",448,2010,107,2010
+Pakistan,Karachi,"Karachi, Pakistan",289,2009,88,2009
+Pakistan,Islamabad,"Islamabad, Pakistan",216,2011,66,2011
+Pakistan,Lahore,"Lahore, Pakistan",198,2010,68,2010
+Panama,Panama,"Panama, Panama",31,2013,14,2013
+Paraguay,Asunción,"Asunción, Paraguay",33,2010,18,2010
+Peru,Lima,"Lima, Peru",87,2013,47,2013
+Philippines,Baguio City,"Baguio City, Philippines",84,2013,44,2013
+Philippines,San Carlos City,"San Carlos City, Philippines",61,2013,32,2013
+Philippines,Manila,"Manila, Philippines",55,2013,17,2014
+Philippines,Cebu,"Cebu, Philippines",53,2013,28,2013
+Philippines,Daguapan City,"Daguapan City, Philippines",51,2013,26,2013
+Philippines,Zamboanga City,"Zamboanga City, Philippines",48,2013,25,2013
+Philippines,Urdaneta,"Urdaneta, Philippines",45,2013,23,2013
+Philippines,Davao City,"Davao City, Philippines",21,2013,11,2013
+Poland,ZYWIEC,"ZYWIEC, Poland",58,2013,43,2013
+Poland,PSZCZYNA,"PSZCZYNA, Poland",57,2013,42,2013
+Poland,RYBNIK,"RYBNIK, Poland",53,2013,39,2013
+Poland,WODZISLAW SLASKI,"WODZISLAW SLASKI, Poland",53,2013,39,2013
+Poland,OPOCZNO,"OPOCZNO, Poland",53,2013,39,2013
+Poland,SUCHA BESKIDZKA,"SUCHA BESKIDZKA, Poland",53,2013,39,2013
+Poland,KRAKOW,"KRAKOW, Poland",51,2013,37,2013
+Poland,GODOW,"GODOW, Poland",50,2013,38,2013
+Poland,SKAWINA,"SKAWINA, Poland",49,2013,36,2013
+Poland,NIEPOLOMICE,"NIEPOLOMICE, Poland",48,2013,35,2013
+Poland,TUCHOW,"TUCHOW, Poland",48,2013,35,2013
+Poland,KNUROW,"KNUROW, Poland",48,2013,35,2013
+Poland,ZABRZE,"ZABRZE, Poland",47,2013,34,2013
+Poland,WADOWICE,"WADOWICE, Poland",47,2013,34,2013
+Poland,NOWA RUDA,"NOWA RUDA, Poland",47,2013,34,2013
+Poland,PROSZOWICE,"PROSZOWICE, Poland",46,2013,34,2013
+Poland,BRZEZINY,"BRZEZINY, Poland",45,2013,33,2013
+Poland,GLIWICE,"GLIWICE, Poland",45,2013,34,2013
+Poland,NOWY SACZ,"NOWY SACZ, Poland",45,2013,35,2013
+Poland,KATOWICE,"KATOWICE, Poland",45,2013,34,2013
+Poland,ZDUNSKA WOLA,"ZDUNSKA WOLA, Poland",45,2013,33,2013
+Poland,ZORY,"ZORY, Poland",44,2013,31,2013
+Poland,RAWA MAZOWIECKA,"RAWA MAZOWIECKA, Poland",44,2013,32,2013
+Poland,SOSNOWIEC,"SOSNOWIEC, Poland",44,2013,32,2013
+Poland,NAKLO,"NAKLO, Poland",43,2013,32,2013
+Poland,DABROWA GORNICZA,"DABROWA GORNICZA, Poland",43,2013,32,2013
+Poland,TYCHY,"TYCHY, Poland",42,2013,31,2013
+Poland,TOMASZOW MAZOWIECKI,"TOMASZOW MAZOWIECKI, Poland",42,2013,31,2013
+Poland,JAROSLAW,"JAROSLAW, Poland",42,2013,31,2013
+Poland,MIELEC,"MIELEC, Poland",42,2013,31,2013
+Poland,ZAWIERCIE,"ZAWIERCIE, Poland",41,2013,31,2013
+Poland,BIELSKO BIALA,"BIELSKO BIALA, Poland",41,2013,33,2013
+Poland,MYSZKOW,"MYSZKOW, Poland",41,2013,30,2013
+Poland,NOWY TOMYSL,"NOWY TOMYSL, Poland",41,2013,30,2013
+Poland,TARNOWSKIE GORY,"TARNOWSKIE GORY, Poland",41,2013,30,2013
+Poland,JELENIA GORA,"JELENIA GORA, Poland",40,2013,30,2013
+Poland,OLESNO,"OLESNO, Poland",40,2013,29,2013
+Poland,SIERADZ,"SIERADZ, Poland",39,2013,28,2013
+Poland,PIOTRKOW TRYBUNALSKI,"PIOTRKOW TRYBUNALSKI, Poland",38,2013,30,2013
+Poland,KEDZIERZYN-KOZLE,"KEDZIERZYN-KOZLE, Poland",38,2013,32,2013
+Poland,BOCHNIA,"BOCHNIA, Poland",38,2013,29,2013
+Poland,STAROGARD GDANSKI,"STAROGARD GDANSKI, Poland",38,2013,28,2013
+Poland,LODZ,"LODZ, Poland",38,2013,26,2013
+Poland,KLUCZBORK,"KLUCZBORK, Poland",38,2013,27,2013
+Poland,PABIANICE,"PABIANICE, Poland",38,2013,28,2013
+Poland,OTWOCK,"OTWOCK, Poland",38,2013,28,2013
+Poland,OSTROW WIELKOPOLSKI,"OSTROW WIELKOPOLSKI, Poland",38,2013,28,2013
+Poland,SKIERNIEWICE,"SKIERNIEWICE, Poland",38,2013,28,2013
+Poland,LEGNICA,"LEGNICA, Poland",37,2013,26,2013
+Poland,ZAKOPANE,"ZAKOPANE, Poland",37,2013,31,2013
+Poland,ZYRARDOW,"ZYRARDOW, Poland",37,2013,27,2013
+Poland,RADOMSKO,"RADOMSKO, Poland",37,2013,27,2013
+Poland,KOSCIERZYNA,"KOSCIERZYNA, Poland",36,2013,27,2013
+Poland,SWIDNICA,"SWIDNICA, Poland",36,2013,27,2013
+Poland,WROCLAW,"WROCLAW, Poland",36,2013,29,2013
+Poland,CIESZYN,"CIESZYN, Poland",36,2013,26,2013
+Poland,KIELCE,"KIELCE, Poland",35,2013,28,2013
+Poland,ZGIERZ,"ZGIERZ, Poland",35,2013,27,2013
+Poland,PIASTOW,"PIASTOW, Poland",35,2013,27,2013
+Poland,RADOM,"RADOM, Poland",35,2013,24,2013
+Poland,CZESTOCHOWA,"CZESTOCHOWA, Poland",35,2013,28,2013
+Poland,NISKO,"NISKO, Poland",34,2013,25,2013
+Poland,BYDGOSZCZ,"BYDGOSZCZ, Poland",34,2013,20,2013
+Poland,JASLO,"JASLO, Poland",34,2013,25,2013
+Poland,KALISZ,"KALISZ, Poland",34,2013,32,2013
+Poland,TRZEBINIA,"TRZEBINIA, Poland",34,2013,27,2013
+Poland,SZCZAWNO ZDROJ,"SZCZAWNO ZDROJ, Poland",34,2013,25,2013
+Poland,OLAWA,"OLAWA, Poland",34,2013,25,2013
+Poland,TARNOW,"TARNOW, Poland",33,2013,27,2013
+Poland,PULAWY,"PULAWY, Poland",33,2013,24,2013
+Poland,KROSNO,"KROSNO, Poland",33,2013,27,2013
+Poland,LEGIONOWO,"LEGIONOWO, Poland",33,2013,24,2013
+Poland,STARACHOWICE,"STARACHOWICE, Poland",33,2013,26,2013
+Poland,POLANIEC,"POLANIEC, Poland",33,2013,26,2013
+Poland,WALBRZYCH,"WALBRZYCH, Poland",33,2013,23,2013
+Poland,WARSZAWA,"WARSZAWA, Poland",33,2013,26,2013
+Poland,GNIEZNO,"GNIEZNO, Poland",33,2013,24,2013
+Poland,SIEDLCE,"SIEDLCE, Poland",32,2013,28,2013
+Poland,MLAWA,"MLAWA, Poland",32,2013,23,2013
+Poland,SITKOWKA NOWINY,"SITKOWKA NOWINY, Poland",32,2013,23,2013
+Poland,LUBLINIEC,"LUBLINIEC, Poland",32,2013,23,2013
+Poland,ZLOTORYJA,"ZLOTORYJA, Poland",32,2013,23,2013
+Poland,BELSK DUZY,"BELSK DUZY, Poland",31,2013,23,2013
+Poland,RZESZOW,"RZESZOW, Poland",31,2013,25,2013
+Poland,GLOGOW,"GLOGOW, Poland",31,2013,23,2013
+Poland,OPOLE,"OPOLE, Poland",31,2013,23,2013
+Poland,ZAMOSC,"ZAMOSC, Poland",31,2013,22,2013
+Poland,OLESNICA,"OLESNICA, Poland",31,2013,22,2013
+Poland,BUSKO-ZDROJ,"BUSKO-ZDROJ, Poland",30,2013,24,2013
+Poland,GRUDZIADZ,"GRUDZIADZ, Poland",30,2013,22,2013
+Poland,GORLICE,"GORLICE, Poland",30,2013,22,2013
+Poland,WAGROWIEC,"WAGROWIEC, Poland",30,2013,22,2013
+Poland,WLOCLAWEK,"WLOCLAWEK, Poland",30,2013,19,2013
+Poland,LESZNO,"LESZNO, Poland",30,2013,22,2013
+Poland,KONIN,"KONIN, Poland",30,2013,22,2013
+Poland,KRASNIK,"KRASNIK, Poland",30,2013,22,2013
+Poland,ZGORZELEC,"ZGORZELEC, Poland",30,2013,23,2013
+Poland,RUDNA,"RUDNA, Poland",29,2013,22,2013
+Poland,KLODZKO,"KLODZKO, Poland",29,2013,22,2013
+Poland,POLKOWICE,"POLKOWICE, Poland",29,2013,21,2013
+Poland,LUBLIN,"LUBLIN, Poland",29,2013,21,2013
+Poland,CHELM,"CHELM, Poland",29,2013,21,2013
+Poland,SANOK,"SANOK, Poland",29,2013,21,2013
+Poland,TARNOWO PODGORNE,"TARNOWO PODGORNE, Poland",28,2013,21,2013
+Poland,KONICZYNKA,"KONICZYNKA, Poland",28,2013,21,2013
+Poland,DZIERZONIOW,"DZIERZONIOW, Poland",28,2013,21,2013
+Poland,TORUN,"TORUN, Poland",28,2013,16,2013
+Poland,ZABKOWICE SLASKIE,"ZABKOWICE SLASKIE, Poland",28,2013,20,2013
+Poland,PLOCK,"PLOCK, Poland",27,2013,21,2013
+Poland,TARNOWEK,"TARNOWEK, Poland",27,2013,20,2013
+Poland,RADZYN PODLASKI,"RADZYN PODLASKI, Poland",27,2013,20,2013
+Poland,ZLOTY POTOK,"ZLOTY POTOK, Poland",27,2013,22,2013
+Poland,CIECHANOW,"CIECHANOW, Poland",27,2013,20,2013
+Poland,BIALA PODLASKA,"BIALA PODLASKA, Poland",27,2013,20,2013
+Poland,PILA,"PILA, Poland",27,2013,20,2013
+Poland,LOMZA,"LOMZA, Poland",27,2013,27,2013
+Poland,POZNAN,"POZNAN, Poland",26,2013,20,2013
+Poland,SULECIN,"SULECIN, Poland",26,2013,19,2013
+Poland,WSCHOWA,"WSCHOWA, Poland",26,2013,22,2013
+Poland,NIDZICA,"NIDZICA, Poland",26,2013,19,2013
+Poland,ZIELONA GORA,"ZIELONA GORA, Poland",26,2013,20,2013
+Poland,DZIALOSZYN,"DZIALOSZYN, Poland",25,2013,19,2013
+Poland,OZAROW,"OZAROW, Poland",25,2013,19,2013
+Poland,SZCZECINEK,"SZCZECINEK, Poland",25,2013,14,2013
+Poland,GORZOW WLKP.,"GORZOW WLKP., Poland",25,2013,16,2013
+Poland,MYSLIBORZ,"MYSLIBORZ, Poland",25,2013,18,2013
+Poland,OSTROLEKA,"OSTROLEKA, Poland",24,2013,18,2013
+Poland,BIALYSTOK,"BIALYSTOK, Poland",24,2013,19,2013
+Poland,GAJEW,"GAJEW, Poland",24,2013,18,2013
+Poland,KWIDZYN,"KWIDZYN, Poland",24,2013,17,2013
+Poland,SWIECIE,"SWIECIE, Poland",24,2013,17,2013
+Poland,MALBORK,"MALBORK, Poland",24,2013,17,2013
+Poland,WIDUCHOWA,"WIDUCHOWA, Poland",23,2013,17,2013
+Poland,SZCZECIN,"SZCZECIN, Poland",22,2013,15,2013
+Poland,ELBLAG,"ELBLAG, Poland",22,2013,17,2013
+Poland,GOLDAP,"GOLDAP, Poland",22,2013,16,2013
+Poland,SLUPSK,"SLUPSK, Poland",22,2013,16,2013
+Poland,GRANICA,"GRANICA, Poland",21,2013,15,2013
+Poland,OLSZTYN,"OLSZTYN, Poland",21,2013,16,2013
+Poland,TUCHOLA,"TUCHOLA, Poland",21,2013,15,2013
+Poland,KOSZALIN,"KOSZALIN, Poland",21,2013,11,2013
+Poland,CIECHOCINEK,"CIECHOCINEK, Poland",21,2013,15,2013
+Poland,OSTRODA,"OSTRODA, Poland",20,2013,16,2013
+Poland,BOGATYNIA,"BOGATYNIA, Poland",20,2013,15,2013
+Poland,GDANSK,"GDANSK, Poland",20,2013,13,2013
+Poland,RADOMIERZYCE,"RADOMIERZYCE, Poland",20,2013,14,2013
+Poland,SUWALKI,"SUWALKI, Poland",19,2013,14,2013
+Poland,WYSZKOW,"WYSZKOW, Poland",18,2013,13,2013
+Poland,WLADYSLAWOWO,"WLADYSLAWOWO, Poland",18,2013,13,2013
+Poland,ZIELONKA,"ZIELONKA, Poland",17,2013,14,2013
+Poland,SOPOT,"SOPOT, Poland",16,2013,12,2013
+Poland,GDYNIA,"GDYNIA, Poland",16,2013,11,2013
+Poland,JASNA GORA,"JASNA GORA, Poland",15,2013,11,2013
+Poland,INOWROCLAW,"INOWROCLAW, Poland",10,2013,7,2013
+Portugal,Ílhavo,"Ílhavo, Portugal",21,2014,14,2014
+Portugal,Albufeira,"Albufeira, Portugal",19,2014,13,2014
+Portugal,Coimbra,"Coimbra, Portugal",17,2014,12,2014
+Portugal,Faro,"Faro, Portugal",16,2014,11,2014
+Portugal,Vila do Conde,"Vila do Conde, Portugal",16,2014,11,2014
+Portugal,Lisboa,"Lisboa, Portugal",15,2014,11,2014
+Portugal,Almada,"Almada, Portugal",14,2014,8,2014
+Portugal,Loures,"Loures, Portugal",13,2014,9,2014
+Portugal,Braga,"Braga, Portugal",12,2014,8,2014
+Portugal,Vila Franca de Xira,"Vila Franca de Xira, Portugal",12,2014,8,2014
+Portugal,Sintra,"Sintra, Portugal",11,2014,7,2014
+Portugal,Santo Tirso,"Santo Tirso, Portugal",9,2014,6,2014
+Qatar,Doha,"Doha, Qatar",167,2012,93,2012
+Qatar,Al Wakrah,"Al Wakrah, Qatar",152,2012,85,2012
+Republic of Korea,Gyeonggi,"Gyeonggi, Republic of Korea",54,2014,28,2014
+Republic of Korea,Chungbuk,"Chungbuk, Republic of Korea",52,2014,27,2014
+Republic of Korea,Gangwon,"Gangwon, Republic of Korea",51,2014,26,2014
+Republic of Korea,Jeonbuk,"Jeonbuk, Republic of Korea",51,2014,26,2014
+Republic of Korea,Gyeongbuk,"Gyeongbuk, Republic of Korea",49,2014,25,2014
+Republic of Korea,Incheon,"Incheon, Republic of Korea",49,2014,25,2014
+Republic of Korea,Busan,"Busan, Republic of Korea",48,2014,25,2014
+Republic of Korea,Gyeongnam,"Gyeongnam, Republic of Korea",48,2014,25,2014
+Republic of Korea,Jeju,"Jeju, Republic of Korea",47,2014,24,2014
+Republic of Korea,Seoul,"Seoul, Republic of Korea",46,2014,24,2014
+Republic of Korea,Ulsan,"Ulsan, Republic of Korea",46,2014,24,2014
+Republic of Korea,Daegu,"Daegu, Republic of Korea",45,2014,23,2014
+Republic of Korea,Chungnam,"Chungnam, Republic of Korea",42,2014,22,2014
+Republic of Korea,Daejeon,"Daejeon, Republic of Korea",41,2014,21,2014
+Republic of Korea,Gwangju,"Gwangju, Republic of Korea",41,2014,21,2014
+Republic of Korea,Jeonnam,"Jeonnam, Republic of Korea",38,2014,20,2014
+Romania,IASI,"IASI, Romania",44,2013,19,2013
+Romania,ROVINARI,"ROVINARI, Romania",38,2013,28,2013
+Romania,CONSTANTA,"CONSTANTA, Romania",36,2013,27,2013
+Romania,TOMESTI,"TOMESTI, Romania",31,2013,23,2013
+Romania,BUCHAREST,"BUCHAREST, Romania",30,2013,22,2013
+Romania,PLOIESTI,"PLOIESTI, Romania",30,2013,17,2013
+Romania,GIURGIU,"GIURGIU, Romania",30,2013,22,2013
+Romania,BOTOSANI,"BOTOSANI, Romania",29,2013,20,2013
+Romania,DROBETA TURNU SEVERIN,"DROBETA TURNU SEVERIN, Romania",28,2013,20,2013
+Romania,TIMISOARA,"TIMISOARA, Romania",27,2013,12,2013
+Romania,SUCEAVA,"SUCEAVA, Romania",27,2013,20,2013
+Romania,CLUJ,"CLUJ, Romania",27,2013,20,2013
+Romania,ZONA FIRIZA,"ZONA FIRIZA, Romania",27,2013,20,2013
+Romania,ALBA IULIA,"ALBA IULIA, Romania",26,2013,19,2013
+Romania,BLEJOI,"BLEJOI, Romania",26,2013,19,2013
+Romania,MIERCUREA CIUC,"MIERCUREA CIUC, Romania",26,2013,16,2013
+Romania,UNGHENI,"UNGHENI, Romania",26,2013,19,2013
+Romania,TURCENI,"TURCENI, Romania",26,2013,19,2013
+Romania,MEDIAS,"MEDIAS, Romania",26,2013,19,2013
+Romania,CRAIOVA,"CRAIOVA, Romania",25,2013,18,2013
+Romania,SIRET,"SIRET, Romania",25,2013,18,2013
+Romania,BUZAU,"BUZAU, Romania",25,2013,18,2013
+Romania,HUSI,"HUSI, Romania",24,2013,18,2013
+Romania,SLATINA,"SLATINA, Romania",24,2013,18,2013
+Romania,BRASOV,"BRASOV, Romania",24,2013,15,2013
+Romania,ALEXANDRIA,"ALEXANDRIA, Romania",22,2013,16,2013
+Romania,PIATRA NEAMT,"PIATRA NEAMT, Romania",22,2013,16,2013
+Romania,NADLAC,"NADLAC, Romania",21,2013,16,2013
+Romania,SATU MARE,"SATU MARE, Romania",21,2013,16,2013
+Romania,BAIA MARE,"BAIA MARE, Romania",21,2013,18,2013
+Romania,ARAD,"ARAD, Romania",21,2013,17,2013
+Romania,ORADEA,"ORADEA, Romania",21,2013,15,2013
+Romania,COMUNA SINANDREI,"COMUNA SINANDREI, Romania",19,2013,14,2013
+Romania,MOLDOVA NOUA,"MOLDOVA NOUA, Romania",19,2013,14,2013
+Romania,BACAU,"BACAU, Romania",18,2013,13,2013
+Romania,GALATI,"GALATI, Romania",18,2013,7,2013
+Romania,ISACCEA,"ISACCEA, Romania",18,2013,13,2013
+Romania,PITESTI,"PITESTI, Romania",17,2013,14,2013
+Romania,DEVA,"DEVA, Romania",17,2013,13,2013
+Romania,SANPETRU,"SANPETRU, Romania",17,2013,13,2013
+Romania,VULCAN,"VULCAN, Romania",12,2013,9,2013
+Romania,CAMPULUNG,"CAMPULUNG, Romania",12,2013,8,2013
+Russian Federation,Moscow,"Moscow, Russian Federation",32,2009,19,2009
+Saudi Arabia,Riyadh,"Riyadh, Saudi Arabia",368,2014,155,2014
+Saudi Arabia,Al Jubail,"Al Jubail, Saudi Arabia",359,2014,151,2014
+Saudi Arabia,Dammam,"Dammam, Saudi Arabia",286,2014,120,2014
+Saudi Arabia,Yenbu,"Yenbu, Saudi Arabia",230,2014,97,2014
+Saudi Arabia,Makkah,"Makkah, Saudi Arabia",176,2014,74,2014
+Saudi Arabia,Jeddah,"Jeddah, Saudi Arabia",161,2014,68,2014
+Saudi Arabia,Medina,"Medina, Saudi Arabia",153,2014,64,2014
+Senegal,Dakar,"Dakar, Senegal",141,2013,34,2013
+Serbia,BELGRADE,"BELGRADE, Serbia",37,2013,22,2013
+Serbia,NOVI SAD,"NOVI SAD, Serbia",32,2013,19,2013
+Serbia,NIS,"NIS, Serbia",31,2013,19,2013
+Singapore,Singapore,"Singapore, Singapore",30,2014,18,2014
+Slovakia,VELKA IDA,"VELKA IDA, Slovakia",39,2013,25,2013
+Slovakia,ZILINA,"ZILINA, Slovakia",36,2013,24,2013
+Slovakia,BANSKA BYSTRICA,"BANSKA BYSTRICA, Slovakia",35,2013,17,2013
+Slovakia,BYSTRICANY,"BYSTRICANY, Slovakia",34,2013,22,2013
+Slovakia,RUZOMBEROK,"RUZOMBEROK, Slovakia",34,2013,23,2013
+Slovakia,PRESOV,"PRESOV, Slovakia",34,2013,22,2013
+Slovakia,PRIEVIDZA,"PRIEVIDZA, Slovakia",31,2013,21,2013
+Slovakia,TRNAVA,"TRNAVA, Slovakia",30,2013,20,2013
+Slovakia,SENICA,"SENICA, Slovakia",29,2013,19,2013
+Slovakia,KOSICE,"KOSICE, Slovakia",28,2013,19,2013
+Slovakia,MARTIN,"MARTIN, Slovakia",28,2013,17,2013
+Slovakia,STRAZSKE,"STRAZSKE, Slovakia",27,2013,19,2013
+Slovakia,BRATISLAVA,"BRATISLAVA, Slovakia",27,2013,18,2013
+Slovakia,NITRA,"NITRA, Slovakia",26,2013,17,2013
+Slovakia,ZVOLEN,"ZVOLEN, Slovakia",26,2013,19,2013
+Slovakia,HNUSTA,"HNUSTA, Slovakia",26,2013,17,2013
+Slovakia,VRANOV NAD TOPLOV,"VRANOV NAD TOPLOV, Slovakia",25,2013,17,2013
+Slovakia,MALACKY,"MALACKY, Slovakia",25,2013,17,2013
+Slovakia,HUMENNE,"HUMENNE, Slovakia",25,2013,18,2013
+Slovakia,HANDLOVA,"HANDLOVA, Slovakia",24,2013,16,2013
+Slovakia,ZIAR NAD HRONOM,"ZIAR NAD HRONOM, Slovakia",21,2013,14,2013
+Slovenia,TRBOVLJE1,"TRBOVLJE1, Slovenia",30,2013,23,2013
+Slovenia,MARIBOR,"MARIBOR, Slovenia",30,2013,20,2013
+Slovenia,CELJE,"CELJE, Slovenia",29,2013,22,2013
+Slovenia,ZAGORJE OB SAVI,"ZAGORJE OB SAVI, Slovenia",29,2013,22,2013
+Slovenia,MURSKA SOBOTA,"MURSKA SOBOTA, Slovenia",28,2013,21,2013
+Slovenia,NOVO MESTO,"NOVO MESTO, Slovenia",27,2013,20,2013
+Slovenia,ZERJAV,"ZERJAV, Slovenia",26,2013,19,2013
+Slovenia,LJUBLJANA,"LJUBLJANA, Slovenia",24,2013,20,2013
+Slovenia,KRANJ,"KRANJ, Slovenia",24,2013,18,2013
+Slovenia,HRASTNIK,"HRASTNIK, Slovenia",23,2013,17,2013
+Slovenia,NOVA GORICA,"NOVA GORICA, Slovenia",21,2013,16,2013
+Slovenia,VELENJE,"VELENJE, Slovenia",20,2013,15,2013
+Slovenia,KOPER,"KOPER, Slovenia",19,2013,15,2013
+South Africa,Hartebeespoort,"Hartebeespoort, South Africa",118,2014,60,2014
+South Africa,Johannesburg,"Johannesburg, South Africa",85,2010,40,2011
+South Africa,Tshwane [Pretoria],"Tshwane [Pretoria], South Africa",63,2014,51,2014
+South Africa,Mpumalanga,"Mpumalanga, South Africa",61,2013,30,2013
+South Africa,Vereeniging,"Vereeniging, South Africa",57,2014,34,2014
+South Africa,Zamdela,"Zamdela, South Africa",56,2014,29,2014
+South Africa,Sekunda,"Sekunda, South Africa",53,2014,25,2014
+South Africa,Sebokeng,"Sebokeng, South Africa",42,2014,31,2014
+South Africa,Diepkloof,"Diepkloof, South Africa",39,2014,21,2014
+South Africa,Waterberg,"Waterberg, South Africa",37,2014,17,2014
+South Africa,Ermelo,"Ermelo, South Africa",33,2014,16,2014
+South Africa,Witbank,"Witbank, South Africa",30,2014,16,2014
+South Africa,Middleburg,"Middleburg, South Africa",23,2014,12,2014
+Spain,PUERTO REAL,"PUERTO REAL, Spain",32,2013,18,2013
+Spain,AVILES,"AVILES, Spain",32,2013,18,2013
+Spain,La Linea de la Concepción,"La Linea de la Concepción, Spain",30,2013,17,2013
+Spain,ARONA,"ARONA, Spain",29,2013,11,2013
+Spain,SEVILLA,"SEVILLA, Spain",28,2013,16,2013
+Spain,EJIDO (EL),"EJIDO (EL), Spain",28,2013,15,2013
+Spain,ALCORA (L'),"ALCORA (L'), Spain",28,2013,8,2013
+Spain,CANGAS DEL NARCEA,"CANGAS DEL NARCEA, Spain",27,2013,15,2013
+Spain,JEREZ DE LA FRONTERA,"JEREZ DE LA FRONTERA, Spain",27,2013,15,2013
+Spain,CUEVAS DEL ALMANZORA,"CUEVAS DEL ALMANZORA, Spain",27,2013,15,2013
+Spain,MIERES,"MIERES, Spain",27,2013,15,2013
+Spain,SAN BARTOLOME DE TIRAJANA,"SAN BARTOLOME DE TIRAJANA, Spain",27,2013,9,2013
+Spain,MAIRENA DEL ALJARAFE,"MAIRENA DEL ALJARAFE, Spain",26,2013,14,2013
+Spain,GIJÓN,"GIJÓN, Spain",26,2013,11,2013
+Spain,ARMILLA,"ARMILLA, Spain",26,2013,14,2013
+Spain,SIERO,"SIERO, Spain",26,2013,14,2013
+Spain,ALGAR,"ALGAR, Spain",26,2013,14,2013
+Spain,MURCIA,"MURCIA, Spain",25,2013,14,2013
+Spain,PUERTO DEL ROSARIO,"PUERTO DEL ROSARIO, Spain",25,2013,7,2013
+Spain,ALBACETE,"ALBACETE, Spain",25,2013,14,2013
+Spain,MOTRIL,"MOTRIL, Spain",25,2013,14,2013
+Spain,LANGREO,"LANGREO, Spain",25,2013,14,2013
+Spain,BARRIOS (LOS),"BARRIOS (LOS), Spain",25,2013,14,2013
+Spain,TELDE,"TELDE, Spain",25,2013,8,2013
+Spain,ILLESCAS,"ILLESCAS, Spain",24,2013,13,2013
+Spain,OVIEDO,"OVIEDO, Spain",24,2013,13,2013
+Spain,BARCELONA,"BARCELONA, Spain",24,2013,15,2013
+Spain,ARRECIFE,"ARRECIFE, Spain",24,2013,4,2013
+Spain,HUELVA,"HUELVA, Spain",24,2013,13,2013
+Spain,GRANADILLA DE ABONA,"GRANADILLA DE ABONA, Spain",24,2013,8,2013
+Spain,SAN MARTÍN DEL REY AURELIO,"SAN MARTÍN DEL REY AURELIO, Spain",24,2013,13,2013
+Spain,COLLADO VILLALBA,"COLLADO VILLALBA, Spain",23,2013,12,2013
+Spain,MIRANDA DE EBRO,"MIRANDA DE EBRO, Spain",23,2013,13,2013
+Spain,VILLA DEL PRADO,"VILLA DEL PRADO, Spain",23,2013,12,2013
+Spain,ALGECIRAS,"ALGECIRAS, Spain",23,2013,13,2013
+Spain,PUERTOLLANO,"PUERTOLLANO, Spain",23,2013,14,2013
+Spain,SANGüESA/ZANGOZA,"SANGüESA/ZANGOZA, Spain",23,2013,13,2013
+Spain,PALOS DE LA FRONTERA,"PALOS DE LA FRONTERA, Spain",23,2013,13,2013
+Spain,DURANGO,"DURANGO, Spain",23,2013,13,2013
+Spain,CARTAGENA,"CARTAGENA, Spain",23,2013,12,2013
+Spain,Punta Umbría,"Punta Umbría, Spain",23,2013,12,2013
+Spain,ARUCAS,"ARUCAS, Spain",23,2013,11,2013
+Spain,AGüIMES,"AGüIMES, Spain",23,2013,7,2013
+Spain,MEDINA DEL CAMPO,"MEDINA DEL CAMPO, Spain",22,2013,12,2013
+Spain,ALFARO,"ALFARO, Spain",22,2013,8,2013
+Spain,PALMAS DE GRAN CANARIA (LAS),"PALMAS DE GRAN CANARIA (LAS), Spain",22,2013,7,2013
+Spain,LUGO,"LUGO, Spain",22,2013,12,2013
+Spain,SANTIAGO DE COMPOSTELA,"SANTIAGO DE COMPOSTELA, Spain",22,2013,12,2013
+Spain,ARAFO,"ARAFO, Spain",22,2013,7,2013
+Spain,VALDEMORO,"VALDEMORO, Spain",22,2013,10,2013
+Spain,ARGANDA DEL REY,"ARGANDA DEL REY, Spain",22,2013,12,2013
+Spain,LORCA,"LORCA, Spain",22,2013,12,2013
+Spain,GETAFE,"GETAFE, Spain",22,2013,12,2013
+Spain,MATARÓ,"MATARÓ, Spain",21,2013,12,2013
+Spain,GUARDO,"GUARDO, Spain",21,2013,12,2013
+Spain,CORUÑA (A),"CORUÑA (A), Spain",21,2013,12,2013
+Spain,TORRELAVEGA,"TORRELAVEGA, Spain",21,2013,12,2013
+Spain,CASTRO-URDIALES,"CASTRO-URDIALES, Spain",21,2013,12,2013
+Spain,VIGO,"VIGO, Spain",21,2013,11,2013
+Spain,ALCANTARILLA,"ALCANTARILLA, Spain",21,2013,11,2013
+Spain,LOGROÑO,"LOGROÑO, Spain",21,2013,11,2013
+Spain,ABANTO Y CIERVANA/ABANTO ZIERB,"ABANTO Y CIERVANA/ABANTO ZIERB, Spain",21,2013,11,2013
+Spain,SANTA CRUZ DE LA PALMA,"SANTA CRUZ DE LA PALMA, Spain",21,2013,5,2013
+Spain,EIVISSA,"EIVISSA, Spain",21,2013,11,2013
+Spain,PALENCIA,"PALENCIA, Spain",21,2013,11,2013
+Spain,Santa Lucía de Tirajana,"Santa Lucía de Tirajana, Spain",21,2013,7,2013
+Spain,SANTANDER,"SANTANDER, Spain",21,2013,11,2013
+Spain,CIUDAD REAL,"CIUDAD REAL, Spain",21,2013,11,2013
+Spain,LEGANES,"LEGANES, Spain",20,2013,11,2013
+Spain,CAMARGO,"CAMARGO, Spain",20,2013,11,2013
+Spain,CONGOSTO,"CONGOSTO, Spain",20,2013,11,2013
+Spain,PRADO DEL REY,"PRADO DEL REY, Spain",20,2013,11,2013
+Spain,ALCANAR,"ALCANAR, Spain",20,2013,11,2013
+Spain,ALCALÃ__ DE HENARES,"ALCALÃ__ DE HENARES, Spain",20,2013,11,2013
+Spain,CORRALES DE BUELNA (LOS),"CORRALES DE BUELNA (LOS), Spain",20,2013,11,2013
+Spain,ALCORCÓN,"ALCORCÓN, Spain",20,2013,9,2013
+Spain,ELCHE/ELX,"ELCHE/ELX, Spain",20,2013,11,2013
+Spain,ROBLA (LA),"ROBLA (LA), Spain",20,2013,11,2013
+Spain,ARANJUEZ,"ARANJUEZ, Spain",20,2013,11,2013
+Spain,VILLAREJO DE SALVANES,"VILLAREJO DE SALVANES, Spain",20,2013,10,2013
+Spain,SAN ROQUE,"SAN ROQUE, Spain",19,2013,11,2013
+Spain,BADALONA,"BADALONA, Spain",19,2013,11,2013
+Spain,SONDIKA,"SONDIKA, Spain",19,2013,11,2013
+Spain,FABERO,"FABERO, Spain",19,2013,10,2013
+Spain,MAJADAHONDA,"MAJADAHONDA, Spain",19,2013,10,2013
+Spain,ASTILLERO (EL),"ASTILLERO (EL), Spain",19,2013,10,2013
+Spain,SANT JUST DESVERN,"SANT JUST DESVERN, Spain",19,2013,10,2013
+Spain,BILBAO,"BILBAO, Spain",19,2013,10,2013
+Spain,COSLADA,"COSLADA, Spain",19,2013,10,2013
+Spain,SANTA CRUZ DE TENERIFE,"SANTA CRUZ DE TENERIFE, Spain",19,2013,7,2013
+Spain,TORREJÓN DE ARDOZ,"TORREJÓN DE ARDOZ, Spain",19,2013,9,2013
+Spain,TEGUISE,"TEGUISE, Spain",19,2013,6,2013
+Spain,LLODIO,"LLODIO, Spain",19,2013,10,2013
+Spain,BURJASSOT,"BURJASSOT, Spain",19,2013,10,2013
+Spain,PALMA DE MALLORCA,"PALMA DE MALLORCA, Spain",18,2013,10,2013
+Spain,SANT FELIU DE LLOBREGAT,"SANT FELIU DE LLOBREGAT, Spain",18,2013,9,2013
+Spain,Ávila,"Ávila, Spain",18,2013,10,2013
+Spain,FERROL,"FERROL, Spain",18,2013,10,2013
+Spain,MADRID,"MADRID, Spain",18,2013,9,2013
+Spain,MÓSTOLES,"MÓSTOLES, Spain",18,2013,10,2013
+Spain,MAHÓN,"MAHÓN, Spain",18,2013,5,2013
+Spain,AZPEITIA,"AZPEITIA, Spain",18,2013,10,2013
+Spain,FUENLABRADA,"FUENLABRADA, Spain",18,2013,10,2013
+Spain,CANDELARIA,"CANDELARIA, Spain",18,2013,5,2013
+Spain,COLMENAR VIEJO,"COLMENAR VIEJO, Spain",18,2013,10,2013
+Spain,BEASAIN,"BEASAIN, Spain",18,2013,10,2013
+Spain,SARIÑENA,"SARIÑENA, Spain",18,2013,10,2013
+Spain,RIVAS-VACIAMADRID,"RIVAS-VACIAMADRID, Spain",18,2013,10,2013
+Spain,REALEJOS (LOS),"REALEJOS (LOS), Spain",18,2013,4,2013
+Spain,PONTEVEDRA,"PONTEVEDRA, Spain",18,2013,10,2013
+Spain,SANTA MARGARIDA I ELS MONJOS,"SANTA MARGARIDA I ELS MONJOS, Spain",17,2013,10,2013
+Spain,PRADEJÓN,"PRADEJÓN, Spain",17,2013,7,2013
+Spain,VALVERDE,"VALVERDE, Spain",17,2013,9,2013
+Spain,POBLA (SA),"POBLA (SA), Spain",17,2013,9,2013
+Spain,GUADALAJARA,"GUADALAJARA, Spain",17,2013,9,2013
+Spain,VALENCIA,"VALENCIA, Spain",17,2013,10,2013
+Spain,TOLEDO,"TOLEDO, Spain",17,2013,9,2013
+Spain,QUART DE POBLET,"QUART DE POBLET, Spain",17,2013,7,2013
+Spain,ALAGÓN,"ALAGÓN, Spain",17,2013,9,2013
+Spain,ALZIRA,"ALZIRA, Spain",17,2013,9,2013
+Spain,PONFERRADA,"PONFERRADA, Spain",17,2013,9,2013
+Spain,LEÓN,"LEÓN, Spain",16,2013,6,2013
+Spain,CADAQUES,"CADAQUES, Spain",16,2013,7,2013
+Spain,ZARAGOZA,"ZARAGOZA, Spain",16,2013,10,2013
+Spain,ALCOBENDAS,"ALCOBENDAS, Spain",16,2013,9,2013
+Spain,GANDIA,"GANDIA, Spain",16,2013,10,2013
+Spain,TOLOSA,"TOLOSA, Spain",16,2013,9,2013
+Spain,ARANDA DE DUERO,"ARANDA DE DUERO, Spain",16,2013,9,2013
+Spain,SAN ANDRES Y SAUCES,"SAN ANDRES Y SAUCES, Spain",16,2013,9,2013
+Spain,CAMBRE,"CAMBRE, Spain",16,2013,9,2013
+Spain,BREÑA BAJA,"BREÑA BAJA, Spain",16,2013,6,2013
+Spain,PATERNA,"PATERNA, Spain",16,2013,9,2013
+Spain,CEE,"CEE, Spain",16,2013,9,2013
+Spain,ALGETE,"ALGETE, Spain",16,2013,8,2013
+Spain,BREÑA ALTA,"BREÑA ALTA, Spain",16,2013,7,2013
+Spain,ALICANTE/ALACANT,"ALICANTE/ALACANT, Spain",15,2013,9,2013
+Spain,SALAMANCA,"SALAMANCA, Spain",15,2013,7,2013
+Spain,MERIDA,"MERIDA, Spain",15,2013,8,2013
+Spain,ARTEIXO,"ARTEIXO, Spain",15,2013,8,2013
+Spain,VILLAR DEL ARZOBISPO,"VILLAR DEL ARZOBISPO, Spain",15,2013,8,2013
+Spain,ALCAÑIZ,"ALCAÑIZ, Spain",15,2013,8,2013
+Spain,TALAVERA DE LA REINA,"TALAVERA DE LA REINA, Spain",15,2013,8,2013
+Spain,ZAMORA,"ZAMORA, Spain",15,2013,8,2013
+Spain,LLANES,"LLANES, Spain",15,2013,6,2013
+Spain,CASTELLÓN DE LA PLANA/CASTELLÓ,"CASTELLÓN DE LA PLANA/CASTELLÓ, Spain",15,2013,12,2013
+Spain,SEGOVIA,"SEGOVIA, Spain",15,2013,8,2013
+Spain,HERNANI,"HERNANI, Spain",15,2013,8,2013
+Spain,ONDA,"ONDA, Spain",15,2013,8,2013
+Spain,GUADALIX DE LA SIERRA,"GUADALIX DE LA SIERRA, Spain",14,2013,8,2013
+Spain,ALMONTE,"ALMONTE, Spain",14,2013,8,2013
+Spain,San Martín de Valdeiglesias,"San Martín de Valdeiglesias, Spain",14,2013,8,2013
+Spain,CESURAS,"CESURAS, Spain",14,2013,8,2013
+Spain,ARRASATE O MONDRAGÓN,"ARRASATE O MONDRAGÓN, Spain",14,2013,8,2013
+Spain,BURGOS,"BURGOS, Spain",14,2013,7,2013
+Spain,CARAVACA DE LA CRUZ,"CARAVACA DE LA CRUZ, Spain",14,2013,8,2013
+Spain,CARRACEDELO,"CARRACEDELO, Spain",14,2013,8,2013
+Spain,BUNYOLA,"BUNYOLA, Spain",14,2013,6,2013
+Spain,CERCEDA,"CERCEDA, Spain",14,2013,7,2013
+Spain,ORDES,"ORDES, Spain",14,2013,7,2013
+Spain,OUROL,"OUROL, Spain",14,2013,13,2013
+Spain,VALLADOLID,"VALLADOLID, Spain",14,2013,9,2013
+Spain,Dumbría,"Dumbría, Spain",13,2013,7,2013
+Spain,SORIA,"SORIA, Spain",13,2013,7,2013
+Spain,Viznar,"Viznar, Spain",13,2013,9,2013
+Spain,AIA,"AIA, Spain",13,2013,7,2013
+Spain,ORUSCO DE TAJUÑA,"ORUSCO DE TAJUÑA, Spain",13,2013,7,2013
+Spain,BADAJOZ,"BADAJOZ, Spain",13,2013,7,2013
+Spain,Valdegovía,"Valdegovía, Spain",13,2013,7,2013
+Spain,OURENSE,"OURENSE, Spain",13,2013,7,2013
+Spain,POLLENÇA,"POLLENÇA, Spain",13,2013,7,2013
+Spain,XOVE,"XOVE, Spain",12,2013,7,2013
+Spain,SAN JORGE,"SAN JORGE, Spain",12,2013,7,2013
+Spain,POIO,"POIO, Spain",12,2013,7,2013
+Spain,ZAFRA,"ZAFRA, Spain",12,2013,7,2013
+Spain,Arrúbal,"Arrúbal, Spain",12,2013,8,2013
+Spain,SAGUNTO/SAGUNT,"SAGUNTO/SAGUNT, Spain",12,2013,7,2013
+Spain,OBEJO,"OBEJO, Spain",12,2013,7,2013
+Spain,BUJARALOZ,"BUJARALOZ, Spain",12,2013,7,2013
+Spain,BARCARROTA,"BARCARROTA, Spain",12,2013,6,2013
+Spain,ALCOY/ALCOI,"ALCOY/ALCOI, Spain",12,2013,6,2013
+Spain,DONOSTIA-SAN SEBASTIÃ__N,"DONOSTIA-SAN SEBASTIÃ__N, Spain",12,2013,6,2013
+Spain,CAUDETE DE LAS FUENTES,"CAUDETE DE LAS FUENTES, Spain",12,2013,8,2013
+Spain,LARACHA,"LARACHA, Spain",11,2013,6,2013
+Spain,ELCIEGO,"ELCIEGO, Spain",11,2013,6,2013
+Spain,TERUEL,"TERUEL, Spain",11,2013,6,2013
+Spain,REINOSA,"REINOSA, Spain",11,2013,6,2013
+Spain,ELDA,"ELDA, Spain",11,2013,8,2013
+Spain,CERVO,"CERVO, Spain",11,2013,6,2013
+Spain,ZORITA DEL MAESTRAZGO,"ZORITA DEL MAESTRAZGO, Spain",11,2013,6,2013
+Spain,HUESCA,"HUESCA, Spain",11,2013,6,2013
+Spain,PINOSO,"PINOSO, Spain",11,2013,6,2013
+Spain,VENTA DE BAÑOS,"VENTA DE BAÑOS, Spain",11,2013,6,2013
+Spain,TORMS (ELS),"TORMS (ELS), Spain",11,2013,6,2013
+Spain,ATAZAR (EL),"ATAZAR (EL), Spain",11,2013,7,2013
+Spain,CÃ__CERES,"CÃ__CERES, Spain",11,2013,7,2013
+Spain,Vandellòs i l'Hospitalet de l'Infant,"Vandellòs i l'Hospitalet de l'Infant, Spain",10,2013,6,2013
+Spain,VILALBA,"VILALBA, Spain",10,2013,5,2013
+Spain,TORIL,"TORIL, Spain",10,2013,5,2013
+Spain,BURRIANA,"BURRIANA, Spain",10,2013,7,2013
+Spain,AMETLLA DE MAR (L'),"AMETLLA DE MAR (L'), Spain",10,2013,5,2013
+Spain,CALANDA,"CALANDA, Spain",10,2013,5,2013
+Spain,GALILEA,"GALILEA, Spain",10,2013,7,2013
+Spain,BENIDORM,"BENIDORM, Spain",10,2013,7,2013
+Spain,PLASENCIA,"PLASENCIA, Spain",10,2013,5,2013
+Spain,ALMAZORA/ALMASSORA,"ALMAZORA/ALMASSORA, Spain",10,2013,7,2013
+Spain,SANT ANTONI DE PORTMANY,"SANT ANTONI DE PORTMANY, Spain",10,2013,5,2013
+Spain,ALGAR DE PALANCIA,"ALGAR DE PALANCIA, Spain",9,2013,7,2013
+Spain,Pontes de García Rodríguez (As),"Pontes de García Rodríguez (As), Spain",9,2013,7,2013
+Spain,MURAS,"MURAS, Spain",9,2013,5,2013
+Spain,SAN PABLO DE LOS MONTES,"SAN PABLO DE LOS MONTES, Spain",9,2013,5,2013
+Spain,ALBALAT DELS TARONGERS,"ALBALAT DELS TARONGERS, Spain",9,2013,7,2013
+Spain,CUADROS,"CUADROS, Spain",9,2013,5,2013
+Spain,VIVER,"VIVER, Spain",9,2013,6,2013
+Spain,SAVIÑAO (O),"SAVIÑAO (O), Spain",9,2013,6,2013
+Spain,BENICASIM/BENICÃ€SSIM,"BENICASIM/BENICÃ€SSIM, Spain",9,2013,7,2013
+Spain,ZARRA,"ZARRA, Spain",9,2013,4,2013
+Spain,TOJOS (LOS),"TOJOS (LOS), Spain",9,2013,5,2013
+Spain,PEÑAUSENDE,"PEÑAUSENDE, Spain",8,2013,4,2013
+Spain,VITORIA-GASTEIZ,"VITORIA-GASTEIZ, Spain",7,2013,4,2013
+Spain,VILLALBA DE GUARDO,"VILLALBA DE GUARDO, Spain",7,2013,5,2013
+Spain,MORELLA,"MORELLA, Spain",7,2013,4,2013
+Spain,BUÑOL,"BUÑOL, Spain",6,2013,5,2013
+Spain,NOIA,"NOIA, Spain",6,2013,3,2013
+Spain,Pueyo de Araguás (El),"Pueyo de Araguás (El), Spain",6,2013,3,2013
+Spain,Campisábalos,"Campisábalos, Spain",6,2013,4,2013
+Sri Lanka,Colombo,"Colombo, Sri Lanka",64,2011,35,2011
+Sweden,Södertälje,"Södertälje, Sweden",29,2013,8,2013
+Sweden,STOCKHOLM,"STOCKHOLM, Sweden",26,2013,5,2013
+Sweden,Arlöv,"Arlöv, Sweden",25,2013,7,2013
+Sweden,UPPSALA,"UPPSALA, Sweden",24,2013,4,2013
+Sweden,Västerås,"Västerås, Sweden",23,2013,7,2013
+Sweden,LINKOPING,"LINKOPING, Sweden",22,2013,6,2013
+Sweden,UMEE,"UMEE, Sweden",22,2013,6,2013
+Sweden,SUNDSVALL,"SUNDSVALL, Sweden",22,2013,6,2013
+Sweden,Norrköping,"Norrköping, Sweden",20,2013,6,2013
+Sweden,SOLLENTUNA,"SOLLENTUNA, Sweden",19,2013,6,2013
+Sweden,Malmö,"Malmö, Sweden",19,2013,10,2013
+Sweden,Göteborg,"Göteborg, Sweden",18,2013,6,2013
+Sweden,SKELLEFTEA,"SKELLEFTEA, Sweden",17,2013,5,2013
+Sweden,HALMSTAD,"HALMSTAD, Sweden",17,2013,5,2013
+Sweden,TRELLEBORG,"TRELLEBORG, Sweden",17,2013,5,2013
+Sweden,YSTAD,"YSTAD, Sweden",15,2013,4,2013
+Sweden,Växjö,"Växjö, Sweden",14,2013,4,2013
+Sweden,Umeå,"Umeå, Sweden",14,2013,4,2013
+Sweden,KIRUNA,"KIRUNA, Sweden",7,2013,2,2013
+Switzerland,BERN,"BERN, Switzerland",22,2013,15,2013
+Switzerland,LUZERN,"LUZERN, Switzerland",22,2013,15,2013
+Switzerland,GENEVE,"GENEVE, Switzerland",20,2013,14,2013
+Switzerland,ZüRICH,"ZüRICH, Switzerland",20,2013,14,2013
+Switzerland,LAUSANNE,"LAUSANNE, Switzerland",20,2013,14,2013
+Switzerland,BASEL,"BASEL, Switzerland",20,2013,14,2013
+Switzerland,LUGANO,"LUGANO, Switzerland",19,2013,13,2013
+Switzerland,WINTERTHUR,"WINTERTHUR, Switzerland",19,2013,13,2013
+Switzerland,ST. GALLEN,"ST. GALLEN, Switzerland",16,2013,11,2013
+Thailand,Nakhon Sawan,"Nakhon Sawan, Thailand",57,2014,31,2014
+Thailand,Saraburi,"Saraburi, Thailand",56,2014,31,2014
+Thailand,Phra Nakhon Si Ayutthaya,"Phra Nakhon Si Ayutthaya, Thailand",55,2014,30,2014
+Thailand,Phrae,"Phrae, Thailand",55,2014,30,2014
+Thailand,Samut Sakhon,"Samut Sakhon, Thailand",54,2014,30,2014
+Thailand,Lampang,"Lampang, Thailand",53,2014,29,2014
+Thailand,Khon Kaen,"Khon Kaen, Thailand",51,2014,28,2014
+Thailand,Nakhon Ratchasima,"Nakhon Ratchasima, Thailand",51,2014,28,2014
+Thailand,Samut Prakan,"Samut Prakan, Thailand",50,2014,28,2014
+Thailand,Chiang Rai,"Chiang Rai, Thailand",49,2014,27,2014
+Thailand,Pathum Thani,"Pathum Thani, Thailand",48,2014,26,2014
+Thailand,Sa Kaeo,"Sa Kaeo, Thailand",47,2014,26,2014
+Thailand,Chiang Mai,"Chiang Mai, Thailand",45,2014,25,2014
+Thailand,Nonthaburi,"Nonthaburi, Thailand",45,2014,25,2014
+Thailand,Nan,"Nan, Thailand",45,2014,25,2014
+Thailand,Lamphun,"Lamphun, Thailand",44,2014,24,2014
+Thailand,Songkhla,"Songkhla, Thailand",44,2014,24,2014
+Thailand,Bangkok,"Bangkok, Thailand",42,2014,23,2014
+Thailand,Mae Hong Son,"Mae Hong Son, Thailand",42,2014,23,2014
+Thailand,Phayao,"Phayao, Thailand",41,2014,22,2014
+Thailand,Rayong,"Rayong, Thailand",41,2014,22,2014
+Thailand,Surat Thani,"Surat Thani, Thailand",39,2014,21,2014
+Thailand,Chon buri,"Chon buri, Thailand",31,2014,17,2014
+Thailand,Narathiwat,"Narathiwat, Thailand",29,2014,16,2014
+Thailand,Phuket,"Phuket, Thailand",24,2014,13,2014
+Thailand,Yala,"Yala, Thailand",23,2014,12,2014
+The former Yugoslav Republic of Macedonia,TETOVO,"TETOVO, The former Yugoslav Republic of Macedonia",139,2013,81,2013
+The former Yugoslav Republic of Macedonia,SKOPJE,"SKOPJE, The former Yugoslav Republic of Macedonia",73,2013,44,2013
+The former Yugoslav Republic of Macedonia,BITOLA,"BITOLA, The former Yugoslav Republic of Macedonia",69,2013,40,2013
+The former Yugoslav Republic of Macedonia,VELES,"VELES, The former Yugoslav Republic of Macedonia",51,2013,29,2013
+Tunisia,Tunis,"Tunis, Tunisia",90,2010,38,2010
+Tunisia,Sfax,"Sfax, Tunisia",87,2010,36,2010
+Tunisia,Bizerte,"Bizerte, Tunisia",80,2010,33,2010
+Tunisia,Sousse,"Sousse, Tunisia",58,2010,24,2010
+Turkey,BATMAN,"BATMAN, Turkey",109,2012,66,2012
+Turkey,HAKKARI,"HAKKARI, Turkey",109,2012,66,2012
+Turkey,GAZIANTEP,"GAZIANTEP, Turkey",108,2012,66,2012
+Turkey,SIIRT,"SIIRT, Turkey",100,2012,61,2012
+Turkey,AFYON,"AFYON, Turkey",98,2012,59,2012
+Turkey,KARAMAN,"KARAMAN, Turkey",93,2012,56,2012
+Turkey,IGDIR,"IGDIR, Turkey",87,2012,53,2012
+Turkey,ISPARTA,"ISPARTA, Turkey",85,2012,52,2012
+Turkey,DUZCE,"DUZCE, Turkey",85,2012,52,2012
+Turkey,BITLIS,"BITLIS, Turkey",84,2012,51,2012
+Turkey,CANKIRI,"CANKIRI, Turkey",82,2012,50,2012
+Turkey,MUS,"MUS, Turkey",82,2012,50,2012
+Turkey,SAKARYA,"SAKARYA, Turkey",82,2012,50,2012
+Turkey,OSMANIYE,"OSMANIYE, Turkey",81,2012,49,2012
+Turkey,BOLU,"BOLU, Turkey",79,2012,48,2012
+Turkey,NIGDE,"NIGDE, Turkey",79,2012,48,2012
+Turkey,BURDUR,"BURDUR, Turkey",77,2012,47,2012
+Turkey,ANKARA,"ANKARA, Turkey",76,2012,46,2012
+Turkey,KUTAHYA,"KUTAHYA, Turkey",76,2012,46,2012
+Turkey,KAYSERI,"KAYSERI, Turkey",76,2012,46,2012
+Turkey,EDIRNE,"EDIRNE, Turkey",74,2012,45,2012
+Turkey,DENIZLI,"DENIZLI, Turkey",73,2012,44,2012
+Turkey,CORUM,"CORUM, Turkey",73,2012,44,2012
+Turkey,URFA,"URFA, Turkey",72,2012,44,2012
+Turkey,ADIYAMAN,"ADIYAMAN, Turkey",71,2012,43,2012
+Turkey,MUGLA,"MUGLA, Turkey",71,2012,43,2012
+Turkey,AYDIN,"AYDIN, Turkey",70,2012,43,2012
+Turkey,KAHRAMANMARAS,"KAHRAMANMARAS, Turkey",70,2012,43,2012
+Turkey,ZONGULDAK,"ZONGULDAK, Turkey",70,2012,42,2012
+Turkey,GUMUSHANE,"GUMUSHANE, Turkey",69,2012,42,2012
+Turkey,TEKIRDAG,"TEKIRDAG, Turkey",69,2012,42,2012
+Turkey,USAK,"USAK, Turkey",68,2012,42,2012
+Turkey,DIYARBAKIR,"DIYARBAKIR, Turkey",68,2012,41,2012
+Turkey,MALATYA,"MALATYA, Turkey",68,2012,41,2012
+Turkey,AKSARAY,"AKSARAY, Turkey",67,2012,41,2012
+Turkey,KIRIKKALE,"KIRIKKALE, Turkey",66,2012,40,2012
+Turkey,VAN,"VAN, Turkey",65,2012,39,2012
+Turkey,BAYBURT,"BAYBURT, Turkey",64,2012,39,2012
+Turkey,KONYA,"KONYA, Turkey",64,2012,39,2012
+Turkey,ARDAHAN,"ARDAHAN, Turkey",61,2012,37,2012
+Turkey,BARTIN,"BARTIN, Turkey",60,2012,36,2012
+Turkey,KILIS,"KILIS, Turkey",58,2012,35,2012
+Turkey,TRABZON,"TRABZON, Turkey",57,2012,35,2012
+Turkey,ERZURUM,"ERZURUM, Turkey",56,2012,34,2012
+Turkey,KOCAELI,"KOCAELI, Turkey",55,2012,33,2012
+Turkey,ISTANBUL,"ISTANBUL, Turkey",53,2012,32,2012
+Turkey,ICEL,"ICEL, Turkey",53,2012,32,2012
+Turkey,NEVSEHIR,"NEVSEHIR, Turkey",52,2012,32,2012
+Turkey,ORDU,"ORDU, Turkey",52,2012,32,2012
+Turkey,KARS,"KARS, Turkey",52,2012,31,2012
+Turkey,BILECIK,"BILECIK, Turkey",51,2012,31,2012
+Turkey,ANTALYA,"ANTALYA, Turkey",51,2012,31,2012
+Turkey,MARDIN,"MARDIN, Turkey",50,2012,30,2012
+Turkey,YOZGAT,"YOZGAT, Turkey",50,2012,30,2012
+Turkey,KARABUK,"KARABUK, Turkey",49,2012,30,2012
+Turkey,MANISA,"MANISA, Turkey",49,2012,30,2012
+Turkey,ERZINCAN,"ERZINCAN, Turkey",49,2012,30,2012
+Turkey,AGRI,"AGRI, Turkey",49,2012,29,2012
+Turkey,KIRSEHIR,"KIRSEHIR, Turkey",48,2012,29,2012
+Turkey,SIVAS,"SIVAS, Turkey",48,2012,29,2012
+Turkey,IZMIR,"IZMIR, Turkey",48,2012,29,2012
+Turkey,SAMSUN,"SAMSUN, Turkey",47,2012,28,2012
+Turkey,KIRKLARELI,"KIRKLARELI, Turkey",46,2012,28,2012
+Turkey,HATAY,"HATAY, Turkey",46,2012,28,2012
+Turkey,BALIKESIR,"BALIKESIR, Turkey",45,2012,27,2012
+Turkey,ADANA,"ADANA, Turkey",45,2012,27,2012
+Turkey,TUNCELI,"TUNCELI, Turkey",44,2012,26,2012
+Turkey,ELAZIG,"ELAZIG, Turkey",43,2012,26,2012
+Turkey,SIRNAK,"SIRNAK, Turkey",41,2012,25,2012
+Turkey,AMASYA,"AMASYA, Turkey",38,2012,23,2012
+Turkey,SINOP,"SINOP, Turkey",37,2012,22,2012
+Turkey,BURSA,"BURSA, Turkey",36,2012,22,2012
+Turkey,BINGOL,"BINGOL, Turkey",34,2012,20,2012
+Turkey,ESKISEHIR,"ESKISEHIR, Turkey",31,2012,19,2012
+Turkey,KASTAMONU,"KASTAMONU, Turkey",31,2012,19,2012
+Turkey,TOKAT,"TOKAT, Turkey",29,2012,17,2012
+Turkey,ARTVIN,"ARTVIN, Turkey",27,2012,16,2012
+Turkey,RIZE,"RIZE, Turkey",27,2012,16,2012
+Turkey,YALOVA,"YALOVA, Turkey",23,2012,14,2012
+Turkey,CANAKKALE,"CANAKKALE, Turkey",19,2012,11,2012
+Turkey,GIRESUN,"GIRESUN, Turkey",11,2012,7,2012
+Uganda,Kampala,"Kampala, Uganda",170,2013,104,2013
+Unit. Rep. of Tanzania,Morogoro,"Morogoro, Unit. Rep. of Tanzania",35,2011,23,2011
+United Arab Emirates,Al Gharbia - Bida Zayed,"Al Gharbia - Bida Zayed, United Arab Emirates",146,2013,61,2013
+United Arab Emirates,Al Gharbia - Gayathi,"Al Gharbia - Gayathi, United Arab Emirates",145,2013,61,2013
+United Arab Emirates,Al Gharbia - Liwa Oasis,"Al Gharbia - Liwa Oasis, United Arab Emirates",133,2013,56,2013
+United Arab Emirates,Abu Dhabi,"Abu Dhabi, United Arab Emirates",132,2013,55,2013
+United Arab Emirates,Al Ain,"Al Ain, United Arab Emirates",123,2013,52,2013
+United Kingdom,GIBRALTAR,"GIBRALTAR, United Kingdom",31,2013,14,2013
+United Kingdom,PORT TALBOT,"PORT TALBOT, United Kingdom",25,2013,14,2013
+United Kingdom,STANFORD-LE-HOPE,"STANFORD-LE-HOPE, United Kingdom",24,2013,14,2013
+United Kingdom,GLASGOW,"GLASGOW, United Kingdom",22,2013,16,2013
+United Kingdom,LONDON,"LONDON, United Kingdom",22,2013,15,2013
+United Kingdom,SCUNTHORPE,"SCUNTHORPE, United Kingdom",22,2013,15,2013
+United Kingdom,LEEDS,"LEEDS, United Kingdom",21,2013,15,2013
+United Kingdom,EASTBOURNE,"EASTBOURNE, United Kingdom",21,2013,15,2013
+United Kingdom,NOTTINGHAM,"NOTTINGHAM, United Kingdom",21,2013,12,2013
+United Kingdom,SOUTHAMPTON,"SOUTHAMPTON, United Kingdom",21,2013,15,2013
+United Kingdom,OXFORD,"OXFORD, United Kingdom",20,2013,13,2013
+United Kingdom,STOKE - ON - TRENT,"STOKE - ON - TRENT, United Kingdom",20,2013,13,2013
+United Kingdom,MIDDLESBROUGH,"MIDDLESBROUGH, United Kingdom",19,2013,10,2013
+United Kingdom,CHEPSTOW,"CHEPSTOW, United Kingdom",19,2013,14,2013
+United Kingdom,THURROCK,"THURROCK, United Kingdom",19,2013,13,2013
+United Kingdom,SWANSEA,"SWANSEA, United Kingdom",19,2013,11,2013
+United Kingdom,ARMAGH,"ARMAGH, United Kingdom",19,2013,13,2013
+United Kingdom,CARDIFF,"CARDIFF, United Kingdom",18,2013,13,2013
+United Kingdom,BIRMINGHAM,"BIRMINGHAM, United Kingdom",18,2013,14,2013
+United Kingdom,MANCHESTER (Greate Manchester City Region),"MANCHESTER (Greate Manchester City Region), United Kingdom",18,2015,9,2015
+United Kingdom,PLYMOUTH,"PLYMOUTH, United Kingdom",18,2013,12,2013
+United Kingdom,NEWPORT,"NEWPORT, United Kingdom",18,2013,12,2013
+United Kingdom,PORTSMOUTH,"PORTSMOUTH, United Kingdom",18,2013,13,2013
+United Kingdom,WIGAN,"WIGAN, United Kingdom",18,2013,12,2013
+United Kingdom,LEAMINGTON SPA,"LEAMINGTON SPA, United Kingdom",17,2013,12,2013
+United Kingdom,BRISTOL,"BRISTOL, United Kingdom",17,2013,12,2013
+United Kingdom,BELFAST,"BELFAST, United Kingdom",17,2013,11,2013
+United Kingdom,WARRINGTON,"WARRINGTON, United Kingdom",17,2013,13,2013
+United Kingdom,WREXHAM,"WREXHAM, United Kingdom",17,2013,10,2013
+United Kingdom,STOCKTON-ON-TEES,"STOCKTON-ON-TEES, United Kingdom",16,2013,10,2013
+United Kingdom,CHESTERFIELD,"CHESTERFIELD, United Kingdom",16,2013,10,2013
+United Kingdom,CARLISLE,"CARLISLE, United Kingdom",16,2013,11,2013
+United Kingdom,PRESTONPANS,"PRESTONPANS, United Kingdom",16,2013,11,2013
+United Kingdom,BRIGHTON,"BRIGHTON, United Kingdom",15,2013,11,2013
+United Kingdom,READING,"READING, United Kingdom",15,2013,9,2013
+United Kingdom,YORK,"YORK, United Kingdom",15,2013,12,2013
+United Kingdom,BIRKENHEAD,"BIRKENHEAD, United Kingdom",15,2013,10,2013
+United Kingdom,SALTASH,"SALTASH, United Kingdom",15,2013,10,2013
+United Kingdom,SOUTHEND - ON - SEA,"SOUTHEND - ON - SEA, United Kingdom",14,2013,10,2013
+United Kingdom,LONDONDERRY,"LONDONDERRY, United Kingdom",14,2013,11,2013
+United Kingdom,NORWICH,"NORWICH, United Kingdom",14,2013,13,2013
+United Kingdom,HULL,"HULL, United Kingdom",14,2013,12,2013
+United Kingdom,LIVERPOOL,"LIVERPOOL, United Kingdom",14,2013,11,2013
+United Kingdom,GRANGEMOUTH,"GRANGEMOUTH, United Kingdom",13,2013,9,2013
+United Kingdom,EDINBURGH,"EDINBURGH, United Kingdom",13,2013,7,2013
+United Kingdom,ABERDEEN,"ABERDEEN, United Kingdom",13,2013,8,2013
+United Kingdom,BOURNEMOUTH,"BOURNEMOUTH, United Kingdom",12,2013,9,2013
+United Kingdom,SUNDERLAND,"SUNDERLAND, United Kingdom",12,2013,9,2013
+United Kingdom,NEWCASTLE UPON TYNE,"NEWCASTLE UPON TYNE, United Kingdom",12,2013,10,2013
+United Kingdom,INVERNESS,"INVERNESS, United Kingdom",11,2013,6,2013
+United States of America,"Visalia-Porterville, CA","Visalia-Porterville, CA, United States of America",33,2014,17,2014
+United States of America,"Hanford-Corcoran, CA","Hanford-Corcoran, CA, United States of America",30,2014,16,2014
+United States of America,"Portola,Plumas,CA","Portola,Plumas,CA, United States of America",28,2014,15,2014
+United States of America,"Fresno, CA","Fresno, CA, United States of America",27,2014,15,2014
+United States of America,"Elkhart-Goshen, IN","Elkhart-Goshen, IN, United States of America",27,2014,15,2014
+United States of America,"Madera, CA","Madera, CA, United States of America",25,2014,14,2014
+United States of America,"Lancaster, PA","Lancaster, PA, United States of America",24,2014,13,2014
+United States of America,"Lebanon, PA","Lebanon, PA, United States of America",23,2014,12,2014
+United States of America,"Not in a City,Lemhi,ID","Not in a City,Lemhi,ID, United States of America",23,2014,12,2014
+United States of America,"Goldsboro, NC","Goldsboro, NC, United States of America",22,2014,12,2014
+United States of America,"Napa, CA","Napa, CA, United States of America",22,2014,12,2014
+United States of America,"Modesto, CA","Modesto, CA, United States of America",21,2014,11,2014
+United States of America,"Chicago-Naperville-Joliet, IL-IN-WI","Chicago-Naperville-Joliet, IL-IN-WI, United States of America",21,2014,11,2014
+United States of America,"Indianapolis-Carmel, IN","Indianapolis-Carmel, IN, United States of America",21,2014,11,2014
+United States of America,"Louisville/Jefferson County, KY-IN","Louisville/Jefferson County, KY-IN, United States of America",21,2014,11,2014
+United States of America,"Johnstown, PA","Johnstown, PA, United States of America",21,2014,11,2014
+United States of America,"Evansville, IN-KY","Evansville, IN-KY, United States of America",20,2014,11,2014
+United States of America,"Fort Wayne, IN","Fort Wayne, IN, United States of America",20,2014,11,2014
+United States of America,"St. Louis, MO-IL","St. Louis, MO-IL, United States of America",20,2014,11,2014
+United States of America,"Altoona, PA","Altoona, PA, United States of America",20,2014,11,2014
+United States of America,"Canton-Massillon, OH","Canton-Massillon, OH, United States of America",20,2014,11,2014
+United States of America,"Jasper, IN","Jasper, IN, United States of America",20,2014,11,2014
+United States of America,"Terre Haute, IN","Terre Haute, IN, United States of America",20,2014,11,2014
+United States of America,"Birmingham-Hoover, AL","Birmingham-Hoover, AL, United States of America",20,2014,11,2014
+United States of America,"Merced, CA","Merced, CA, United States of America",20,2014,11,2014
+United States of America,"Owensboro, KY","Owensboro, KY, United States of America",20,2014,11,2014
+United States of America,"Stockton, CA","Stockton, CA, United States of America",20,2014,10,2014
+United States of America,"Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA, United States of America",20,2014,10,2014
+United States of America,"Gordon,Wilkinson,GA","Gordon,Wilkinson,GA, United States of America",20,2014,10,2014
+United States of America,"Dale,Spencer,IN","Dale,Spencer,IN, United States of America",19,2014,10,2014
+United States of America,"Erie, PA","Erie, PA, United States of America",19,2014,10,2014
+United States of America,"Los Angeles-Long Beach-Santa Ana, CA","Los Angeles-Long Beach-Santa Ana, CA, United States of America",19,2014,10,2014
+United States of America,"Fort Madison-Keokuk, IA-MO","Fort Madison-Keokuk, IA-MO, United States of America",19,2014,10,2014
+United States of America,"Lafayette, IN","Lafayette, IN, United States of America",19,2014,10,2014
+United States of America,"Youngstown-Warren-Boardman, OH-PA","Youngstown-Warren-Boardman, OH-PA, United States of America",19,2014,10,2014
+United States of America,"St. Joseph, MO-KS","St. Joseph, MO-KS, United States of America",19,2014,10,2014
+United States of America,"Weirton-Steubenville, WV-OH","Weirton-Steubenville, WV-OH, United States of America",19,2014,10,2014
+United States of America,"Wheeling, WV-OH","Wheeling, WV-OH, United States of America",19,2014,10,2014
+United States of America,"Muscatine, IA","Muscatine, IA, United States of America",19,2014,10,2014
+United States of America,"Toledo, OH","Toledo, OH, United States of America",19,2014,10,2014
+United States of America,"Columbus, OH","Columbus, OH, United States of America",19,2014,10,2014
+United States of America,"Pittsburgh, PA","Pittsburgh, PA, United States of America",19,2014,10,2014
+United States of America,"Akron, OH","Akron, OH, United States of America",19,2014,10,2014
+United States of America,"Anderson, IN","Anderson, IN, United States of America",19,2014,10,2014
+United States of America,"Clinton, IA","Clinton, IA, United States of America",19,2014,10,2014
+United States of America,"Elizabethtown, KY","Elizabethtown, KY, United States of America",19,2014,10,2014
+United States of America,"Paducah, KY-IL","Paducah, KY-IL, United States of America",19,2014,10,2014
+United States of America,"Atlanta-Sandy Springs-Marietta, GA","Atlanta-Sandy Springs-Marietta, GA, United States of America",19,2014,10,2014
+United States of America,"Cincinnati-Middletown, OH-KY-IN","Cincinnati-Middletown, OH-KY-IN, United States of America",19,2014,10,2014
+United States of America,"Athens-Clarke County, GA","Athens-Clarke County, GA, United States of America",19,2014,10,2014
+United States of America,"Fairbanks, AK","Fairbanks, AK, United States of America",19,2014,10,2014
+United States of America,"Muncie, IN","Muncie, IN, United States of America",19,2014,10,2014
+United States of America,"Cleveland-Elyria-Mentor, OH","Cleveland-Elyria-Mentor, OH, United States of America",18,2014,10,2014
+United States of America,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, United States of America",18,2014,10,2014
+United States of America,"El Centro, CA","El Centro, CA, United States of America",18,2014,10,2014
+United States of America,"Columbus, GA-AL","Columbus, GA-AL, United States of America",18,2014,10,2014
+United States of America,"Hattiesburg, MS","Hattiesburg, MS, United States of America",18,2014,10,2014
+United States of America,"Houston-Sugar Land-Baytown, TX","Houston-Sugar Land-Baytown, TX, United States of America",18,2014,10,2014
+United States of America,"South Bend-Mishawaka, IN-MI","South Bend-Mishawaka, IN-MI, United States of America",18,2014,10,2014
+United States of America,"Little Rock-North Little Rock-Conway, AR","Little Rock-North Little Rock-Conway, AR, United States of America",18,2014,10,2014
+United States of America,"Macon, GA","Macon, GA, United States of America",18,2014,10,2014
+United States of America,"Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX, United States of America",18,2014,10,2014
+United States of America,"Michigan City-La Porte, IN","Michigan City-La Porte, IN, United States of America",18,2014,10,2014
+United States of America,"Not in a City,Caswell,NC","Not in a City,Caswell,NC, United States of America",18,2014,10,2014
+United States of America,"Nashville-Davidson-Murfreesboro-Franklin, TN","Nashville-Davidson-Murfreesboro-Franklin, TN, United States of America",18,2014,9,2014
+United States of America,"Bloomington, IN","Bloomington, IN, United States of America",18,2014,9,2014
+United States of America,"Detroit-Warren-Livonia, MI","Detroit-Warren-Livonia, MI, United States of America",18,2014,9,2014
+United States of America,"Harrisburg-Carlisle, PA","Harrisburg-Carlisle, PA, United States of America",18,2014,9,2014
+United States of America,"McAllen-Edinburg-Mission, TX","McAllen-Edinburg-Mission, TX, United States of America",18,2014,9,2014
+United States of America,"New Castle, IN","New Castle, IN, United States of America",18,2014,9,2014
+United States of America,"Prineville, OR","Prineville, OR, United States of America",18,2014,9,2014
+United States of America,"Reading, PA","Reading, PA, United States of America",18,2014,9,2014
+United States of America,"Sandersville,Washington,GA","Sandersville,Washington,GA, United States of America",18,2014,9,2014
+United States of America,"Vallejo-Fairfield, CA","Vallejo-Fairfield, CA, United States of America",18,2014,9,2014
+United States of America,"Davenport-Moline-Rock Island, IA-IL","Davenport-Moline-Rock Island, IA-IL, United States of America",18,2014,9,2014
+United States of America,"Ann Arbor, MI","Ann Arbor, MI, United States of America",18,2014,9,2014
+United States of America,"State College, PA","State College, PA, United States of America",18,2014,9,2014
+United States of America,"Thomasville-Lexington, NC","Thomasville-Lexington, NC, United States of America",18,2014,9,2014
+United States of America,"Bakersfield, CA","Bakersfield, CA, United States of America",17,2014,9,2014
+United States of America,"Cedar Rapids, IA","Cedar Rapids, IA, United States of America",17,2014,9,2014
+United States of America,"Grand Rapids-Wyoming, MI","Grand Rapids-Wyoming, MI, United States of America",17,2014,9,2014
+United States of America,"Jackson, MS","Jackson, MS, United States of America",17,2014,9,2014
+United States of America,"Milwaukee-Waukesha-West Allis, WI","Milwaukee-Waukesha-West Allis, WI, United States of America",17,2014,9,2014
+United States of America,"Nogales, AZ","Nogales, AZ, United States of America",17,2014,9,2014
+United States of America,"Knoxville, TN","Knoxville, TN, United States of America",17,2014,9,2014
+United States of America,"Kalamazoo-Portage, MI","Kalamazoo-Portage, MI, United States of America",17,2014,9,2014
+United States of America,"Parkersburg-Marietta-Vienna, WV-OH","Parkersburg-Marietta-Vienna, WV-OH, United States of America",17,2014,9,2014
+United States of America,"Pascagoula, MS","Pascagoula, MS, United States of America",17,2014,9,2014
+United States of America,"Texarkana, TX-Texarkana, AR","Texarkana, TX-Texarkana, AR, United States of America",17,2014,9,2014
+United States of America,"Baltimore-Towson, MD","Baltimore-Towson, MD, United States of America",17,2014,9,2014
+United States of America,"Augusta-Richmond County, GA-SC","Augusta-Richmond County, GA-SC, United States of America",17,2014,9,2014
+United States of America,"Corpus Christi, TX","Corpus Christi, TX, United States of America",17,2014,9,2014
+United States of America,"Clarksville, TN-KY","Clarksville, TN-KY, United States of America",17,2014,9,2014
+United States of America,"Fairmont, WV","Fairmont, WV, United States of America",17,2014,9,2014
+United States of America,"Hagerstown-Martinsburg, MD-WV","Hagerstown-Martinsburg, MD-WV, United States of America",17,2014,9,2014
+United States of America,"Not in a City,Neosho,KS","Not in a City,Neosho,KS, United States of America",17,2014,9,2014
+United States of America,"Columbia, SC","Columbia, SC, United States of America",17,2014,9,2014
+United States of America,"Dayton, OH","Dayton, OH, United States of America",17,2014,9,2014
+United States of America,"Bowling Green, KY","Bowling Green, KY, United States of America",17,2014,9,2014
+United States of America,"Charleston, WV","Charleston, WV, United States of America",17,2014,9,2014
+United States of America,"Florence-Muscle Shoals, AL","Florence-Muscle Shoals, AL, United States of America",17,2014,9,2014
+United States of America,"Florence, SC","Florence, SC, United States of America",17,2014,9,2014
+United States of America,"Keene, NH","Keene, NH, United States of America",17,2014,9,2014
+United States of America,"Lansing-East Lansing, MI","Lansing-East Lansing, MI, United States of America",17,2014,9,2014
+United States of America,"Lexington-Fayette, KY","Lexington-Fayette, KY, United States of America",17,2014,9,2014
+United States of America,"Mena,Polk,AR","Mena,Polk,AR, United States of America",17,2014,9,2014
+United States of America,"Montgomery, AL","Montgomery, AL, United States of America",17,2014,9,2014
+United States of America,"Sanford, NC","Sanford, NC, United States of America",17,2014,9,2014
+United States of America,"Springfield, MO","Springfield, MO, United States of America",17,2014,9,2014
+United States of America,"Tuscaloosa, AL","Tuscaloosa, AL, United States of America",17,2014,9,2014
+United States of America,"Warner Robins, GA","Warner Robins, GA, United States of America",17,2014,9,2014
+United States of America,"Raleigh-Cary, NC","Raleigh-Cary, NC, United States of America",17,2014,9,2014
+United States of America,"Decatur, AL","Decatur, AL, United States of America",17,2014,9,2014
+United States of America,"Fort Smith, AR-OK","Fort Smith, AR-OK, United States of America",17,2014,9,2014
+United States of America,"Libby,Lincoln,MT","Libby,Lincoln,MT, United States of America",17,2014,9,2014
+United States of America,"McAlester, OK","McAlester, OK, United States of America",17,2014,9,2014
+United States of America,"Somerset, KY","Somerset, KY, United States of America",17,2014,9,2014
+United States of America,"Spartanburg, SC","Spartanburg, SC, United States of America",17,2014,9,2014
+United States of America,"Talladega-Sylacauga, AL","Talladega-Sylacauga, AL, United States of America",17,2014,9,2014
+United States of America,"Tallahassee, FL","Tallahassee, FL, United States of America",17,2014,9,2014
+United States of America,"Waterloo-Cedar Falls, IA","Waterloo-Cedar Falls, IA, United States of America",17,2014,9,2014
+United States of America,"Chattanooga, TN-GA","Chattanooga, TN-GA, United States of America",17,2014,9,2014
+United States of America,"Memphis, TN-MS-AR","Memphis, TN-MS-AR, United States of America",17,2014,9,2014
+United States of America,"Oklahoma City, OK","Oklahoma City, OK, United States of America",17,2014,9,2014
+United States of America,"Candor,Montgomery,NC","Candor,Montgomery,NC, United States of America",16,2014,9,2014
+United States of America,"Tulsa, OK","Tulsa, OK, United States of America",16,2014,9,2014
+United States of America,"Austin-Round Rock, TX","Austin-Round Rock, TX, United States of America",16,2014,9,2014
+United States of America,"Allentown-Bethlehem-Easton, PA-NJ","Allentown-Bethlehem-Easton, PA-NJ, United States of America",16,2014,9,2014
+United States of America,"Wichita, KS","Wichita, KS, United States of America",16,2014,9,2014
+United States of America,"Butte-Silver Bow, MT","Butte-Silver Bow, MT, United States of America",16,2014,9,2014
+United States of America,"Dyersburg, TN","Dyersburg, TN, United States of America",16,2014,9,2014
+United States of America,"Green Bay, WI","Green Bay, WI, United States of America",16,2014,9,2014
+United States of America,"Greenville-Mauldin-Easley, SC","Greenville-Mauldin-Easley, SC, United States of America",16,2014,9,2014
+United States of America,"Gulfport-Biloxi, MS","Gulfport-Biloxi, MS, United States of America",16,2014,9,2014
+United States of America,"Harriman, TN","Harriman, TN, United States of America",16,2014,9,2014
+United States of America,"Hickory-Lenoir-Morganton, NC","Hickory-Lenoir-Morganton, NC, United States of America",16,2014,9,2014
+United States of America,"Hot Springs, AR","Hot Springs, AR, United States of America",16,2014,9,2014
+United States of America,"Stuttgart,Arkansas,AR","Stuttgart,Arkansas,AR, United States of America",16,2014,9,2014
+United States of America,"Athens, TN","Athens, TN, United States of America",16,2014,9,2014
+United States of America,"Burns,Harney,OR","Burns,Harney,OR, United States of America",16,2014,9,2014
+United States of America,"El Dorado, AR","El Dorado, AR, United States of America",16,2014,9,2014
+United States of America,"El Paso, TX","El Paso, TX, United States of America",16,2014,9,2014
+United States of America,"Huntsville, AL","Huntsville, AL, United States of America",16,2014,9,2014
+United States of America,"Medford, OR","Medford, OR, United States of America",16,2014,9,2014
+United States of America,"Middlesborough, KY","Middlesborough, KY, United States of America",16,2014,9,2014
+United States of America,"Mobile, AL","Mobile, AL, United States of America",16,2014,9,2014
+United States of America,"Not in a City,Delaware,IA","Not in a City,Delaware,IA, United States of America",16,2014,9,2014
+United States of America,"Quincy,Plumas,CA","Quincy,Plumas,CA, United States of America",16,2014,9,2014
+United States of America,"Salisbury, NC","Salisbury, NC, United States of America",16,2014,9,2014
+United States of America,"Valdosta, GA","Valdosta, GA, United States of America",16,2014,9,2014
+United States of America,"Winchester, VA-WV","Winchester, VA-WV, United States of America",16,2014,9,2014
+United States of America,"Yreka,Siskiyou,CA","Yreka,Siskiyou,CA, United States of America",16,2014,9,2014
+United States of America,"Madison, WI","Madison, WI, United States of America",16,2014,8,2014
+United States of America,"Ashland, AL","Ashland, AL, United States of America",16,2014,8,2014
+United States of America,"Daphne-Fairhope-Foley, AL","Daphne-Fairhope-Foley, AL, United States of America",16,2014,8,2014
+United States of America,"Fayetteville, NC","Fayetteville, NC, United States of America",16,2014,8,2014
+United States of America,"Flint, MI","Flint, MI, United States of America",16,2014,8,2014
+United States of America,"Gainesville, GA","Gainesville, GA, United States of America",16,2014,8,2014
+United States of America,"Marshall, TX","Marshall, TX, United States of America",16,2014,8,2014
+United States of America,"Rutland, VT","Rutland, VT, United States of America",16,2014,8,2014
+United States of America,"Winston-Salem, NC","Winston-Salem, NC, United States of America",16,2014,8,2014
+United States of America,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Arlington-Alexandria, DC-VA-MD-WV, United States of America",16,2014,8,2014
+United States of America,"New York-Northern New Jersey-Long Island, NY-NJ-PA","New York-Northern New Jersey-Long Island, NY-NJ-PA, United States of America",16,2014,8,2014
+United States of America,"Adrian, MI","Adrian, MI, United States of America",16,2014,8,2014
+United States of America,"Charleston-North Charleston, SC","Charleston-North Charleston, SC, United States of America",16,2014,8,2014
+United States of America,"Chico, CA","Chico, CA, United States of America",16,2014,8,2014
+United States of America,"Cookeville, TN","Cookeville, TN, United States of America",16,2014,8,2014
+United States of America,"East Stroudsburg, PA","East Stroudsburg, PA, United States of America",16,2014,8,2014
+United States of America,"Kansas City, MO-KS","Kansas City, MO-KS, United States of America",16,2014,8,2014
+United States of America,"Klamath Falls, OR","Klamath Falls, OR, United States of America",16,2014,8,2014
+United States of America,"San Antonio, TX","San Antonio, TX, United States of America",16,2014,8,2014
+United States of America,"Oxnard-Thousand Oaks-Ventura, CA","Oxnard-Thousand Oaks-Ventura, CA, United States of America",16,2014,8,2014
+United States of America,"Charlotte-Gastonia-Concord, NC-SC","Charlotte-Gastonia-Concord, NC-SC, United States of America",16,2014,8,2014
+United States of America,"Huntington-Ashland, WV-KY-OH","Huntington-Ashland, WV-KY-OH, United States of America",16,2014,8,2014
+United States of America,"Allegan, MI","Allegan, MI, United States of America",16,2014,8,2014
+United States of America,"Clarksburg, WV","Clarksburg, WV, United States of America",16,2014,8,2014
+United States of America,"Crossett,Ashley,AR","Crossett,Ashley,AR, United States of America",16,2014,8,2014
+United States of America,"Fayetteville-Springdale-Rogers, AR-MO","Fayetteville-Springdale-Rogers, AR-MO, United States of America",16,2014,8,2014
+United States of America,"Harrisonburg, VA","Harrisonburg, VA, United States of America",16,2014,8,2014
+United States of America,"San Luis Obispo-Paso Robles, CA","San Luis Obispo-Paso Robles, CA, United States of America",16,2014,8,2014
+United States of America,"Phoenix-Mesa-Scottsdale, AZ","Phoenix-Mesa-Scottsdale, AZ, United States of America",15,2014,8,2014
+United States of America,"Appleton, WI","Appleton, WI, United States of America",15,2014,8,2014
+United States of America,"Cambridge, MD","Cambridge, MD, United States of America",15,2014,8,2014
+United States of America,"Kingsport-Bristol-Bristol, TN-VA","Kingsport-Bristol-Bristol, TN-VA, United States of America",15,2014,8,2014
+United States of America,"Lakeview,Lake,OR","Lakeview,Lake,OR, United States of America",15,2014,8,2014
+United States of America,"Lumberton, NC","Lumberton, NC, United States of America",15,2014,8,2014
+United States of America,"Morgantown, WV","Morgantown, WV, United States of America",15,2014,8,2014
+United States of America,"New Haven-Milford, CT","New Haven-Milford, CT, United States of America",15,2014,8,2014
+United States of America,"Not in a City,Van Buren,IA","Not in a City,Van Buren,IA, United States of America",15,2014,8,2014
+United States of America,"Pikeville,Pike,KY","Pikeville,Pike,KY, United States of America",15,2014,8,2014
+United States of America,"San Francisco-Oakland-Fremont, CA","San Francisco-Oakland-Fremont, CA, United States of America",15,2014,8,2014
+United States of America,"Beaver Dam, WI","Beaver Dam, WI, United States of America",15,2014,8,2014
+United States of America,"Columbia, TN","Columbia, TN, United States of America",15,2014,8,2014
+United States of America,"Niles-Benton Harbor, MI","Niles-Benton Harbor, MI, United States of America",15,2014,8,2014
+United States of America,"Not in a City,Chesterfield,SC","Not in a City,Chesterfield,SC, United States of America",15,2014,8,2014
+United States of America,"Richmond-Berea, KY","Richmond-Berea, KY, United States of America",15,2014,8,2014
+United States of America,"Sioux City, IA-NE-SD","Sioux City, IA-NE-SD, United States of America",15,2014,8,2014
+United States of America,"Topeka, KS","Topeka, KS, United States of America",15,2014,8,2014
+United States of America,"Baton Rouge, LA","Baton Rouge, LA, United States of America",15,2014,8,2014
+United States of America,"Hazard,Perry,KY","Hazard,Perry,KY, United States of America",15,2014,8,2014
+United States of America,"Seaford, DE","Seaford, DE, United States of America",15,2014,8,2014
+United States of America,"Des Moines-West Des Moines, IA","Des Moines-West Des Moines, IA, United States of America",15,2014,8,2014
+United States of America,"Omaha-Council Bluffs, NE-IA","Omaha-Council Bluffs, NE-IA, United States of America",15,2014,8,2014
+United States of America,"Trenton-Ewing, NJ","Trenton-Ewing, NJ, United States of America",15,2014,8,2014
+United States of America,"Jackson, TN","Jackson, TN, United States of America",15,2014,8,2014
+United States of America,"Roanoke, VA","Roanoke, VA, United States of America",15,2014,8,2014
+United States of America,"Winona, MN","Winona, MN, United States of America",15,2014,8,2014
+United States of America,"Greensboro-High Point, NC","Greensboro-High Point, NC, United States of America",15,2014,8,2014
+United States of America,"Bay City, MI","Bay City, MI, United States of America",15,2014,8,2014
+United States of America,"Dover, DE","Dover, DE, United States of America",15,2014,8,2014
+United States of America,"Eau Claire, WI","Eau Claire, WI, United States of America",15,2014,8,2014
+United States of America,"Gardnerville Ranchos, NV","Gardnerville Ranchos, NV, United States of America",15,2014,8,2014
+United States of America,"Kalispell, MT","Kalispell, MT, United States of America",15,2014,8,2014
+United States of America,"Lawrenceburg, TN","Lawrenceburg, TN, United States of America",15,2014,8,2014
+United States of America,"Lawton, OK","Lawton, OK, United States of America",15,2014,8,2014
+United States of America,"Not in a City,Kent,MD","Not in a City,Kent,MD, United States of America",15,2014,8,2014
+United States of America,"Portsmouth, OH","Portsmouth, OH, United States of America",15,2014,8,2014
+United States of America,"Reno-Sparks, NV","Reno-Sparks, NV, United States of America",15,2014,8,2014
+United States of America,"Santa Barbara-Santa Maria-Goleta, CA","Santa Barbara-Santa Maria-Goleta, CA, United States of America",15,2014,8,2014
+United States of America,"San Diego-Carlsbad-San Marcos, CA","San Diego-Carlsbad-San Marcos, CA, United States of America",15,2014,8,2014
+United States of America,"Richmond, VA","Richmond, VA, United States of America",15,2014,8,2014
+United States of America,"Bridgeport-Stamford-Norwalk, CT","Bridgeport-Stamford-Norwalk, CT, United States of America",14,2014,8,2014
+United States of America,"Burlington, NC","Burlington, NC, United States of America",14,2014,8,2014
+United States of America,"La Crosse, WI-MN","La Crosse, WI-MN, United States of America",14,2014,8,2014
+United States of America,"Missoula, MT","Missoula, MT, United States of America",14,2014,8,2014
+United States of America,"Bryson City (RR name Bryson),Swain,NC","Bryson City (RR name Bryson),Swain,NC, United States of America",14,2014,8,2014
+United States of America,"Hammond, LA","Hammond, LA, United States of America",14,2014,8,2014
+United States of America,"Jamestown-Dunkirk-Fredonia, NY","Jamestown-Dunkirk-Fredonia, NY, United States of America",14,2014,8,2014
+United States of America,"Lafayette, LA","Lafayette, LA, United States of America",14,2014,8,2014
+United States of America,"Norwich-New London, CT","Norwich-New London, CT, United States of America",14,2014,8,2014
+United States of America,"Not in a City,Carter,KY","Not in a City,Carter,KY, United States of America",14,2014,8,2014
+United States of America,"Not in a City,Cedar,MO","Not in a City,Cedar,MO, United States of America",14,2014,8,2014
+United States of America,"Not in a City,Page,VA","Not in a City,Page,VA, United States of America",14,2014,8,2014
+United States of America,"Virginia Beach-Norfolk-Newport News, VA-NC","Virginia Beach-Norfolk-Newport News, VA-NC, United States of America",14,2014,7,2014
+United States of America,"Bishop, CA","Bishop, CA, United States of America",14,2014,7,2014
+United States of America,"Jacksonville, FL","Jacksonville, FL, United States of America",14,2014,7,2014
+United States of America,"San Andreas,Calaveras,CA","San Andreas,Calaveras,CA, United States of America",14,2014,7,2014
+United States of America,"Asheville, NC","Asheville, NC, United States of America",14,2014,7,2014
+United States of America,"Athens, OH","Athens, OH, United States of America",14,2014,7,2014
+United States of America,"Durham, NC","Durham, NC, United States of America",14,2014,7,2014
+United States of America,"Emmetsburg,Palo Alto,IA","Emmetsburg,Palo Alto,IA, United States of America",14,2014,7,2014
+United States of America,"Greeley, CO","Greeley, CO, United States of America",14,2014,7,2014
+United States of America,"Greenville, NC","Greenville, NC, United States of America",14,2014,7,2014
+United States of America,"Kenansville,Duplin,NC","Kenansville,Duplin,NC, United States of America",14,2014,7,2014
+United States of America,"New Orleans-Metairie-Kenner, LA","New Orleans-Metairie-Kenner, LA, United States of America",14,2014,7,2014
+United States of America,"Spruce Pine,Mitchell,NC","Spruce Pine,Mitchell,NC, United States of America",14,2014,7,2014
+United States of America,"Alexandria, LA","Alexandria, LA, United States of America",14,2014,7,2014
+United States of America,"Bellingham, WA","Bellingham, WA, United States of America",14,2014,7,2014
+United States of America,"Hamilton,Ravalli,MT","Hamilton,Ravalli,MT, United States of America",14,2014,7,2014
+United States of America,"Juneau, AK","Juneau, AK, United States of America",14,2014,7,2014
+United States of America,"Lincoln, NE","Lincoln, NE, United States of America",14,2014,7,2014
+United States of America,"Not in a City,Montgomery,IA","Not in a City,Montgomery,IA, United States of America",14,2014,7,2014
+United States of America,"Rumford (census name for Rumford Compact),Oxford,ME","Rumford (census name for Rumford Compact),Oxford,ME, United States of America",14,2014,7,2014
+United States of America,"Santa Rosa-Petaluma, CA","Santa Rosa-Petaluma, CA, United States of America",14,2014,7,2014
+United States of America,"Atlantic City, NJ","Atlantic City, NJ, United States of America",14,2014,7,2014
+United States of America,"Las Vegas-Paradise, NV","Las Vegas-Paradise, NV, United States of America",14,2014,7,2014
+United States of America,"Minneapolis-St. Paul-Bloomington, MN-WI","Minneapolis-St. Paul-Bloomington, MN-WI, United States of America",14,2014,7,2014
+United States of America,"Hartford-West Hartford-East Hartford, CT","Hartford-West Hartford-East Hartford, CT, United States of America",14,2014,7,2014
+United States of America,"Hilo, HI","Hilo, HI, United States of America",14,2014,7,2014
+United States of America,"Lynchburg, VA","Lynchburg, VA, United States of America",14,2014,7,2014
+United States of America,"Eugene-Springfield, OR","Eugene-Springfield, OR, United States of America",13,2014,7,2014
+United States of America,"Sacramento--Arden-Arcade--Roseville, CA","Sacramento--Arden-Arcade--Roseville, CA, United States of America",13,2014,7,2014
+United States of America,"Houma-Bayou Cane-Thibodaux, LA","Houma-Bayou Cane-Thibodaux, LA, United States of America",13,2014,7,2014
+United States of America,"Lewiston-Auburn, ME","Lewiston-Auburn, ME, United States of America",13,2014,7,2014
+United States of America,"Ogden-Clearfield, UT","Ogden-Clearfield, UT, United States of America",13,2014,7,2014
+United States of America,"Sioux Falls, SD","Sioux Falls, SD, United States of America",13,2014,7,2014
+United States of America,"Baraboo, WI","Baraboo, WI, United States of America",13,2014,7,2014
+United States of America,"Charlottesville, VA","Charlottesville, VA, United States of America",13,2014,7,2014
+United States of America,"Grand Junction, CO","Grand Junction, CO, United States of America",13,2014,7,2014
+United States of America,"Grants Pass, OR","Grants Pass, OR, United States of America",13,2014,7,2014
+United States of America,"Jamesville,Martin,NC","Jamesville,Martin,NC, United States of America",13,2014,7,2014
+United States of America,"Not in a City,Jackson,NC","Not in a City,Jackson,NC, United States of America",13,2014,7,2014
+United States of America,"Albany-Schenectady-Troy, NY","Albany-Schenectady-Troy, NY, United States of America",13,2014,7,2014
+United States of America,"Rochester, NY","Rochester, NY, United States of America",13,2014,7,2014
+United States of America,"Yakima, WA","Yakima, WA, United States of America",13,2014,7,2014
+United States of America,"Boone, NC","Boone, NC, United States of America",13,2014,7,2014
+United States of America,"Colusa,Colusa,CA","Colusa,Colusa,CA, United States of America",13,2014,7,2014
+United States of America,"Poughkeepsie-Newburgh-Middletown, NY","Poughkeepsie-Newburgh-Middletown, NY, United States of America",13,2014,7,2014
+United States of America,"Sierra Vista-Douglas, AZ","Sierra Vista-Douglas, AZ, United States of America",13,2014,7,2014
+United States of America,"Lake Charles, LA","Lake Charles, LA, United States of America",13,2014,7,2014
+United States of America,"Augusta-Waterville, ME","Augusta-Waterville, ME, United States of America",13,2014,7,2014
+United States of America,"Spokane, WA","Spokane, WA, United States of America",13,2014,7,2014
+United States of America,"Denver-Aurora, CO","Denver-Aurora, CO, United States of America",13,2014,7,2014
+United States of America,"Provo-Orem, UT","Provo-Orem, UT, United States of America",12,2014,7,2014
+United States of America,"Lakeland, FL","Lakeland, FL, United States of America",12,2014,7,2014
+United States of America,"Detroit Lakes,Becker,MN","Detroit Lakes,Becker,MN, United States of America",12,2014,6,2014
+United States of America,"Not in a City,Richland,MT","Not in a City,Richland,MT, United States of America",12,2014,6,2014
+United States of America,"Pocatello, ID","Pocatello, ID, United States of America",12,2014,6,2014
+United States of America,"Duluth, MN-WI","Duluth, MN-WI, United States of America",12,2014,6,2014
+United States of America,"Boulder, CO","Boulder, CO, United States of America",12,2014,6,2014
+United States of America,"Cortina Indian Rancheria,Colusa,CA","Cortina Indian Rancheria,Colusa,CA, United States of America",12,2014,6,2014
+United States of America,"Syracuse, NY","Syracuse, NY, United States of America",12,2014,6,2014
+United States of America,"Wilmington, NC","Wilmington, NC, United States of America",12,2014,6,2014
+United States of America,"Boston-Cambridge-Quincy, MA-NH","Boston-Cambridge-Quincy, MA-NH, United States of America",12,2014,6,2014
+United States of America,"Portland-Vancouver-Beaverton, OR-WA","Portland-Vancouver-Beaverton, OR-WA, United States of America",12,2014,6,2014
+United States of America,"Salt Lake City, UT","Salt Lake City, UT, United States of America",12,2014,6,2014
+United States of America,"Tampa-St. Petersburg-Clearwater, FL","Tampa-St. Petersburg-Clearwater, FL, United States of America",12,2014,6,2014
+United States of America,"San Jose-Sunnyvale-Santa Clara, CA","San Jose-Sunnyvale-Santa Clara, CA, United States of America",12,2014,6,2014
+United States of America,"Worcester, MA","Worcester, MA, United States of America",12,2014,6,2014
+United States of America,"Concord, NH","Concord, NH, United States of America",12,2014,6,2014
+United States of America,"Fort Collins-Loveland, CO","Fort Collins-Loveland, CO, United States of America",12,2014,6,2014
+United States of America,"Grand Island, NE","Grand Island, NE, United States of America",12,2014,6,2014
+United States of America,"Seattle-Tacoma-Bellevue, WA","Seattle-Tacoma-Bellevue, WA, United States of America",11,2014,6,2014
+United States of America,"Albuquerque, NM","Albuquerque, NM, United States of America",11,2014,6,2014
+United States of America,"Orlando-Kissimmee, FL","Orlando-Kissimmee, FL, United States of America",11,2014,6,2014
+United States of America,"Bennington, VT","Bennington, VT, United States of America",11,2014,6,2014
+United States of America,"Brigham City, UT","Brigham City, UT, United States of America",11,2014,6,2014
+United States of America,"Lebanon, NH-VT","Lebanon, NH-VT, United States of America",11,2014,6,2014
+United States of America,"Rochester, MN","Rochester, MN, United States of America",11,2014,6,2014
+United States of America,"Yuma, AZ","Yuma, AZ, United States of America",11,2014,6,2014
+United States of America,"Logan, UT-ID","Logan, UT-ID, United States of America",11,2014,6,2014
+United States of America,"Manistee,Manistee,MI","Manistee,Manistee,MI, United States of America",11,2014,6,2014
+United States of America,"Sault Ste. Marie, MI","Sault Ste. Marie, MI, United States of America",11,2014,6,2014
+United States of America,"St. Cloud, MN","St. Cloud, MN, United States of America",11,2014,6,2014
+United States of America,"Williston, ND","Williston, ND, United States of America",11,2014,6,2014
+United States of America,"Miami-Fort Lauderdale-Pompano Beach, FL","Miami-Fort Lauderdale-Pompano Beach, FL, United States of America",11,2014,6,2014
+United States of America,"Corning, NY","Corning, NY, United States of America",11,2014,6,2014
+United States of America,"Rapid City, SD","Rapid City, SD, United States of America",11,2014,6,2014
+United States of America,"Cape Coral-Fort Myers, FL","Cape Coral-Fort Myers, FL, United States of America",11,2014,6,2014
+United States of America,"Mount Vernon-Anacortes, WA","Mount Vernon-Anacortes, WA, United States of America",11,2014,6,2014
+United States of America,"Not in a City,Powder River,MT","Not in a City,Powder River,MT, United States of America",11,2014,6,2014
+United States of America,"Pittsfield, MA","Pittsfield, MA, United States of America",11,2014,6,2014
+United States of America,"Manchester-Nashua, NH","Manchester-Nashua, NH, United States of America",10,2014,5,2014
+United States of America,"Springfield, MA","Springfield, MA, United States of America",10,2014,5,2014
+United States of America,"Tucson, AZ","Tucson, AZ, United States of America",10,2014,5,2014
+United States of America,"Marshall, MN","Marshall, MN, United States of America",10,2014,5,2014
+United States of America,"Providence-New Bedford-Fall River, RI-MA","Providence-New Bedford-Fall River, RI-MA, United States of America",10,2014,5,2014
+United States of America,"Colorado Springs, CO","Colorado Springs, CO, United States of America",10,2014,5,2014
+United States of America,"Pueblo, CO","Pueblo, CO, United States of America",10,2014,5,2014
+United States of America,"Cadillac, MI","Cadillac, MI, United States of America",10,2014,5,2014
+United States of America,"Carson City, NV","Carson City, NV, United States of America",10,2014,5,2014
+United States of America,"Not in a City,Rosebud,MT","Not in a City,Rosebud,MT, United States of America",10,2014,5,2014
+United States of America,"Ukiah, CA","Ukiah, CA, United States of America",10,2014,5,2014
+United States of America,"Not in a City,Sublette,WY","Not in a City,Sublette,WY, United States of America",9,2014,5,2014
+United States of America,"Santa Cruz-Watsonville, CA","Santa Cruz-Watsonville, CA, United States of America",9,2014,5,2014
+United States of America,"Sheridan, WY","Sheridan, WY, United States of America",9,2014,5,2014
+United States of America,"Burlington-South Burlington, VT","Burlington-South Burlington, VT, United States of America",9,2014,5,2014
+United States of America,"Helena, MT","Helena, MT, United States of America",9,2014,5,2014
+United States of America,"Torrington, CT","Torrington, CT, United States of America",9,2014,5,2014
+United States of America,"Anchorage, AK","Anchorage, AK, United States of America",9,2014,5,2014
+United States of America,"Brainerd, MN","Brainerd, MN, United States of America",9,2014,5,2014
+United States of America,"Fargo, ND-MN","Fargo, ND-MN, United States of America",9,2014,4,2014
+United States of America,"Not in a City,Oliver,ND","Not in a City,Oliver,ND, United States of America",8,2014,4,2014
+United States of America,"Salinas, CA","Salinas, CA, United States of America",8,2014,4,2014
+United States of America,"Bremerton-Silverdale, WA","Bremerton-Silverdale, WA, United States of America",8,2014,4,2014
+United States of America,"Redding, CA","Redding, CA, United States of America",8,2014,4,2014
+United States of America,"Bismarck, ND","Bismarck, ND, United States of America",8,2014,4,2014
+United States of America,"Laconia, NH","Laconia, NH, United States of America",8,2014,4,2014
+United States of America,"Not in a City,Mercer,ND","Not in a City,Mercer,ND, United States of America",8,2014,4,2014
+United States of America,"Watertown, SD","Watertown, SD, United States of America",8,2014,4,2014
+United States of America,"Kapaa, HI","Kapaa, HI, United States of America",8,2014,4,2014
+United States of America,"Not in a City,Hancock,ME","Not in a City,Hancock,ME, United States of America",8,2014,4,2014
+United States of America,"Not in a City,Lake,MN","Not in a City,Lake,MN, United States of America",8,2014,4,2014
+United States of America,"Not in a City,Phillips,MT","Not in a City,Phillips,MT, United States of America",8,2014,4,2014
+United States of America,"Gillette, WY","Gillette, WY, United States of America",7,2014,4,2014
+United States of America,"Not in a City,Dunn,ND","Not in a City,Dunn,ND, United States of America",7,2014,4,2014
+United States of America,"Not in a City,Fergus,MT","Not in a City,Fergus,MT, United States of America",7,2014,4,2014
+United States of America,"Not in a City,Jackson,SD","Not in a City,Jackson,SD, United States of America",7,2014,4,2014
+United States of America,"Honolulu, HI","Honolulu, HI, United States of America",7,2014,4,2014
+United States of America,"Eureka-Arcata-Fortuna, CA","Eureka-Arcata-Fortuna, CA, United States of America",7,2014,4,2014
+United States of America,"Clearlake, CA","Clearlake, CA, United States of America",7,2014,4,2014
+United States of America,"Dickinson, ND","Dickinson, ND, United States of America",7,2014,4,2014
+United States of America,"Not in a City,Burke,ND","Not in a City,Burke,ND, United States of America",7,2014,4,2014
+United States of America,"Battlement Mesa,Garfield,CO","Battlement Mesa,Garfield,CO, United States of America",7,2014,3,2014
+United States of America,"Farmington, NM","Farmington, NM, United States of America",6,2014,3,2014
+United States of America,"Cheyenne, WY","Cheyenne, WY, United States of America",6,2014,3,2014
+United States of America,"Not in a City,Essex,NY","Not in a City,Essex,NY, United States of America",6,2014,3,2014
+United States of America,"Not in a City,McKenzie,ND","Not in a City,McKenzie,ND, United States of America",5,2014,3,2014
+United States of America,"Not in a City,Custer,SD","Not in a City,Custer,SD, United States of America",4,2014,2,2014
+United States of America,"Not in a City,Converse,WY","Not in a City,Converse,WY, United States of America",4,2014,2,2014
+United States of America,"Wenden, AZ","Wenden, AZ, United States of America",3,2014,2,2014
+United States of America,"Sinclair,Carbon,WY","Sinclair,Carbon,WY, United States of America",2,2014,1,2014
+Uruguay,Montevideo,"Montevideo, Uruguay",25,2014,8,2014
+"Venezuela, Bolivarian Republic of",Caracas,"Caracas, Venezuela, Bolivarian Republic of",47,2011,25,2011
